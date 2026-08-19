@@ -120,7 +120,19 @@ def projects():
     rows.sort(key=lambda r: r.get('date_start',''), reverse=True)
     write('projects.csv', rows, list(rows[0].keys()))
 
+
+# --- 학회 / 수상 / 특허 (사이트 페이지에서 파싱) ---------------------------------
+def passthrough(src, dst, sort_key=None, reverse=True):
+    if not os.path.exists(os.path.join(SRC, src)):
+        print(f'  (건너뜀) {src} 없음'); return
+    rows = read(src)
+    if sort_key: rows.sort(key=sort_key, reverse=reverse)
+    write(dst, rows, list(rows[0].keys()))
+
 if __name__ == '__main__':
     print('data/ -> site/_data/ 변환')
     members(); news(); journals(); projects()
+    passthrough('Conference.csv', 'conference.csv', lambda r: (r['Year'], r['Type']))
+    passthrough('Awards.csv',     'awards.csv',     lambda r: r['Year'])
+    passthrough('Patents.csv',    'patents.csv',    lambda r: (r['Year'], r['Number']))
     print('완료')

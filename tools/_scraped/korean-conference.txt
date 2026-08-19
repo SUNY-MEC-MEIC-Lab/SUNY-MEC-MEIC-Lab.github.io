@@ -1,0 +1,107 @@
+-->
+ Korean Conference | MEIC Laboratory 
+ top of page 
+ RESEARCH 
+ Overview 
+ Neural Rendering & Spatial AI Group 
+ PDI & Multimodal AI Group 
+ PIA & Embodied AI Group 
+ PEOPLE 
+ Professor 
+ Members 
+ PROJECT 
+ PUBLICATION 
+ Journal 
+ Intl. Conference 
+ Korean Conference 
+ Patents 
+ Awards 
+ NEWS 
+ GALLERY 
+ CONTACT 
+ SPIN-OFF COMPANY 
+ MEIC AI 
+ PUBLICATION 
+ Korean Conference 
+ 2025 
+ 2024 
+ 2023 
+ 2022 
+ (PHM Korea 2025) PHM Korea 2025 정기학술대회 
+ Interpretable Surrogate via Lagrangian Energy Heads 
+ Hansol Lim, Jongseong Brad Choi 
+ (PHM Korea 2025) PHM Korea 2025 정기학술대회 
+ Linear Optimization Strategy for Individual Battery Cell Power Controller to Extend its Remaining Useful Life using PHM 
+ Jonathan Boyack, Hansol Lim, Jongseong Brad Choi 
+ (PHM Korea 2025) PHM Korea 2025 정기학술대회 
+ An Integrated Framework for Object Reconstruction with 3D Gaussian Splatting and Reinforcement-Learned Sliding Mode Landing Control 
+ Sooyeun Yang, Jongseong Brad Choi 
+ (PHM Korea 2025) PHM Korea 2025 정기학술대회 
+ ROS-Based PTZ Camera System for Visual Monitoring in PHM 
+ Alfredo Valenzuela, Hugo Zuniga, Felipe Zuniga, Jongseong Brad Choi 
+ (PHM Korea 2025) PHM Korea 2025 정기학술대회 
+ PHM-Driven XR-Enabled Sensor Fusion Platform for Remote Structural Health Management and Collaborative Inspection 
+ Hanbeom Chang, Hyeji Chang, Sungwook Choi, Jongseong Brad Choi 
+ (KSME Reliability 2025) Korean Society of Mechanical Engineers(KSME)-Reliability Division 2025 
+ OPTIMIS: Omniverse-Powered 3D Gaussian Splatting 
+ Sooyeun Yang, Jee Won Lee, Hansol Lim, Jongseong Brad Choi 
+ (KSME Reliability 2025) Korean Society of Mechanical Engineers(KSME)-Reliability Division 2025 
+ Physics-Informed Diffusion Models for 2D Head Equation  
+ Hansol Lim, Jee Won Lee, Sooyeun Yang, Jongseong Brad Choi 
+ (KSME Reliability 2025) Korean Society of Mechanical Engineers(KSME)-Reliability Division 2025 
+ Visual Monitoring Assessments System through Robot Operating System (ROS) 
+ Alfredo Valenzuela, Felipe Zuniga, Hugo Zuniga, Jongseong Brad Choi 
+ (KSME Reliability 2025) Korean Society of Mechanical Engineers(KSME)-Reliability Division 2025 
+ Virtual Reality based Remote Controlled Perspective Synchronized Snowplow 
+ Cheyul Im, Hansol Lim, Jongseong Brad Choi 
+ (KSME Reliability 2025) Korean Society of Mechanical Engineers(KSME)-Reliability Division 2025 
+ Remote Collaboration and Real-Time Visualization System Using Mixed Reality: Application in Construction and Industrial Sites 
+ Sungwook Choi, Hanbeom Chang, Jongseong Brad Choi 
+ (KSME Reliability 2025) Korean Society of Mechanical Engineers(KSME)-Reliability Division 2025 
+ NuClearView: Object-Centric 3D Reconstruction and Automated Defect Localization for Nuclear Reactor Inspection 
+ Jee Won Lee, Hansol Lim, Sooyeun Yang, Jongseong Brad Choi, Sang Hyuk Lee, Dongsoo Kang, Hankwang Choi, Yongkyu Kim 
+ PHM Korea 2024 
+ LiDAR-Camera based Real-time 3D Reconstruction with Mixed Reality Visualization 
+ Hanbeom Chang, Soo-Jung Chi, Jongseong Brad Choi, Chul Min Yeum 
+ PHM Korea 2024 
+ ChromaFilter: Color-Based LiDAR Filter for Real-Time Feature Extraction and Optimization 
+ Hansol Lim, Hanbeom Chang, Jongseong Brad Choi 
+ PHM Korea 2024 
+ CNN-Driven Pothole Detection and Road Hazard Localized DB Development 
+ Sooyeun Yang, HOjin Song, Y. Eugene Pak, Jongseong Brad Choi 
+ PHM Korea 2024 
+ Photogrammetry-Based Approach to Indoor Space Digital Twin Model Generation 
+ Yoonseong Kim, Hansol Lim, Jongseong Brad Choi 
+ Joint Academic Conference 2024 by the Chungcheong Branch of the Korean Society of Mechanical Engineers (KSME) & the DX Strategy Research Division of the Korea Institute of Machinery and Materials (KIMM) 
+ Real-Time Digital Twin Registration System for Visual Inspection in Mixed Reality 
+ Hanbeom Chang, Hansol Lim, Jee Won Lee, Sooyeun Yang, Jongseong Brad Choi 
+ Joint Academic Conference 2024 by the Chungcheong Branch of the Korean Society of Mechanical Engineers (KSME) & the DX Strategy Research Division of the Korea Institute of Machinery and Materials (KIMM) 
+ PhysGaussian-Enhanced Digital Twin for Building Safety Assessment 
+ Sooyeun Yang,  Hansol Lim, Jee Won Lee, Hanbeom Chang, Jongseong Brad Choi 
+ Joint Academic Conference 2024 by the Chungcheong Branch of the Korean Society of Mechanical Engineers (KSME) & the DX Strategy Research Division of the Korea Institute of Machinery and Materials (KIMM) 
+ Augmented Reality-Driven Remote Inspection: Head-Movement and Gesture-Based PTZ Camera Control in Real-Time 
+ Jee Won Lee, Hansol Lim, Hanbeom Chang, Sooyeun Yang, Jongseong Brad Choi 
+ Korean Society of Mechanical Engineers(KSME)-Reliability Division 2023 
+ SLAM for Skid-Steering Mobile Robot Systems 
+ Hansol Lim, Pureon Jeong, Jimin Shin, Jongseong Brad Choi 
+ Korean Society of Mechanical Engineers(KSME)-Reliability Division 2023 
+ Automated Pan-Tilt-Zoom Camera Control Enabling Long-Range Visual Exploration for Extraterrestrial Missions 
+ Hanbeom Chang, Jee Won Lee, Jongseong Brad Choi, Chul Min Yeum 
+ PHM Korea 2023 
+ Real-Time, Non-Intrusive Inspection of Structures and Machines Using Visual Analytics and SfM-Based Digital Twin Generation 
+ Hansol Lim, Jongseong Brad Choi 
+ PHM Korea 2023 
+ Locally Update Scenes to Enable a User-Guided Path Planning 
+ Alfredo Valenzuela, Jongseong Brad Choi 
+ Korean Society of Mechanical Engineers(KSME)-Reliability Division 2023 
+ Localize Map Update Mobile App to Enable construction Sites Monitoring: User-Guided Path Generation for Robot Operation 
+ Alfredo Valenzuela,  Ricardo Ortiz, Sambridha Bhattarai, Jongseong Brad Choi 
+ Korean Society of Mechanical Engineers(KSME)-Reliability Division 2023 
+ Human-Machine Collaborative Platform in Metaverse 
+ Hanbeom Chang, Jaewon Lee, Danielle Macmaster, Leeroy Makucha, Jongseong Brad Choi, Chul Min Yeum 
+ PHM Korea 2022 
+  Automated Pan-Tilt-Zoom Camera Control to Enable Long-Range Visual Assessment and Localization 
+ Jee Won Lee 
+ Mechanical Systems with Intelligence and Computer Vision Lab  
+ MEICLab in 2021 | Designed by Sooyeun Yang & Hajun Jang 
+ bottom of page

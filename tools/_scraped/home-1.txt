@@ -1,0 +1,66 @@
+-->
+ MEIC Lab | Mechanical Engineering 
+ top of page 
+ RESEARCH 
+ Overview 
+ Neural Rendering & Spatial AI Group 
+ PDI & Multimodal AI Group 
+ PIA & Embodied AI Group 
+ PEOPLE 
+ Professor 
+ Members 
+ PROJECT 
+ PUBLICATION 
+ Journal 
+ Intl. Conference 
+ Korean Conference 
+ Patents 
+ Awards 
+ NEWS 
+ GALLERY 
+ CONTACT 
+ SPIN-OFF COMPANY 
+ MEIC AI 
+ INTRODUCTION 
+ MEIC Lab works for establishing academic foundation to apply neural rendering based visual intelligence to engineering, industry, and public fields including reliability prediction of systems and structures, maintenance, remote sensing, and sustainable city applications. 
+ Representative Technologies: 
+ Visual Intelligence based Hyer-realistic Digital Twin Modeling and Rendering 
+ Remote Sensing through Human-machine Collaboration via Metaverse and Teleoperation 
+ Virtual Sensing based SDK System for Future Vehicle 
+ Homogeneous/heterogeneous vision sensing and 3D recognition. 
+ MEIC 연구실은 신경 렌더링 기반의 시각 지능 기술을 공학, 산업, 공공 분야에 적용하기 위한 학문적 기반을 구축하는 데 주력하고 있습니다. 주요 적용 분야에는 시스템 및 구조물의 신뢰성 예측, 유지보수, 원격 센싱, 지속가능한 도시 구축 등이 포함됩니다. 
+ 주요 기술: 
+ 시각 지능 기반 초실감 디지털 트윈 모델링 및 렌더링 
+ 메타버스 및 원격조작 기반 인간-기계 협업을 통한 원격 센싱 
+ 미래형 차량을 위한 가상 센싱 기반 SDK 시스템 
+ 동종/이종 비전 센서 기반의 3D 인식 기술 
+ News 
+ External 
+ Internal 
+ Read Our News
+ VIEW ALL 
+ Read Our News
+ VIEW ALL 
+ ANNOUNCEMENT 
+ We are looking for postdocs and graduate students (Ph.D. or Direct Ph.D.) who will explore cutting-edge smart structure topics, particularly in computer vision for structure assessment and virtual reality (VR, AR, & MR) applications. It is preferred that students have taken courses related to computer vision or machine learning and have a programming background such as languages (e.g., Python, C++/C#), web service (e.g., AWS, Azure), and software (e.g., Unity, 3D modeling software). For more information, please contact Prof. Choi at  jongseong.choi@stonybrook.edu 
+ RESEARCH DETAILS 
+ JOURNALS 
+ CONFERENCES 
+ PATENTS 
+ AWARDS 
+ Read Our Journals
+ VIEW ALL 
+ VIEW ALL 
+ International Conference
+ VIEW ALL 
+ Korean Conference
+ VIEW ALL 
+ VIEW ALL 
+ MORE RESEARCH VIDEOS ARE ON MEICLAB YOUTUBE CHANNEL 
+ Explore 
+ MEIC GALLERY
+ MEIC GALLERY MEIC GALLERY MEIC GALLERY 
+ Sponsors 
+ Mechanical Systems with Intelligence and Computer Vision Lab  
+ MEICLab in 2021 | Designed by Sooyeun Yang & Hajun Jang 
+ bottom of page

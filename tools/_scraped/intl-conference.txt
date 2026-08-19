@@ -1,0 +1,91 @@
+-->
+ Intl. Conference | MEIC Laboratory 
+ top of page 
+ RESEARCH 
+ Overview 
+ Neural Rendering & Spatial AI Group 
+ PDI & Multimodal AI Group 
+ PIA & Embodied AI Group 
+ PEOPLE 
+ Professor 
+ Members 
+ PROJECT 
+ PUBLICATION 
+ Journal 
+ Intl. Conference 
+ Korean Conference 
+ Patents 
+ Awards 
+ NEWS 
+ GALLERY 
+ CONTACT 
+ SPIN-OFF COMPANY 
+ MEIC AI 
+ PUBLICATION 
+ Intl. Conference 
+ 2025 
+ 2024 
+ 2023 
+ 2022 
+ 2021 
+ (ICROS 2025) Institute of Control, Robotics and Systems 2025 
+ Transformer Attention based Parameter Estimation of Electric Vehicle 
+ Hansol Lim, Jongseong Brad Choi 
+ (WCNDT 2024) 20th World Conference on Non-Destructive Testing 
+ (Invited) Visual Analytics and Human-Machine Collaborative Remote Assessment Approach for Infrastructure Management 
+ Jongseong Brad Choi 
+ (WCNDT 2024) 20th World Conference on Non-Destructive Testing 
+ Enhanced Construction Site Monitoring with RTK-GPS Guided Unmanned Mobile Robot and Mapping API Integration 
+ Ricardo Ortiz, Alfredo Valenzuela, Jongseong Brad Choi 
+ (WCNDT 2024) 20th World Conference on Non-Destructive Testing 
+ LiDAR Reinforced 3D Gaussian Splatting for Accurate Digital Twins 
+ Hansol Lim, Jongseong Brad Choi 
+ (WCNDT 2024) 20th World Conference on Non-Destructive Testing 
+ Data Localization on a Digital Twin Model to Enable Remote Assessment: Implementation on a Full-Scale Ship Engine 
+ Joanthan Boyack, Hansol Lim, Alfredo Valenzuela, Hanbeom Chang, Jongseong Brad Choi 
+ (WCNDT 2024) 20th World Conference on Non-Destructive Testing 
+ Digital Twin Platform for Remote Assessment: Application in Extensive Ship Engine Inspection 
+ Hanbeom Chang, Ricardo Ortiz, Jongseong Brad Choi, Chul Min Yeum 
+ (WCNDT 2024) 20th World Conference on Non-Destructive Testing 
+ Remote Monitoring Assessment Through Pan-Tilt-Zoom Automated Camera Control 
+ Alfredo Valenzuela,  Jee Won Lee, Ricardo Ortiz, Jongseong Brad Choi, Chul Min Yeum 
+ (RiTA 2024) 12th International Conference on Robot Intelligence Technology and Applications 
+ Transforming SLAM Data into 3D Gaussian Splatting Models 
+ Hansol Lim, Hanbeom Chang, Jongseong Brad Choi 
+ (ETCM 2024) IEEE Ecuador Technical Chapters Meeting 2024 
+ Software Architecture and Simulation Interface for Autonomous Underwater Vehicles 
+ Lesus Davila, Alfredo Valenzuela, Ricardo Ortiz, Jongseong Brad Choi, Francisco Yumbla 
+ (ICMR 2024) 7th International Conference on Materials and Reliability 
+ Development of a 3D Gaussian Splatting Digital Twining Platform for Remote Ship Assessment 
+ Jee Won Lee, Hansol Lim, Jongseong Brad Choi, Sangho Song, Jaechul Park, Hwasup Jang 
+ (ICMR 2024) 7th International Conference on Materials and Reliability 
+ Runge-Kutta Neural Networks as PINN Alternative 
+ Hansol Lim, Jee Won Lee, Jonathan Boyack, Jongseong Brad Choi 
+ (RiTA 2024) 12th International Conference on Robot Intelligence Technology and Application 
+ Real-Time Monitoring of Point Cloud Registration in Mixed Reality 
+ Hanbeom Chang, Hansol Lim, Jongseong Brad Choi 
+ (ASMaS 2023) The 2nd International Conference on Advanced Smart Materials and Structures 
+ An Automated Falling of High-Rise Buildings Using Transfer Learning and Orthophoto Generation 
+ Joanthan Boyack, Jongseong Brad Choi 
+ (ASMaS 2023) The 2nd International Conference on Advanced Smart Materials and Structures 
+ Development of RTK-GPS engaged Autonomous Mobility: Implementation and Analysis for Structural Health Monitoring Application 
+ Ricardo Ortiz, Alfredo Valenzuela, Jongseong Brad Choi 
+ (AeroNDT 2023) The 14th International Symposium on NDT in Aerospace 
+ Region of Interest Locator with Digital Twin Model Generation of Large-Scale Facility 
+ Jonathan Boyack, Hansol Lim, Alfredo Valenzuela, Jongseong Brad Choi, Sangho Song, Yongseuk Choi, Dongguk Im 
+ (AeroNDT 2023) The 14th International Symposium on NDT in Aerospace 
+ Automated Pan-Tilt-Zoom Camera Control to Enable Monitoring Assessment 
+ Alfredo Valenzuela, Jee Won Lee, Chul Min Yeum, Ricardo Ortiz, Jongseong Brad Choi 
+ (AeroNDT 2023) The 14th International Symposium on NDT in Aerospace 
+ Digital Twin Platform Engaged Remote Assessment: Full-Scale Ship Engine Inspection Application 
+ Hanbeom Chang, Jongseong Brad Choi, Sangho Song, Ricardo Ortiz, Yongseuk Choi, Dongguk Im, Chul Min Yeum 
+ (AeroNDT 2023) The 14th International Symposium on NDT in Aerospace 
+ Real-Time 3D Video Generation Using NeRF 
+ Hansol Lim, Jongseong Brad Choi 
+ Not Available
+ (PHMAP2021) Third Asia Pacific Conference of the PHM Society 2021 
+ Machine Learning Approach for a Rapid Falling Hazard Assessment on High-Rise Buildings 
+ Joanthan Boyack, Jongseong Brad Choi 
+ Mechanical Systems with Intelligence and Computer Vision Lab  
+ MEICLab in 2021 | Designed by Sooyeun Yang & Hajun Jang 
+ bottom of page

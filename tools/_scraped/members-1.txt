@@ -1,0 +1,277 @@
+-->
+ Members (List) | MEIC Laboratory 
+ top of page 
+ RESEARCH 
+ Overview 
+ Neural Rendering & Spatial AI Group 
+ PDI & Multimodal AI Group 
+ PIA & Embodied AI Group 
+ PEOPLE 
+ Professor 
+ Members 
+ PROJECT 
+ PUBLICATION 
+ Journal 
+ Intl. Conference 
+ Korean Conference 
+ Patents 
+ Awards 
+ NEWS 
+ GALLERY 
+ CONTACT 
+ SPIN-OFF COMPANY 
+ MEIC AI 
+ Members List 
+ Newton Toledo 
+ Education 
+ B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2026 
+ Research Interest 
+ natoledo@espol.edu.ec 
+ Mario Hernan Viteri Villarreal 
+ Education 
+ B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2026 
+ Research Interest 
+ mhviteri@espol.edu.ec 
+ Jonathan Boyack 
+ Education 
+ Ph.D. Mechanical Engineering SUNY Korea, Stony Brook University, 2025 | M.S. Mechanical Engineering SUNY Korea, Stony Brook University, 2020 | B.S. Mechanical Engineering Brigham Young University, 2017 
+ Research Interest 
+ Structural Health Monitoring | Computer Vision | Visual Analytics | Electric Vehicle System Optimization | Deep Learning 
+ jonathan.boyack@stonybrook.edu 
+ Ricardo Ortiz 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2023 | B.S. in Mechanical Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2020 
+ Research Interest 
+ Autonomous driving | Robot Localization | Vision Sensing and Control | 6 DoF Robot Arm Control 
+ ricardo.ortiz@stonybrook.edu 
+ Hansol Lim 
+ Education 
+ M.S. in Mechanical Engineering State University of New York, Korea, 2024 | B.E. in Mechanical Engineering , State University of New York, Korea, 2022 | B.E. in Applied Mathematics, State University of New York, Korea, 2022 
+ Research Interest 
+ Digital Twin | Radiance Field Rendering | Physics-Informed Neural Network | Deep Learning | Vision Sensing and Control 
+ hansol.lim@stonybrook.edu 
+ Alfredo Valenzuela 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2024 | B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2022 
+ Research Interest 
+ AI | Data Science | Computer Vision | Embedded System | Pan-Tilt-Zoom Motor Control 
+ alfredojavier.valenzuelabustos@stonybrook.edu 
+ Jeewon Lee 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2025 | B.E. in Mechanical Engineering, State University of New York, Korea 2021 
+ Research Interest 
+ AI | Computer Vision | Embedded System | Digital Twin | Deep Learning 
+ jeewon.lee@stonybrook.edu 
+ Sooyeun Yang 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2024 
+ Research Interest 
+ Digital Twin 
+ sooyeun.yang@stonybrook.edu 
+ Hyeoji Jang 
+ Education 
+ B.S. in Computer Science, Sookmyung Women's University 
+ Research Interest 
+ Robot Localization | Vision Sensing and Controol 
+ hyeoji.chang@stonybrook.edu 
+ Nahyun Kim 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Structure Health Monitoring | Metaverse | Vision Sensing and Control | RGB-LiDAR Sensing | Digital Twin 
+ nahyun.kim.4@stonybrook.edu 
+ Minhyeok Im 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Computer Vision | Machine & Deep Learning 
+ minhyeok.im@stonybrook.edu 
+ Semin Bae 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Augmented & Virtual Reality | Digital Twin 
+ semin.bae@stonybrook.edu 
+ Sungwook Choi 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ AR & VR & MR & XR | Computer Vision | Robotics | ROS | Physics-Informed Neural Network 
+ sungwook.choi@stonybrook.edu 
+ Cheyul Im 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Physics-Informed Machine Learning | Computer Vision | Digital Twin 
+ cheyul.im@stonybrook.edu 
+ Sunghoon Jeong 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Physics-Informed Machine Learning | Computer Vision | Digital Twin 
+ sunghoon.jeong@stonybrook.edu 
+ Sanha Jang 
+ Education 
+ Research Interest 
+ sanha.jang@stonybrook.edu 
+ Jangheum Park 
+ Education 
+ Research Interest 
+ park.janheum@stonybrook.edu 
+ Andrew Kim 
+ Education 
+ Research Interest 
+ andrew.kim.12@stonybrook.edu 
+ Christopher Song 
+ Education 
+ Research Interest 
+ Christopher.song@stonybrook.edu 
+ Jaesuk Song 
+ Education 
+ Research Interest 
+ jaesuk.song@stonybrook.edu 
+ Justin Kim 
+ Education 
+ Research Interest 
+ justin.kim.1@stonybrook.edu 
+ Jeonghwan Jeikal 
+ Education 
+ Research Interest 
+ jeonghwan.jeikal@stonybrook.edu 
+ Hajun Jang 
+ Education 
+ Research Interest 
+ hajun.jang@stonybrook.edu 
+ Eunha Choi 
+ Education 
+ Research Interest 
+ eunha.choi@stonybrook.edu 
+ Dohyeon Lee 
+ Education 
+ Research Interest 
+ dohyeon.lee@stonybrook.edu 
+ Seungho Jun 
+ Education 
+ Undergrad Student Computer Science, Stony Brook University 
+ Research Interest 
+ seongho.jun@stonybrook.edu 
+ Hawon Park 
+ Education 
+ M.S. in Computer Science, SUNY Korea, Stony Brook University | B.S. in Computer Science, SUNY Korea, Stony Brook University 
+ Research Interest 
+ hawon.park@gmail.com 
+ Shubhangi Saileja R. Garnaik 
+ Education 
+ M.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ shubhangisaile.garnaik@stonybrook.edu 
+ Hugo Zuniga 
+ Education 
+ B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2026 
+ Research Interest 
+ vhzuniga@espol.edu.ec 
+ Felipe Zuniga 
+ Education 
+ B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2026 
+ Research Interest 
+ vfzuniga14@gmail.com 
+ Lesus Aguilla 
+ Education 
+ B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2025 
+ Research Interest 
+ irdavila@espol.edu.ec 
+ Geonwoo Kim 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Hanbeom Chang 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2025 | B.E. in Mechanical Engineering, State University of New York, Korea 2021 
+ Research Interest 
+ Daeryun Choi 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Research Interest 
+ Mijin Lee 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Research Interest 
+ Jungmin Lee 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Research Interest 
+ Eunjae Lee 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Research Interest 
+ Soojung Chi 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Research Interest 
+ Hojin Song 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Research Interest 
+ Hyobin Shin 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Research Interest 
+ Yoonseong Kim 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Research Interest 
+ Sambridha Bhattarai 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Research Interest 
+ Leeroy Makusha 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2023 
+ Research Interest 
+ Danielle Macmaster 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2023 
+ Research Interest 
+ Jaewon Lee 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2023 
+ Research Interest 
+ Yijoo Um 
+ Education 
+ None 
+ Research Interest 
+ Seunghyun Cha 
+ Education 
+ B.E. in Mechanical Engineering , SUNY Korea Stony Brook, 2022 
+ Research Interest 
+ Jimin Shin 
+ Education 
+ B.E. in Mechanical Engineering , SUNY Korea Stony Brook, 2022 
+ Research Interest 
+ Pureun Jeong 
+ Education 
+ B.E. in Mechanical Engineering , SUNY Korea Stony Brook, 2023 
+ Research Interest 
+ Hojung Lim 
+ Education 
+ None 
+ Research Interest 
+ Hyeji Chang 
+ Education 
+ B.S. in Mechanical Engineering , Georgia Inst. of Tech. | Transferred on Aug. 2021 
+ Research Interest 
+ Sooyon Chang 
+ Education 
+ B.E. in Mechanical Engineering , SUNY Korea Stony Brook, 2021 
+ Research Interest 
+ Hyun Seung Cha 
+ Education 
+ B.E. in Mechanical Engineering 
+ Research Interest 
+ Prince-David Malendele 
+ Education 
+ B.E. in Mechanical Engineering , SUNY Korea Stony Brook, 2021 
+ Research Interest 
+ Mechanical Systems with Intelligence and Computer Vision Lab  
+ MEICLab in 2021 | Designed by Sooyeun Yang & Hajun Jang 
+ bottom of page

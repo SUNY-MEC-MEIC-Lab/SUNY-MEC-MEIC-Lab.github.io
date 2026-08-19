@@ -1,0 +1,21 @@
+---
+layout: page
+title: Awards
+eyebrow: Publication
+permalink: /publication/awards/
+---
+{% assign years = site.data.awards | map: "Year" | uniq | sort | reverse %}
+{% for y in years %}
+<div class="section-label">{{ y }}</div>
+{% assign group = site.data.awards | where: "Year", y %}
+{% for a in group %}
+<article class="pub">
+  <div class="pub-body">
+    <p class="pub-title">&lt; {{ a.Organization }} &gt; {{ a.Award }}</p>
+    <p class="pub-authors">{{ a.Recipients }}</p>
+    {% if a.Work != "" %}<p class="pub-venue">{{ a.Work }}</p>{% endif %}
+    <p class="pub-venue">{{ a.Date }}</p>
+  </div>
+</article>
+{% endfor %}
+{% endfor %}

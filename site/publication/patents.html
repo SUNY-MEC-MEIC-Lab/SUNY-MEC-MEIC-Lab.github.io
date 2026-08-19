@@ -1,0 +1,20 @@
+---
+layout: page
+title: Patents
+eyebrow: Publication
+permalink: /publication/patents/
+---
+{% assign years = site.data.patents | map: "Year" | uniq | sort | reverse %}
+{% for y in years %}
+<div class="section-label">{{ y }}</div>
+{% assign group = site.data.patents | where: "Year", y %}
+{% for p in group %}
+<article class="pub">
+  <div class="pub-body">
+    <p class="pub-title">{{ p.TitleKR }}</p>
+    {% if p.TitleEN != "" %}<p class="pub-authors">{{ p.TitleEN }}</p>{% endif %}
+    <p class="pub-venue">{{ p.Status }} 번호: {{ p.Number }}</p>
+  </div>
+</article>
+{% endfor %}
+{% endfor %}

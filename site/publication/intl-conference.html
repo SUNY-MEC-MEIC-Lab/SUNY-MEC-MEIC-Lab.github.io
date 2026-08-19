@@ -1,0 +1,21 @@
+---
+layout: page
+title: Intl. Conference
+eyebrow: Publication
+permalink: /publication/intl-conference/
+---
+{% assign items = site.data.conference | where: "Type", "International" %}
+{% assign years = items | map: "Year" | uniq | sort | reverse %}
+{% for y in years %}
+<div class="section-label">{{ y }}</div>
+{% assign group = items | where: "Year", y %}
+{% for c in group %}
+<article class="pub">
+  <div class="pub-body">
+    <p class="pub-title">{{ c.Title }}</p>
+    <p class="pub-authors">{{ c.Authors }}</p>
+    <p class="pub-venue">({{ c.VenueAbbr }}) {{ c.Venue }}</p>
+  </div>
+</article>
+{% endfor %}
+{% endfor %}

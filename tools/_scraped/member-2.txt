@@ -1,0 +1,332 @@
+-->
+ Member | MEIC Laboratory 
+ top of page 
+ RESEARCH 
+ Overview 
+ Neural Rendering & Spatial AI Group 
+ PDI & Multimodal AI Group 
+ PIA & Embodied AI Group 
+ PEOPLE 
+ Professor 
+ Members 
+ PROJECT 
+ PUBLICATION 
+ Journal 
+ Intl. Conference 
+ Korean Conference 
+ Patents 
+ Awards 
+ NEWS 
+ GALLERY 
+ CONTACT 
+ SPIN-OFF COMPANY 
+ MEIC AI 
+ PEOPLE 
+ Member 
+ ALL 
+ Postdoctoral Researcher 
+ Ph.D Students 
+ MS Students 
+ Undergrads 
+ Internship Program 
+ Jonathan Boyack 
+ Education 
+ Ph.D. Mechanical Engineering SUNY Korea, Stony Brook University, 2025
+ M.S. Mechanical Engineering SUNY Korea, Stony Brook University, 2020 
+ B.S. Mechanical Engineering Brigham Young University, 2017 
+ Research Interest 
+ Structural Health Monitoring  
+ Computer Vision 
+ Visual Analytics 
+ Electric Vehicle System Optimization 
+ Deep Learning 
+ Email: jonathan.boyack@stonybrook.edu 
+ Ricardo Ortiz 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2023 
+ B.S. in Mechanical Engineering, Escuela Superior Politecnica del Litoral, 2020 
+ Research Interest 
+ Autonomous driving 
+ Robot Localization 
+ Vision Sensing and Control 
+ 6 DoF Robot Arm Control 
+ Email: ricardo.ortiz@stonybrook edu 
+ Jee Won Lee 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2025 
+ B.E. in Mechanical Engineering, State University of New York, Korea 2021 
+ Research Interest 
+ AI 
+ Computer Vision 
+ Embedded System 
+ Digital Twin 
+ Deep Learning 
+ Email: jeewon.lee@stonybrook.edu 
+ Alfredo Valenzuela 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2024 
+ B.S. in Mechatronics  Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2022 
+ Research Interest 
+ AI 
+ Data Science 
+ Computer Vision 
+ Embedded System 
+ Pan-Tilt-Zoom Motor Control 
+ Email: alfredojavier.valenzuelabustos@stonybrook.edu 
+ Hansol Lim 
+ Education 
+ M.S. in Mechanical Engineering State University of New York, Korea, 2024 
+ B.E. in Mechanical Engineering, State University of New York, Korea, 2022 
+ B.E. in Applied Mathematics, State University of New York, Korea, 2022 
+ Research Interest 
+ Digital Twin 
+ Physics-Informed Machine Learning 
+ Optimal Control 
+ Radiance Field Rendering  
+ Email: hansol.lim@stonybrook.edu 
+ Sooyeun Yang 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2024 
+ Research Interest 
+ Digital Twin 
+ Vision Sensing and Control 
+ Radiance Field Rendering 
+ 3D Reconstruction 
+ Email: sooyeun.yang@stonybrook.edu 
+ Minhyeok Im 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Computer Vision 
+ Machine & Deep Learning 
+ Email: minhyeok.im@stonybrook.edu 
+ Cheyul Im 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Physics-Informed Machine Learning 
+ Computer Vision 
+ Digital Twin 
+ Email: cheyul.im@stonybrook.edu 
+ Hyeoji Chang 
+ Education 
+ B.S. in Computer Science, Sookmyung Women's University 
+ Research Interest 
+ Robot Localization 
+ Vision Sensing and Control 
+ Email: hyeoji.chang@stonybrook.edu 
+ Semin Bae 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Augmented & Virtual Reality 
+ Digital Twin 
+ Email: semin.bae@stonybrook.edu 
+ Sunghoon Jeong 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Physics-Informed Machine Learning 
+ Computer Vision 
+ Digital Twin 
+ Email: sunghoon.jeong@stonybrook.edu 
+ Nahyun Kim 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Computer Vision 
+ Software-defined Factory  
+ Embedded Systems 
+ Email: nahyun.kim.4@stonybrook.edu 
+ Sungwook Choi 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ AR & VR & MR & XR 
+ Computer Vision 
+ Robotics 
+ ROS 
+ Physics-Informed Neural Network 
+ Email: sungwook.choi@stonybrook.edu 
+ Sanha Jang 
+ Undergraduate Research Internship 
+ Email: sanha.jang@stonybrook.edu 
+ Christopher Song 
+ Undergraduate Research Internship 
+ Email: Christopher.song@stonybrook.edu 
+ Jeonghwan Jeikal 
+ Undergraduate Research Internship 
+ Email: jeonghwan.jeikal@stonybrook.edu 
+ Jangheum Park 
+ Undergraduate Research Internship 
+ Email: park.jangheum@stonybrook.edu 
+ Jaesuk Song 
+ Undergraduate Research Internship 
+ Email: jaesuk.song@stonybrook.edu 
+ Andrew Kim 
+ Undergraduate Research Internship 
+ Email: andrew.kim.12@stonybrook.edu 
+ Justin Kim 
+ Undergraduate Research Internship 
+ Email: justin.kim.1@stonybrook.edu 
+ Hajun Jang 
+ 2025 Summer Research Internship 
+ Email: hajun.jang@stonybrook.edu 
+ Eunha Choi 
+ 2025 Summer Research Internship 
+ Email: eunha.choi@stonybrook.edu 
+ Dohyeon Lee 
+ 2025 Summer Research Internship 
+ Email: dohyeon.lee@stonybrook.edu 
+ Sooyeun Yang 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2024 
+ Research Interest 
+ Digital Twin 
+ Vision Sensing and Control 
+ Radiance Field Rendering 
+ 3D Reconstruction 
+ Email: sooyeun.yang@stonybrook.edu 
+ Minhyeok Im 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Computer Vision 
+ Machine & Deep Learning 
+ Email: minhyeok.im@stonybrook.edu 
+ Cheyul Im 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Physics-Informed Machine Learning 
+ Computer Vision 
+ Digital Twin 
+ Email: cheyul.im@stonybrook.edu 
+ Hyeoji Chang 
+ Education 
+ B.S. in Computer Science, Sookmyung Women's University 
+ Research Interest 
+ Robot Localization 
+ Vision Sensing and Control 
+ Email: hyeoji.chang@stonybrook.edu 
+ Semin Bae 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Augmented & Virtual Reality 
+ Digital Twin 
+ Email: semin.bae@stonybrook.edu 
+ Sunghoon Jeong 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Physics-Informed Machine Learning 
+ Computer Vision 
+ Digital Twin 
+ Email: sunghoon.jeong@stonybrook.edu 
+ Nahyun Kim 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Computer Vision 
+ Software-defined Factory  
+ Embedded Systems 
+ Email: nahyun.kim.4@stonybrook.edu 
+ Sungwook Choi 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ AR & VR & MR & XR 
+ Computer Vision 
+ Robotics 
+ ROS 
+ Physics-Informed Neural Network 
+ Email: sungwook.choi@stonybrook.edu 
+ Ricardo Ortiz 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2023 
+ B.S. in Mechanical Engineering, Escuela Superior Politecnica del Litoral, 2020 
+ Research Interest 
+ Autonomous driving 
+ Robot Localization 
+ Vision Sensing and Control 
+ 6 DoF Robot Arm Control 
+ Email: ricardo.ortiz@stonybrook edu 
+ Jee Won Lee 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2025 
+ B.E. in Mechanical Engineering, State University of New York, Korea 2021 
+ Research Interest 
+ AI 
+ Computer Vision 
+ Embedded System 
+ Digital Twin 
+ Deep Learning 
+ Email: jeewon.lee@stonybrook.edu 
+ Alfredo Valenzuela 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2024 
+ B.S. in Mechatronics  Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2022 
+ Research Interest 
+ AI 
+ Data Science 
+ Computer Vision 
+ Embedded System 
+ Pan-Tilt-Zoom Motor Control 
+ Email: alfredojavier.valenzuelabustos@stonybrook.edu 
+ Hansol Lim 
+ Education 
+ M.S. in Mechanical Engineering State University of New York, Korea, 2024 
+ B.E. in Mechanical Engineering, State University of New York, Korea, 2022 
+ B.E. in Applied Mathematics, State University of New York, Korea, 2022 
+ Research Interest 
+ Digital Twin 
+ Physics-Informed Machine Learning 
+ Optimal Control 
+ Radiance Field Rendering  
+ Email: hansol.lim@stonybrook.edu 
+ Sanha Jang 
+ Undergraduate Research Internship 
+ Email: sanha.jang@stonybrook.edu 
+ Christopher Song 
+ Undergraduate Research Internship 
+ Email: Christopher.song@stonybrook.edu 
+ Jeonghwan Jeikal 
+ Undergraduate Research Internship 
+ Email: jeonghwan.jeikal@stonybrook.edu 
+ Jangheum Park 
+ Undergraduate Research Internship 
+ Email: park.jangheum@stonybrook.edu 
+ Jaesuk Song 
+ Undergraduate Research Internship 
+ Email: jaesuk.song@stonybrook.edu 
+ Andrew Kim 
+ Undergraduate Research Internship 
+ Email: andrew.kim.12@stonybrook.edu 
+ Justim Kim 
+ Undergraduate Research Internship 
+ Email: justin.kim.1@stonybrook.edu 
+ Hajun Jang 
+ 2025 Summer Research Internship 
+ Email: hajun.jang@stonybrook.edu 
+ Eunha Choi 
+ 2025 Summer Research Internship 
+ Email: eunha.choi@stonybrook.edu 
+ Dohyeon Lee 
+ 2025 Summer Research Internship 
+ Email: dohyeon.lee@stonybrook.edu 
+ Jonathan Boyack 
+ Education 
+ Ph.D. Mechanical Engineering SUNY Korea, Stony Brook University, 2025
+ M.S. Mechanical Engineering SUNY Korea, Stony Brook University, 2020 
+ B.S. Mechanical Engineering Brigham Young University, 2017 
+ Research Interest 
+ Structural Health Monitoring  
+ Computer Vision 
+ Visual Analytics 
+ Electric Vehicle System Optimization 
+ Deep Learning 
+ Email: jonathan.boyack@stonybrook.edu 
+ Mechanical Systems with Intelligence and Computer Vision Lab  
+ MEICLab in 2021 | Designed by Sooyeun Yang & Hajun Jang 
+ bottom of page

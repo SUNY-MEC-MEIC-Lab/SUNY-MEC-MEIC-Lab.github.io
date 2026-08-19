@@ -1,0 +1,347 @@
+-->
+ Members | MEIC Laboratory 
+ top of page 
+ RESEARCH 
+ Overview 
+ Neural Rendering & Spatial AI Group 
+ PDI & Multimodal AI Group 
+ PIA & Embodied AI Group 
+ PEOPLE 
+ Professor 
+ Members 
+ PROJECT 
+ PUBLICATION 
+ Journal 
+ Intl. Conference 
+ Korean Conference 
+ Patents 
+ Awards 
+ NEWS 
+ GALLERY 
+ CONTACT 
+ SPIN-OFF COMPANY 
+ MEIC AI 
+ Postdoctoral Researcher 
+ Jonathan Boyack 
+ Education 
+ Ph.D. Mechanical Engineering SUNY Korea, Stony Brook University, 2025
+ M.S. Mechanical Engineering SUNY Korea, Stony Brook University, 2020
+ B.S. Mechanical Engineering Brigham Young University, 2017
+ Research Interest 
+ Structural Health Monitoring 
+ Computer Vision 
+ Visual Analytics 
+ Electric Vehicle System Optimization 
+ Deep Learning 
+ jonathan.boyack@sto nybrook.edu 
+ Personal Webpage 
+ Ph.D. Students 
+ Ricardo Ortiz  
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2023
+ B.S. in Mechanical Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2020 
+ Research Interest 
+ Autonomous driving 
+ Robot Localization 
+ Vision Sensing and Control 
+ 6 DoF Robot Arm Control 
+ ricardo.ortiz@stonybrook edu 
+ Personal Webpage 
+ Hansol Lim 
+ Education 
+ M.S. in Mechanical Engineering State University of New York, Korea, 2024 
+ B.E. in Mechanical Engineering , State University of New York, Korea, 2022 
+ B.E. in Applied Mathematics,  State University of New York, Korea, 2022 
+ Research Interest 
+ Digital Twin 
+ Radiance Field Rendering 
+ Physics-Informed Neural Network 
+ Deep Learning  
+ Vision Sensing and Control 
+ hansol.lim@stonybrook.edu   
+ Personal Webpage 
+ Alfredo Valenzuela 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2024
+ B.S. in Mechatronics  Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2022 
+ Research Interest 
+ AI 
+ Data Science 
+ Computer Vision 
+ Embedded System 
+ Pan-Tilt-Zoom Motor Control 
+ alfredojavier.valenzuelabustos@stonybrook.edu 
+ Personal Webpage 
+ Jee Won Lee 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2025
+ B.E. in Mechanical Engineering, State University of New York, Korea 2021 
+ Research Interest 
+ AI 
+ Computer Vision 
+ Embedded System 
+ Digital Twin 
+ Deep Learning 
+ jeewon.lee@stonybrook.edu 
+ Personal Webpage 
+ Master Students 
+ Sooyeun Yang 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2024 
+ Research Interest 
+ Digital Twin 
+ sooyeun.yang@stonybrook.edu 
+ Personal Webpage 
+ Hyeoji Jang 
+ Education 
+ B.S. in Computer Science, Sookmyung Women's University 
+ Research Interest 
+ Robot Localization 
+ Vision Sensing and Controol 
+ hyeoji.chang@stonybrook.edu 
+ Personal Webpage 
+ Nahyun Kim  
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Structure Health Monitoring 
+ Metaverse 
+ Vision Sensing and Control 
+ RGB-LiDAR Sensing 
+ Digital Twin 
+ nahyun.kim.4@stonybrook.edu 
+ Personal Webpage 
+ Minhyeok Im  
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Computer Vision 
+ Machine & Deep Learning
+ minhyeok.im@stonybrook.edu 
+ Personal Webpage 
+ Semin Bae  
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Augmented & Virtual Reality 
+ Digital Twin 
+ semin.bae@stonybrook.edu 
+ Personal Webpage 
+ Sungwook Choi  
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ AR & VR & MR & XR 
+ Computer Vision 
+ Robotics 
+ ROS 
+ Physics-Informed Neural Network 
+ sungwook.choi@stonybrook.edu 
+ Personal Webpage 
+ Cheyul Im  
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Physics-Informed Machine Learning 
+ Computer Vision 
+ Digital Twin 
+ cheyul.im@stonybrook.edu 
+ Personal Webpage 
+ Sunghoon Jeong  
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Physics-Informed Machine Learning 
+ Computer Vision 
+ Digital Twin 
+ sunghoon.jeong@stonybrook.edu 
+ Personal Webpage 
+ Undergraduate Students 
+ Sanha Jang 
+ sanha.jang@stonybrook.edu 
+ Personal Webpage 
+ Jangheum Park 
+ park.janheum@stonybrook.edu 
+ Personal Webpage 
+ Andrew Kim 
+ andrew.kim.12@stonybrook.edu 
+ Personal Webpage 
+ Christopher Song 
+ Christopher.song@stonybrook.edu 
+ Personal Webpage 
+ Jaesuk Song 
+ jaesuk.song@stonybrook.edu 
+ Personal Webpage 
+ Justin Kim 
+ justin.kim.1@stonybrook.edu 
+ Personal Webpage 
+ Jeonghwan Jeikal 
+ jeonghwan.jeikal@stonybrook.edu 
+ Personal Webpage 
+ Hajun Jang 
+ hajun.jang@stonybrook.edu 
+ Personal Webpage 
+ Eunha Choi 
+ eunha.choi@stonybrook.edu 
+ Personal Webpage 
+ Dohyeon Lee 
+ dohyeon.lee@stonybrook.edu 
+ Personal Webpage 
+ Visiting Students 
+ Iesus René Dávila Aguilar 
+ Education 
+ B.S. in Mechatronics  Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2025 
+ irdavila@espol.edu.ec 
+ Personal Webpage 
+ Hugo Zuniga 
+ Education 
+ B.S. in Mechatronics  Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2026 
+ vhzuniga@espol.edu.ec 
+ Personal Webpage 
+ Felipe Zuniga 
+ Education 
+ B.S. in Mechatronics  Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2026 
+ vfzuniga14@gmail.com 
+ Personal Webpage 
+ Hawon Park 
+ Education 
+ M.S. in Computer Science, SUNY Korea, Stony Brook University 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University 
+ hawon.park@gmail.com 
+ Personal Webpage 
+ Shubhangi Saileja R. Garnaik 
+ Education 
+ M.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ shubhangisaile.garnaik@stonybrook.edu 
+ Personal Webpage 
+ Seungho Jun 
+ Education 
+ Undergrad Student Computer Science, Stony Brook University 
+ seongho.jun@stonybrook.edu 
+ Personal Webpage 
+ Alumni 
+ Hanbeom Chang 
+ Undergraduate Research Internship 
+ Master's Degree 
+ Graduated on June 2025 
+ SK (주) AX 
+ Personal Webpage 
+ Geonwoo Kim 
+ Undergraduate Research Internship 
+ Graduated on Dec. 2025 
+ NEXTIN, Inc 
+ Personal Webpage 
+ Jungmin Lee 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2024 
+ Senior Project 2024 
+ Hyundai Mobis, USA 
+ Personal Webpage 
+ Mijin Lee 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2024 
+ Senior Project 2024 
+ Personal Webpage 
+ Daeryun Choi 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2024 
+ Senior Project 2024 
+ Master's program at Univ. of Michigan Ann Arbor 
+ Personal Webpage 
+ Hyobin Shin 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2024 
+ Senior Project 2024 
+ Personal Webpage 
+ Soojung Chi 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2024 
+ Undergrad Research Internship 
+ Johnson & Johnson Innovative Medicient, South Korea 
+ Personal Webpage 
+ Eunjae Lee 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2024 
+ Undergrad Research Internship 
+ Personal Webpage 
+ Hojin Song 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2024 
+ Undergrad Research Internship 
+ Currently in military service 
+ Personal Webpage 
+ Yoonseong Kim 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2024 
+ Undergrad Research Internship 
+ Currently working at KITECH 
+ Yonsei University Master's Program 
+ Personal Webpage 
+ Sambridha Bhattarai 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2024 
+ Undergrad Research Internship 
+ Personal Webpage 
+ Danielle Macmaster 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2023 
+ Undergrad Research Internship 
+ Personal Webpage 
+ Leeroy Makusha 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2023 
+ Undergrad Research Internship 
+ Master's program at UT Alington, USA 
+ Personal Webpage 
+ Jaewon Lee 
+ B.S. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2023 
+ Undergrad Research Internship 
+ SUNY Korea Master's Program 
+ Personal Webpage 
+ Pureun Jeong 
+ B.E. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2023 
+ Undergrad Research Internship 
+ Currently working at Yujinrobot 
+ Personal Webpage 
+ Jimin Shin 
+ B.E. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2022 
+ Undergrad Research Internship 
+ Currently working at LS Electronics 
+ Personal Webpage 
+ Seung Hyun Cha 
+ B.E. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2022 
+ Undergrad Research Internship 
+ Personal Webpage 
+ Hyunseung Cha 
+ B.E. in Mechanical Engineering 
+ Undergrad Research Internship 
+ Hyundai Rotem, Co., Ltd., South Korea 
+ Personal Webpage 
+ Sooyon Chang 
+ B.E. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2021 
+ Senior Project 2021 
+ Graduated on Dec. 2021 
+ Master program at Cornell University, USA 
+ Personal Webpage 
+ Prince-David Malendele 
+ B.E. in Mechanical Engineering , 
+ SUNY Korea Stony Brook, 2021 
+ Senior Project 2021 
+ Graduated on Dec. 2021 
+ Brookhaven Natl. Lab., USA 
+ Personal Webpage 
+ Hyejee Chang 
+ B.S. in Mechanical Engineering , 
+ Georgia Inst. of Tech. 
+ Transferred on Aug. 2021 
+ Undergrad Research Internship 
+ LG Innotek 
+ Personal Webpage 
+ Mechanical Systems with Intelligence and Computer Vision Lab  
+ MEICLab in 2021 | Designed by Sooyeun Yang & Hajun Jang 
+ bottom of page

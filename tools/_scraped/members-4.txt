@@ -1,0 +1,402 @@
+-->
+ Members | MEIC Laboratory 
+ top of page 
+ RESEARCH 
+ Overview 
+ Neural Rendering & Spatial AI Group 
+ PDI & Multimodal AI Group 
+ PIA & Embodied AI Group 
+ PEOPLE 
+ Professor 
+ Members 
+ PROJECT 
+ PUBLICATION 
+ Journal 
+ Intl. Conference 
+ Korean Conference 
+ Patents 
+ Awards 
+ NEWS 
+ GALLERY 
+ CONTACT 
+ SPIN-OFF COMPANY 
+ MEIC AI 
+ Members 
+ Alumni 
+ Ph.D. Students 
+ Ricardo Ortiz 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2023 | B.S. in Mechanical Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2020 
+ Research Interest 
+ Autonomous driving | Robot Localization | Vision Sensing and Control | 6 DoF Robot Arm Control 
+ ricardo.ortiz@stonybrook.edu 
+ Alfredo Valenzuela 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2024 | B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2022 
+ Research Interest 
+ AI | Data Science | Computer Vision | Embedded System | Pan-Tilt-Zoom Motor Control 
+ alfredojavier.valenzuelabustos@stonybrook.edu 
+ Hansol Lim 
+ Education 
+ M.S. in Mechanical Engineering State University of New York, Korea, 2024 | B.E. in Mechanical Engineering , State University of New York, Korea, 2022 | B.E. in Applied Mathematics, State University of New York, Korea, 2022 
+ Research Interest 
+ Digital Twin | Radiance Field Rendering | Physics-Informed Neural Network | Deep Learning | Vision Sensing and Control 
+ hansol.lim@stonybrook.edu 
+ Jeewon Lee 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2025 | B.E. in Mechanical Engineering, State University of New York, Korea 2021 
+ Research Interest 
+ AI | Computer Vision | Embedded System | Digital Twin | Deep Learning 
+ jeewon.lee@stonybrook.edu 
+ Master Students 
+ Sooyeun Yang 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2024 
+ Research Interest 
+ Digital Twin 
+ sooyeun.yang@stonybrook.edu 
+ Nahyun Kim 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Structure Health Monitoring | Metaverse | Vision Sensing and Control | RGB-LiDAR Sensing | Digital Twin 
+ nahyun.kim.4@stonybrook.edu 
+ Semin Bae 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Augmented & Virtual Reality | Digital Twin 
+ semin.bae@stonybrook.edu 
+ Cheyul Im 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Physics-Informed Machine Learning | Computer Vision | Digital Twin 
+ cheyul.im@stonybrook.edu 
+ Hyeoji Jang 
+ Education 
+ B.S. in Computer Science, Sookmyung Women's University 
+ Research Interest 
+ Robot Localization | Vision Sensing and Controol 
+ hyeoji.chang@stonybrook.edu 
+ Minhyeok Im 
+ Education 
+ B.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Computer Vision | Machine & Deep Learning 
+ minhyeok.im@stonybrook.edu 
+ Sungwook Choi 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ AR & VR & MR & XR | Computer Vision | Robotics | ROS | Physics-Informed Neural Network 
+ sungwook.choi@stonybrook.edu 
+ Sunghoon Jeong 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Research Interest 
+ Physics-Informed Machine Learning | Computer Vision | Digital Twin 
+ sunghoon.jeong@stonybrook.edu 
+ Undergraduate Students 
+ Sanha Jang 
+ Program 
+ Undergraduate Research Internship 
+ 2025.07 ~ Present 
+ sanha.jang@stonybrook.edu 
+ Andrew Kim 
+ Program 
+ Undergraduate Research Internship 
+ 2026.01 ~ Present 
+ andrew.kim.12@stonybrook.edu 
+ Jaesuk Song 
+ Program 
+ Undergraduate Research Internship 
+ 2026.01 ~ Present 
+ jaesuk.song@stonybrook.edu 
+ Jeonghwan Jeikal 
+ Program 
+ Undergraduate Research Internship 
+ 2026.01 ~ Present 
+ jeonghwan.jeikal@stonybrook.edu 
+ Eunha Choi 
+ Program 
+ Undergraduate Research Internship 
+ 2025.07 ~ Present 
+ eunha.choi@stonybrook.edu 
+ Jangheum Park 
+ Program 
+ Undergraduate Research Internship 
+ 2026.01 ~ Present 
+ park.janheum@stonybrook.edu 
+ Christopher Song 
+ Program 
+ Undergraduate Research Internship 
+ 2026.01 ~ Present 
+ Christopher.song@stonybrook.edu 
+ Justin Kim 
+ Program 
+ Undergraduate Research Internship 
+ 2026.01 ~ Present 
+ justin.kim.1@stonybrook.edu 
+ Hajun Jang 
+ Program 
+ Undergraduate Research Internship 
+ 2025.07 ~ Present 
+ hajun.jang@stonybrook.edu 
+ Dohyeon Lee 
+ Program 
+ Undergraduate Research Internship 
+ 2025.07 ~ Present 
+ dohyeon.lee@stonybrook.edu 
+ Visiting Students 
+ Newton Toledo 
+ Education 
+ B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2026 
+ Program 
+ PTZ camera offest correction and Robotic arm teleopeartion using VR 
+ 2026.03 ~ 2026.05 
+ natoledo@espol.edu.ec 
+ Seungho Jun 
+ Education 
+ Undergrad Student Computer Science, Stony Brook University 
+ Program 
+ 2025 Summer Internship Program 
+ 2025.07 ~ Present 
+ seongho.jun@stonybrook.edu 
+ Shubhangi Saileja R. Garnaik 
+ Education 
+ M.S. in Computer Science, SUNY Korea, Stony Brook University, 2025 
+ Program 
+ 2025 Summer Internship Program 
+ 2025.07 ~ 2025.12 
+ shubhangisaile.garnaik@stonybrook.edu 
+ Felipe Zuniga 
+ Education 
+ B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2026 
+ Program 
+ Adaptive Control of 7-DOF Robot Arm 
+ 2024.01 ~ 2024.05 
+ vfzuniga14@gmail.com 
+ Mario Hernan Viteri Villarreal 
+ Education 
+ B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2026 
+ Program 
+ PTZ camera offset correction and Robotic arm teleoperation 
+ 2026.02 ~ 2026.04 
+ mhviteri@espol.edu.ec 
+ Hawon Park 
+ Education 
+ M.S. in Computer Science, SUNY Korea, Stony Brook University | B.S. in Computer Science, SUNY Korea, Stony Brook University 
+ Program 
+ 2025 Summer Internship Program 
+ 2025.07 ~ 2026.01 
+ hawon.park@gmail.com 
+ Hugo Zuniga 
+ Education 
+ B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2026 
+ Program 
+ Adaptive Control of PTZ sensor 
+ 2024.01 ~ 2024.05 
+ vhzuniga@espol.edu.ec 
+ Lesus Aguilla 
+ Education 
+ B.S. in Mechatronics Engineering, Escuela Superior Politécnica del Litoral, Ecuador, 2025 
+ Program 
+ UGV Swarm: inter-connected through LiDAR and ROS 
+ 2023.01 ~ 2023.05 
+ irdavila@espol.edu.ec 
+ Jonathan Boyack 
+ Education 
+ Ph.D. Mechanical Engineering SUNY Korea, Stony Brook University, 2025 | M.S. Mechanical Engineering SUNY Korea, Stony Brook University, 2020 | B.S. Mechanical Engineering Brigham Young University, 2017 
+ Program 
+ Master program | Ph.D. program 
+ 2021.03 ~ 2026.03 
+ Post career 
+ Post doctoral researcher program at Purdue University, USA 
+ Hanbeom Chang 
+ Education 
+ M.S. in Mechanical Engineering, State University of New York, Korea, 2025 | B.E. in Mechanical Engineering, State University of New York, Korea 2021 
+ Program 
+ Undergraduate Research Internship | Master program 
+ 2022.07 ~ 2025.06 
+ Post career 
+ SK (주) AX 
+ Mijin Lee 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Program 
+ Senior Project 2024 
+ 2024.01 ~ 2024.12 
+ Post career 
+ GM Korea, South Korea 
+ Eunjae Lee 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Program 
+ Undergrad Research Internship 
+ 2024.01 ~ 2024.12 
+ Post career 
+ Skyes Blackchain, Co., South Korea 
+ Hojin Song 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Program 
+ Undergrad Research Internship 
+ 2024.01 ~ 2024.12 
+ Post career 
+ Army, Military Service, South Korea 
+ Yoonseong Kim 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Program 
+ Undergrad Research Internship 
+ 2023.07 ~ 2023.12 
+ Post career 
+ Master program at Yeonsi University, Research Intern at KITECH, South Korea 
+ Leeroy Makusha 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2023 
+ Program 
+ Undergrad Research Internship 
+ 2023.01 ~ 2023.12 
+ Post career 
+ Master program at UT Alington, USA 
+ Jaewon Lee 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2023 
+ Program 
+ Undergrad Research Internship 
+ 2022.07 ~ 2023.06 
+ Post career 
+ Master program at MEC at SUNY Korea 
+ Seunghyun Cha 
+ Education 
+ B.E. in Mechanical Engineering , SUNY Korea Stony Brook, 2022 
+ Program 
+ Undergrad Research Internship 
+ 2022.01 ~ 2024.12 
+ Post career 
+ KT, Co., Ltd., South Korea 
+ Pureun Jeong 
+ Education 
+ B.E. in Mechanical Engineering , SUNY Korea Stony Brook, 2023 
+ Program 
+ Undergrad Research Internship 
+ 2021.07 ~ 2022.06 
+ Post career 
+ Yujin Robotics, Co, Ltd., South Korea 
+ Hyeji Chang 
+ Education 
+ B.S. in Mechanical Engineering , Georgia Inst. of Tech. | Transferred on Aug. 2021 
+ Program 
+ Undergrad Research Internship 
+ 2020.07 ~ 2021.06 
+ Post career 
+ LG Innotek 
+ Hyun Seung Cha 
+ Education 
+ B.E. in Mechanical Engineering 
+ Program 
+ Undergrad Research Internship 
+ 2020.07 ~ 2021.12 
+ Post career 
+ Hyundai Rotem, Co., Ltd., South Korea 
+ Geonwoo Kim 
+ Education 
+ B.E. in Mechanical Engineering, SUNY Korea, Stony Brook University, 2025 
+ Program 
+ Undergraduate Research Internship 
+ 2025.01 ~ 2025.12 
+ Post career 
+ NEXTIN, Inc 
+ Daeryun Choi 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Program 
+ Senior Project 2024 
+ 2024.01 ~ 2024.12 
+ Post career 
+ Master program at Univ. of Michigan Ann Arbor 
+ Jungmin Lee 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Program 
+ Senior Project 2024 
+ 2024.01 ~ 2024.12 
+ Post career 
+ Hyundai Movis, USA 
+ Soojung Chi 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Program 
+ Undergrad Research Internship 
+ 2024.01 ~ 2024.12 
+ Post career 
+ Johnson & Johnson Innovative Medicine, South Korea 
+ Hyobin Shin 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Program 
+ Senior Project 2024 
+ 2024.01 ~ 2024.12 
+ Post career 
+ Running own business, South Korea 
+ Sambridha Bhattarai 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2024 
+ Program 
+ Undergrad Research Internship 
+ 2023.07 ~ 2023.12 
+ Post career 
+ Owner of Cinder Bar, South Korea 
+ Danielle Macmaster 
+ Education 
+ B.S. in Mechanical Engineering , SUNY Korea Stony Brook, 2023 
+ Program 
+ Undergrad Research Internship 
+ 2023.01 ~ 2023.12 
+ Post career 
+ An engineering Company, USA 
+ Yijoo Um 
+ Education 
+ None 
+ Program 
+ Mento 
+ 2022.07 ~ 2023.06 
+ Post career 
+ Korea Aerospace Industries - KAI, Ltd., South Korea 
+ Jimin Shin 
+ Education 
+ B.E. in Mechanical Engineering , SUNY Korea Stony Brook, 2022 
+ Program 
+ Undergrad Research Internship 
+ 2022.01 ~ 2024.12 
+ Post career 
+ Master program at MEC at SUNY Korea 
+ Hojung Lim 
+ Education 
+ None 
+ Program 
+ Mento 
+ 2021.07 ~ 2021.12 
+ Post career 
+ Master's program at CS at USC, USA 
+ Sooyon Chang 
+ Education 
+ B.E. in Mechanical Engineering , SUNY Korea Stony Brook, 2021 
+ Program 
+ Senior Project 2021 
+ 2020.07 ~ 2021.12 
+ Post career 
+ Master program at Cornell University & Ph.D program at Purdue University 
+ Prince-David Malendele 
+ Education 
+ B.E. in Mechanical Engineering , SUNY Korea Stony Brook, 2021 
+ Program 
+ Senior Project 2021 
+ 2020.07 ~ 2021.12 
+ Post career 
+ Brookhaven Natl. Lab., USA 
+ Mechanical Systems with Intelligence and Computer Vision Lab  
+ MEICLab in 2021 | Designed by Sooyeun Yang & Hajun Jang 
+ bottom of page
