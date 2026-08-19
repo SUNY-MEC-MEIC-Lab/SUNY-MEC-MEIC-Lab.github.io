@@ -1,0 +1,40 @@
+---
+layout: page
+title: Project
+eyebrow: Research Projects
+permalink: /project/
+---
+<div class="tabs">
+  <button class="tab-btn is-active" data-tab="progress">On Progress</button>
+  <button class="tab-btn" data-tab="finished">Finished</button>
+</div>
+
+{% assign groups = "On Progress,Finished" | split: "," %}
+{% for g in groups %}
+  {% if g == "On Progress" %}{% assign key = "progress" %}{% else %}{% assign key = "finished" %}{% endif %}
+  <div class="tab-panel" data-panel="{{ key }}"{% if key == "finished" %} hidden{% endif %}>
+    {% assign items = site.data.projects | where: "Status", g %}
+    {% for p in items %}
+    <article class="project">
+      <p class="project-date">{{ p.Date }}</p>
+      <p class="project-head">{{ p.Header_Display }}</p>
+      {% if p.Title_KR != "" %}<p class="project-title-kr">{{ p.Title_KR }}</p>{% endif %}
+      {% if p.Title_EN != "" %}<p class="project-title-en">{{ p.Title_EN }}</p>{% endif %}
+      {% if p.Budget_Display != "" %}<p class="project-budget">{{ p.Budget_Display }}</p>{% endif %}
+      {% if p.Consortium_Total != "" %}<p class="project-budget">{{ p.Consortium_Total }}</p>{% endif %}
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
+
+<script>
+document.querySelectorAll('.tab-btn').forEach(function (btn) {
+  btn.addEventListener('click', function () {
+    document.querySelectorAll('.tab-btn').forEach(function (b) { b.classList.remove('is-active'); });
+    btn.classList.add('is-active');
+    document.querySelectorAll('.tab-panel').forEach(function (p) {
+      p.hidden = (p.dataset.panel !== btn.dataset.tab);
+    });
+  });
+});
+</script>

@@ -1,0 +1,16 @@
+# 빌드 산출물
+site/_site/
+site/.jekyll-cache/
+site/.jekyll-metadata
+site/Gemfile.lock
+site/vendor/
+
+# 원본 이미지(고용량) — Wix 원본은 tools/fetch_wix_images.py 로 언제든 재다운로드 가능
+assets_original/
+
+# 로컬 환경
+.rubyenv/
+__pycache__/
+
+# 작업용 원본 파일
+*.pdf

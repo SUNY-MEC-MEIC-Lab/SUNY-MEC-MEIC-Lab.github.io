@@ -1,0 +1,24 @@
+---
+layout: page
+title: Journal Articles
+eyebrow: Publication
+permalink: /publication/journal/
+---
+{% assign years = site.data.journals | map: "Year" | uniq | sort | reverse %}
+{% for y in years %}
+<div class="section-label">{{ y }}</div>
+{% assign items = site.data.journals | where: "Year", y %}
+{% for a in items %}
+<article class="pub">
+  {% if a.Thumbnail != "" %}<div class="pub-thumb"><img src="{{ a.Thumbnail | relative_url }}" alt="" loading="lazy"></div>{% endif %}
+  <div class="pub-body">
+    <p class="pub-title">
+      {% if a.URL != "" %}<a href="{{ a.URL }}" target="_blank" rel="noopener">{{ a.Title }}</a>{% else %}{{ a.Title }}{% endif %}
+      {% if a.Status != "Published" %}<span class="badge review">{{ a.Status }}</span>{% endif %}
+    </p>
+    <p class="pub-authors">{{ a.Authors }}</p>
+    <p class="pub-venue">{{ a.Venue }}</p>
+  </div>
+</article>
+{% endfor %}
+{% endfor %}

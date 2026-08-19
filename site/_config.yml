@@ -1,0 +1,23 @@
+title: MEIC Laboratory
+tagline: Mechanical Engineering with Intelligence and Computer Vision
+description: >-
+  MEIC Lab at SUNY Korea / Stony Brook University — neural rendering based
+  visual intelligence for engineering and industry.
+url: "https://www.meic-lab.com"
+baseurl: ""
+
+institution: State University of New York, Korea
+department: Department of Mechanical Engineering
+youtube: https://www.youtube.com/@MEICLab
+github: https://github.com/SUNY-MEC-MEIC-Lab
+
+permalink: pretty
+markdown: kramdown
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md

@@ -1,0 +1,59 @@
+---
+layout: default
+title: Home
+---
+<section class="home-hero">
+  <div class="wrap">
+    <p class="eyebrow">{{ site.institution }}</p>
+    <h1>Mechanical Systems with<br>Intelligence &amp; Computer Vision</h1>
+    <p class="lead">Neural rendering based visual intelligence for engineering, industry, and public applications.</p>
+  </div>
+</section>
+
+<section class="page-body">
+  <div class="wrap">
+    <p>MEIC Lab works for establishing academic foundation to apply neural rendering based visual
+       intelligence to engineering, industry, and public fields including reliability prediction of
+       systems and structures, maintenance, remote sensing, and sustainable city applications.</p>
+
+    <div class="section-label">Representative Technologies</div>
+    <div class="grid grid-2">
+      <div class="card" style="padding:22px">
+        <h3 style="margin-top:0">Hyper-realistic Digital Twin</h3>
+        <p class="muted" style="margin:0">Visual intelligence based digital twin modeling and rendering</p>
+      </div>
+      <div class="card" style="padding:22px">
+        <h3 style="margin-top:0">Remote Sensing &amp; Teleoperation</h3>
+        <p class="muted" style="margin:0">Human-machine collaboration via metaverse and teleoperation</p>
+      </div>
+      <div class="card" style="padding:22px">
+        <h3 style="margin-top:0">Virtual Sensing SDK</h3>
+        <p class="muted" style="margin:0">Virtual sensing based SDK system for future vehicles</p>
+      </div>
+      <div class="card" style="padding:22px">
+        <h3 style="margin-top:0">3D Recognition</h3>
+        <p class="muted" style="margin:0">Homogeneous / heterogeneous vision sensing and 3D recognition</p>
+      </div>
+    </div>
+
+    <p class="muted" style="margin-top:34px">
+      MEIC 연구실은 신경 렌더링 기반의 시각 지능 기술을 공학, 산업, 공공 분야에 적용하기 위한 학문적 기반을
+      구축하는 데 주력하고 있습니다. 주요 적용 분야에는 시스템 및 구조물의 신뢰성 예측, 유지보수, 원격 센싱,
+      지속가능한 도시 구축 등이 포함됩니다.
+    </p>
+
+    <div class="section-label">Latest News</div>
+    {% assign recent = site.data.news | slice: 0, 5 %}
+    {% for n in recent %}
+    <div class="news-item">
+      {% if n.Cover != "" %}<div class="news-cover"><img src="{{ n.Cover | relative_url }}" alt="{{ n.Summary }}" loading="lazy"></div>{% endif %}
+      <div class="news-body">
+        <p class="news-date">{{ n.Date }}</p>
+        <p class="news-title">{{ n.Summary }}</p>
+        <p class="news-text">{{ n.Content | strip_html | truncate: 190 }}</p>
+      </div>
+    </div>
+    {% endfor %}
+    <p style="margin-top:26px"><a href="{{ '/news/' | relative_url }}" style="color:var(--accent)">All news →</a></p>
+  </div>
+</section>

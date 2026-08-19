@@ -1,0 +1,32 @@
+- title: RESEARCH
+  url: /research/
+  children:
+    - { title: "Overview",                          url: "/research/" }
+    - { title: "Neural Rendering & Spatial AI Group", url: "/research/neural-rendering/" }
+    - { title: "PDI & Multimodal AI Group",         url: "/research/pdi-multimodal/" }
+    - { title: "PIA & Embodied AI Group",           url: "/research/pia-embodied/" }
+- title: PEOPLE
+  url: /people/members/
+  children:
+    - { title: "Professor", url: "/people/professor/" }
+    - { title: "Members",   url: "/people/members/" }
+- title: PROJECT
+  url: /project/
+- title: PUBLICATION
+  url: /publication/journal/
+  children:
+    - { title: "Journal",            url: "/publication/journal/" }
+    - { title: "Intl. Conference",   url: "/publication/intl-conference/" }
+    - { title: "Korean Conference",  url: "/publication/korean-conference/" }
+    - { title: "Patents",            url: "/publication/patents/" }
+    - { title: "Awards",             url: "/publication/awards/" }
+- title: NEWS
+  url: /news/
+- title: GALLERY
+  url: /gallery/
+- title: CONTACT
+  url: /contact/
+- title: SPIN-OFF
+  url: /spinoff/meic-ai/
+  children:
+    - { title: "MEIC AI", url: "/spinoff/meic-ai/" }

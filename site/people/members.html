@@ -1,0 +1,29 @@
+---
+layout: page
+title: Members
+eyebrow: People
+permalink: /people/members/
+---
+{% assign sections = "Ph.D. Students,Master Students,Undergraduate Students,Visiting Students,Alumni" | split: "," %}
+{% for sec in sections %}
+  {% assign people = site.data.members | where: "Section", sec %}
+  {% if people.size > 0 %}
+  <div class="section-label">{{ sec }} <span style="color:var(--muted);font-weight:400">({{ people.size }})</span></div>
+  <div class="grid grid-4">
+    {% for p in people %}
+    <article class="card person">
+      <div class="person-photo">
+        {% if p.Photo != "" %}<img src="{{ p.Photo | relative_url }}" alt="{{ p.Name }}" loading="lazy">{% endif %}
+      </div>
+      <div class="person-body">
+        <p class="person-name">{{ p.Name }}</p>
+        {% if p.Duration != "" %}<p class="person-line">{{ p.Duration }}</p>{% endif %}
+        {% if p.Interest != "" %}<p class="person-line">{{ p.Interest }}</p>{% endif %}
+        {% if p.PostCareer != "" %}<p class="person-line">→ {{ p.PostCareer }}</p>{% endif %}
+        {% if p.Email != "" %}<p class="person-line"><a href="mailto:{{ p.Email }}">{{ p.Email }}</a></p>{% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endfor %}

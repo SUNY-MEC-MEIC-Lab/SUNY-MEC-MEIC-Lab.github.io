@@ -1,0 +1,18 @@
+---
+layout: page
+title: Gallery
+eyebrow: MEIC Lab
+permalink: /gallery/
+---
+<div class="gallery-grid">
+{% for n in site.data.news %}
+  {% if n.Images != "" %}
+    {% assign imgs = n.Images | split: "|" %}
+    {% for src in imgs %}
+      <a href="{{ src | relative_url }}" target="_blank" rel="noopener">
+        <img src="{{ src | relative_url }}" alt="{{ n.Summary }}" loading="lazy">
+      </a>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+</div>

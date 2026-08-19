@@ -1,0 +1,28 @@
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark">MEIC</span>
+      <span class="brand-sub">Laboratory</span>
+    </a>
+
+    <input type="checkbox" id="nav-toggle" class="nav-toggle">
+    <label for="nav-toggle" class="nav-burger" aria-label="menu"><span></span><span></span><span></span></label>
+
+    <nav class="site-nav">
+      <ul class="nav-root">
+        {% for item in site.data.nav %}
+        <li class="nav-item{% if item.children %} has-children{% endif %}">
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% if item.children %}
+          <ul class="nav-sub">
+            {% for c in item.children %}
+            <li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
