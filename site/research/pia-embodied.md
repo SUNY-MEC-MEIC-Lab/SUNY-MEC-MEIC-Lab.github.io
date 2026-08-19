@@ -4,4 +4,56 @@ title: PIA & Embodied AI Group
 eyebrow: Research
 permalink: /research/pia-embodied/
 ---
-> 기존 사이트 본문 수집 중 — 곧 채워집니다.
+
+Physics-Infromed Actuation & Embodied AI Group
+
+Physics-Informed Actuation & Embodied AI Group
+
+
+## Contact
+
+E-mail:  hansol.lim@stonybrook.edu
+
+We advance goal-oriented predictive intelligence based on physics-informed AI. By embedding physical laws directly into neural networks through EV-PINN and PINO architectures, we enable accurate inference of complex physical behaviors and system states even under limited data conditions, supporting adaptive virtual sensing capabilities.
+
+Furthermore, by integrating the vision-based robotic control platform R-Zoom with learned models, we develop embodied AI systems in which hardware autonomously adapts to unforeseen real-world variations that were not captured in simulation, enabling robust operation beyond pre-defined control regimes.
+
+
+## Mission Statement
+
+“Our mission is to research and develop intelligent systems that can understand the world.”
+
+
+## Research Interest
+
+Digital Twins
+
+Physics Informed Machine Learning
+
+Electric Vehicle PHM
+
+Optimal Control
+
+
+## Detailed Work
+
+
+### 1. EV-PINN: Electric Vehicle Battery Surrogates Using Physics-Informed Transform
+
+With the rapidly evolving EV industry, we propose physics-informed AI system that can inference battery power usage from a real-time velocity feed. The system is trained on real vehicle log data and can also estimate parameters such as motor efficiency, mass, rolling resistance, aerodynamic drag, and regenerative braking efficiency through data.
+
+
+### 2. MLN: Modular Lagrangian Networks
+
+The Lagrangian formalism provides one of the most compact and expressive descriptions of the physical universe. We aim to train an AI system that can effectively understand the Lagrangian perspective and apply it to chaotic systems.
+
+
+### 3. D3M Deblurring Diffusion Deterministic  Models: Physics-Informed Field Reconstruction via Flux Regularization
+
+D3M is a Diffusion Models inspired PINN that can reconstruct Fields based on initial conditions. It can inference steady state results of heat, electrodynamics, fluids up to 10^-9 MSE accuracy at lightspeed.
+
+
+### 4. LogPath: Log Data Based Energy Consumption Analysis Enabling Electric Vehicle Path Optimization
+
+We developed an eco-routing system used for EV navigation that uses real-time battery information to estimate seven major vehicle parameters by extracting multiple drive modes from the log data for the analysis. The developed system provides 1) routes, 2) charge locations, 3) charging times, and 4) optimum vehicle speeds that guarantee the shortest travel time.
+

@@ -1,0 +1,442 @@
+-->
+ News | MEIC Laboratory 
+ top of page 
+ RESEARCH 
+ Overview 
+ Neural Rendering & Spatial AI Group 
+ PDI & Multimodal AI Group 
+ PIA & Embodied AI Group 
+ PEOPLE 
+ Professor 
+ Members 
+ PROJECT 
+ PUBLICATION 
+ Journal 
+ Intl. Conference 
+ Korean Conference 
+ Patents 
+ Awards 
+ NEWS 
+ GALLERY 
+ CONTACT 
+ SPIN-OFF COMPANY 
+ MEIC AI 
+ COMMUNITY 
+ News 
+ External 
+ Internal 
+ 2024 
+ 2023 
+ 2022 
+ 2021 
+ 2019 
+ KakaoTalk_20230107_171327733
+ KakaoTalk_20230107_171327733
+ 1/1
+ December 8, 2022 
+ MEICers had a dinner party to celebrate semester-end and Pureun's joining MEIC Lab as a master's course. We all enjoyed Wagyu beef in Songdo. Welcome to MEIC lab, Pureun! 
+ photo_1669799262
+ photo_1669799273
+ photo_1669799262
+ 1/2
+ November 30, 2022 
+ MEIC Lab members (Jonathan Boyack, Ricardo Ortiz, Jee Won Lee, and Jongseong Brad Choi) was awarded "Top Prize (최우수상)" in the "2022 Global Product-Service Localization Research Award (2022년 글로벌 제품서비스 현지화 연구회)". This project provided us to create a connection to local companies, and won the competition with our idea suggestion. Congratulations! 
+ 22Nov2022#1
+ 22Nov2022#2
+ 22Nov2022#1
+ 1/2
+ November 22, 2022 
+ Prof. Jongseong Brad Choi was invited to deliver a seminar at Hanyang University, in their ME Graduate Student Seminar Series. His talk was entitled “Metaverse Platform Development for Human-Machine Collaborative Remote Assessment of Infrastructures. 
+ (picnic)11Nov2022#1
+ (picnic)11Nov2022#2_edited
+ (picnic)11Nov2022#3
+ (picnic)11Nov2022#1
+ 1/3
+ November 11, 2022 
+ MEICers went out for outdoor activity together after KSME 2022 conference in Jeju. After hiking Oreum, we went outdoor bar to enjoy a nice senary and food! 
+ 11Nov2022#2
+ 11Nov2022#1
+ 11Nov2022#3_edited
+ 11Nov2022#2
+ 1/3
+ November 11, 2022 
+ Prof. Jongseong Brad Choi was invited to deliver a presentation in the session of “Promising Young Scientists (유망과학기술자 세션)” at the Korean Society of Mechanical Engineers (KSME) Annual Meeting 2022, Jeju, South Korea. His talk was entitled “Visual Analytics toward Lifecycle Assessment of Large-Scale Structures (구조물 수명주기관리를 위한 대용량 시각데이터 수집 및 분석 자동화)”. 
+ 9-12Nov2022
+ 9-12Nov2022
+ 1/1
+ November 9-12, 2022 
+ During the Korean Society of Mechanical Engineers (KSME) Annual Meeting 2022, Jeju, South Korea, 
+ Jonathan Boyack delivered a presentation entitled “A Real-Time Log Data Analytics-based Electric Vehicle Path Optimization (실시간 로그데이터 분석 기반의 전기차 경로 최적화 기법)” with co-authors Jongseong Brad Choi. 
+ Ricardo Ortiz delivered a presentation entitled “Development of User-Designated-Path Driving Ground Rover for Construction Site Monitoring (건설현장 모니터링을 위한 사용지 지정경로 주행 지상로버 개발)” with co-authors Jee Won Lee, Jonathan Boyack, and Jongseong Brad Choi. 
+ Jee Won Lee delivered a presentation entitled Automated Pan-Tilt-Zoom Camera Control to Enable Long-Range Visual Assessment and Localization (원거리 시각검사를 위한 PTZ 카메라 자동제어 알고리즘 개발) with co-authors Chul Min Yeum, Ricardo Ortiz, and Jongseong Brad Choi. 
+ Pureun Jeong was in poster session entitled “Indoor Navigation System Designed for a Safety of Construction Site” with co-authored Jimin Shin, Seung Hyun Cha, and Jongseong Brad Choi. 
+ oct_13_2022_1
+ oct_13_2022_2
+ oct_13_2022_1
+ 1/2
+ October 13, 2022 
+ MEICers had a welcome dinner party for our new member Alfredo Valenzuela, master’s course, from all the way from Equador. We all enjoyed Jeju sagyeosal and karaoke in Songdo. Welcome to MEIC lab, Alfredo! 
+ 11Oct2022#1
+ 11Oct2022#2
+ 11Oct2022#1
+ 1/2
+ October 12, 2022 
+ Prof. Jongseong Brad Choi hosted a seminar regarding entitled Human-Machine Collaborative Infrastructure Assessment through Mixed and Virtual Reality along with professor Chul Min Yeum from University of Waterloo. Prof. Choi and Yeum have been collaborating years and plan for another project for our graduate students visiting program. 
+ sep_23_2022
+ sep_23_2022
+ sep_23_2022
+ 1/2
+ September 23, 2022 
+ Prof. Jongseong Brad Choi was invited to deliver a seminar at Inha University, in their Dept. Architecture Engineering Seminar Series. His talk was entitled “Computer Vision engaged Infrastructure Remote Sensing 
+ 23Sep2022
+ 23Sep2022
+ 1/1
+ September 23, 2022 
+ Prof. Jongseong Brad Choi was invited to deliver a seminar at National Museum of Modern and Contemporary Art, Korea (국립현대미술관 청주) in their Preservation Science Lecture Series. His talk was entitled “Computer Vision engaged Lifecycle Assessment of Cultural Heritages” (컴퓨터비전 및 인공지능을 활용한 건축문화유산 생애주기 관리 자동화). 
+ Jonathan_PHMConference_edited
+ jonathan_presenting
+ Jonathan_PHMConference_edited
+ 1/2
+ July 1, 2022 
+ Jonathan Boyack, a Ph.D. student, delivered a presentation session entitled “Enhancing Electric Vehicle Path Optimization Exploiting Real-Time Log Data Analysis” at PHM Korea 2022: PHM for Industrial Digital Platform held in Seoul, South Korea, June 29 – July 1. 
+ jeewonconference
+ jeewonconference
+ 1/1
+ June 30, 2022 
+ Jee Won Lee, a master student, presented in the poster session entitled “Automated Pan-Tilt-Zoom Camera Control to Enable Long-Range Visual Assessment and Localization” at PHM Korea 2022: PHM for Industrial Digital Platform held in Seoul, South Korea, June 29 – July 1. 
+ Purdue seminar#3 June24,2022
+ Purdue seminar#3 June24,2022
+ 1/1
+ June 24, 2022 
+ Prof. Jongseong Brad Choi and Chi Hwan Lee (Purdue Univ.) hosted a collaborating seminar (Biomedical Engineering at Purdue Univ. and Mechanical Engineering at SUNY Korea) along with prestigious scholars from Purdue Univ. The topics spanned from research collaboration bio-mechanical engineering to student exchange programs. We look forward to collaborating with the Biomedical Engineering department of Purdue University with broader topics in the future. 
+ KakaoTalk_20220725_180848527
+ KakaoTalk_20220725_180848527
+ 1/1
+ May 26, 2022 
+ MEIC Lab members had a gathering and semester-end party at Songdo. This gathering was after a field trip to H&I co., Uiwang-si,  to learn RTK GPS system to be adopte to our auto-navigating rover system. 
+ 525(1)
+ 525(2)
+ 525(1)
+ 1/2
+ May 25, 2022 
+ Pureun Jeong, Seunghyun Cha, and Jimin Shin presented in the poster session entitled “Smart IGC Campus and Community with A Self-Navigating Robot System” at 2022 IGC Project Symposium held in Songdo, South Korea, June 29 – July 1. 
+ 대한기계학회 인공지능머신연구회
+ 대한기계학회 인공지능머신연구회
+ 1/1
+ February 23, 2022 
+ Prof. Jongseong Brad Choi delivered a lecture at 2022 Artificial Intelligence Winter School, AI Research Group, KSME (2022 인공지능 겨울학교, 대한기계학회 인공지능머신 연구회) held at KAIST, Daejeon, South Korea, Feb 21 – 23, 2022, entitled “Citizen Data to Machine Learning: Application of Lifecycle Management of Infrastructure (시민사진을 인공지능 데이터로: 사회인프라 생애주기관리 어플리케이션) 
+ 춘계학술대회_edited
+ 춘계학술대회_edited
+ 1/1
+ January 1, 2022 
+ Prof. Jongseong Brad Choi is appointed as a committee member of the financial board in KSME Reliability Division (대한기계학회 신뢰성부문) starting from Jan 1, 2022. 
+ Sep27,2023_edited
+ Sep27,2023_edited
+ 1/1
+ September 27, 2023 
+ MEICers had a gathering to celebrate the beginning of the semester and move to a new lab space. Well done for the lab move and good luck for the semester! 
+ Aug14-15,2023_edited
+ Aug14-15,2023_edited
+ 1/1
+ August 14-15, 2025 
+ A return to Gunsan, South Korea for the KR project was completed on August 14-15, 2023 for more image acquisition and analysis using Structure-from-Motion technique. We also enjoyed a decent Spanish restaurant for dinner, which became our “designated spot” for every KR Gunsan trip! 
+ IMG_4726
+ IMG_4722
+ IMG_4721
+ IMG_4726
+ 1/3
+ July 20, 2023 
+ The MEIC Lab moved locations to a larger facility with more room to be able to expand on the work they were already doing previously. In this new space, they have a larger area for students to work on writing and coding, an instrumentation space for physical experimentation, an office space for the professor, a conference area for meetings, and a rest area for students to be able to take breaks 
+ July3-5,2023#2
+ July3-5,2023#1
+ July3-5,2023#2
+ 1/2
+ July 3-5, 2023 
+ At the Korean Society for Prognostics and Health Management (PHM) 2023 Conference in Seoul, South Korea, from July 3rd-5th, 2023, Prof. Choi delivered a presentation entitled “Engineering-Soft-Power engaged visualization analytics and human-machine collaboration remote assessment for large-scale structures (구조물 건전성 모니터링을 위한 시각화 분석 및 인간-기계 협업 원격 모니터링 기법 개발)” and won the 2023 Young Scientist Award. 
+ Alfredo Valenzuela was in poster session entitled “Localized Google Map Update on Mobile Application to Enable a User-Guided Path Planning for Monitoring Robots” with co-authors Ricardo Ortiz, and Jongseong Brad Choi. 
+ Hansol Lim was also in a poster session entitled “Real-time, Non-intrusive Inspection of Structures Using Visual Analytics and Transparency Technology” with co-author Jongseong Brad Choi. 
+ 20230628_160728_edited
+ 20230628_160822
+ 20230628_163641
+ 20230628_160728_edited
+ 1/4
+ June 28-30, 2023 
+ During the Advanced Smart Materials and Structures (ASMaS) 2023 Conference in Ho Chi Minh City, Vietnam, from June 28th-30th, 2023, 
+ Jonathan Boyack presented his work entitled “An Automated Falling Hazard Assessment of High-Rise Buildings Using Transfer Learning and Orthophoto Generation” with co- author Jongseong Brad Choi. 
+ Ricardo Ortiz also presented his work entitled “Development of RTK-GPS Engaged Autonomous Mobility: Implementation and Analysis for Structural Health Monitoring Application” with co-authors Alfredo Valenzuela, and Jongseong Brad Choi. 
+ June18,2023
+ June18,2023
+ 1/1
+ June 18, 2023 
+ In implementing a project granted by IASA (인천과학예술영재학교), the selected high school students visited Guryong village (구룡마을) to produce a detailed pedestrian map for residents. Using MEIC lab’s cloud mapping technology with a specially built Lidar sensing system, they successfully built a model on behalf of our graduate students Mr. Hansol Lim and Ricardo Ortiz. 
+ download_edited
+ download_edited
+ 1/1
+ June 16, 2023 
+ SUNY Korea celebrated graduation and held their commencement ceremony on June 16th 2023. Pureun Jeong completed her bachelor's degree and will be beginning her career as a Mechanical Engineer. The MEIC Lab is pleased with her success. She will continue her new journey at Yujin Robot Co., Ltd. 
+ Congratulations Pureun! 
+ 20230615_150622_edited
+ 20230614_144819
+ 20230614_144651
+ 20230615_150622_edited
+ 1/3
+ June 14-15, 2023 
+ The MEIC Lab was invited to Gunsan, South Korea to work in collaboration with the KR research group on integrating some of their systems with Engineering Soft Power technologies. 
+ The MEIC Lab used this opportunity to begin work on the project by collecting the neccessary data and begining the neccessary processing. 
+ KakaoTalk_20230524_005533999
+ KakaoTalk_20230524_005533999
+ 1/1
+ May 24, 2023 
+ Professor Choi was invited to participate in a panel discussion entitled Roundtable on AI and Society at the 2023 IGC Research Showcase held in Incheon Global Campus, Incheon, South Korea, on May 22, 2023. 
+ All current student members of the MEIC lab were able to showcase their research through short poster presentations at the same Research Showcase. 
+ Everyone's research was well received. We hope to have many more opportunities to display the research we do in our lab. 
+ Argonne오전세미나
+ Argonne오후세미나
+ Argonne오전세미나
+ 1/2
+ May 9, 2023 
+ Prof. Choi was invited to deliver a talk entitled "LogPath: Log Data-Based Energy Consumption Model Analysis to Enable Path Optimization of An Electric Vehicle" at Vehicle & Mobility Systems Department (VMS) and Systems Assessment Center (SAC) at Argonne National Lab, Lemont, IL, USA, on May 9, 2023. 
+ ST2023학회내사진
+ ST2023학회내사진
+ 1/1
+ May 3-5, 2023 
+ Prof. Choi delivered a talk entitled “Automating Visual Analytics to Aid Lifecycle Management of Infrastructure - Similarity Learning to Enable Building Searches in Post-event Image Data” at Structural Congress 2023 held in New Orleans, LA, USA, May 3-5, 2023 
+ IMG_0095
+ IMG_0116
+ Screenshot 2023-04-20 150355
+ IMG_0095
+ 1/3
+ March 22-24, 2023 
+ During the Korean Society of Mechanical Engineers (KSME) 2023 Spring Conference on Reliability, Jeju, South Korea, 
+ Pureun Jeong was in poster session entitled “SLAM for Skid-Steering Mobile Robot Systems” with co-authored Hansol Lim, Jimin Shin, and Jongseong Brad Choi. 
+ Hanbeom Chang was in poster session entitled “Automated Pan-Tilt-Zoom Camera Control Enabling Long-Range Visual Exploration for Extraterrestrial Missions” with co-authored Jeewon Lee, and Jongseong Brad Choi 
+ IMG_1723
+ IMG_1723
+ 1/1
+ March 13, 2023 
+ MEICers had a dinner party to celebrate the beginning of the semester and Hansol's, Hanbeom's and Jaewon's joining MEIC Lab as master's students. We enjoyed Jokbal at a well known restaurant in Songdo. Welcome to MEIC lab, Hanbeom and Jaewon! 
+ December 17, 2021 
+ MEIC Lab members had a gathering and semester-end party at MEIC lab. This gathering was to celebrate Sooyon’s graduation and her admission to Cornell University for her master’s degree. Hyunseung also leaves for his military service. Hope to see you all soon! 
+ September 28, 2021 
+ Jonathan Boyack, PhD student, delivered a presentation at Asia Pacific Conference of Prognostics and Health Management Society 2021 (PHMAP2021) in Jeju, South Korea on Sep 8, 2021. His talk was entitled "Machine Learning Approach for a Rapid Falling Hazard Assessment on High-Rise Buildings". 
+ September 28, 2021 
+ Prof. Jongseong Brad Choi served as a chair of the session "Machine Learning Methods for PHM" at the Asia Pacific Conference of Prognostics and Health Management Society 2021 (PHMAP2021) held in Jeju, South Korea on Sep. 7 - 10, 2021. He also delivered a presentation entitled "Similarity Learning to Building Search Capability: Post-event Image Data Application" 
+ September 28, 2021 
+ Prof. Jongseong Brad Choi delivered a presentation as an invited speaker at PHM Korea 2021: Toward 'Ontact' Industries through PHM held in Jeju, South Korea Sep 7 - 9, 2021, where he was also served as a chair of the session "Application of PHM". His talk was entitled "Automating Visual Data Analytics to Aid Lifecycle Management of Infrastructure toward Sustainable Cities". 
+ September 28, 2021 
+ Realtime video of our rover making 3D Pointcloud Mapping at SUNY Korea campus! 
+ May 17, 2021 
+ Prof. Jongseong Brad Choi is appointed as a Short Course Committee member of International Conference on Prognostics and Health Management Asia-Pacific 2021 (PHMAP 2021), Sep 8 – 10, 2021, held at Jeju, South Korea. 
+ May 17, 2021 
+ Prof. Jongseong Brad Choi is appointed as a committee member of the education board in the Korean Society of Prognostics and Health Management (KSPHM) starting from May 17, 2021. 
+ January 21, 2021 
+ MEIC Lab members visited Dr. Taewook Kang, chief scientist, at Korea Institute of Civil Engineering and Building Technology (KICT) (한국건설기술연구원), to learn electric vehicle system for large-scale 3D point cloud modeling. 
+ 12102024_edited
+ 12102024_edited
+ 1/1
+ December 10, 2024 
+ The MEIC Lab hosted a special seminar featuring Dr. Dae-Un Sung, Research Fellow at Hyundai Motor Group, on December 10, 2024, at SUNY Korea. 
+ Dr. Sung shared his expertise on "Future Mobility PHM Technology Development," covering topics such as vehicle prognostics and health management (PHM), durability and degradation improvements, and performance balancing technologies for high-performance vehicles. 
+ 11212024 (2)
+ 11212024
+ 11212024 (2)
+ 1/2
+ November 21, 2024 
+ Hansol Lim, Ph. D Student, was awarded the Grand Prize for their presentation titled "Physics-Based Neural Network for Electric Vehicle Energy Prediction" at the 2024 Joint Conference of the Chungcheong Branch of the Korean Society of Mechanical Engineers (KSME) & KIMM DX Strategy Research Division, held at the Mechanical Engineering AI/DX Idea Competition. 
+ Congratulations Hansol! 
+ IMG_5919_edited
+ IMG_5919_edited
+ 1/1
+ July 10, 2024 
+ MEICers gathered for a volleyball game after our weekly meeting, seeking excitement and better teamwork. Team Professor emerged victorious in the match. To celebrate, we enjoyed a night out at the K-BBQ place, bonding over delicious food and shared laughter. 
+ IMG_9121
+ IMG_9121
+ 1/1
+ June 24, 2024 
+ Attending the 2024 PHM Conference was an exciting opportunity for students to observe the latest trends in prognostic health management technology. They eagerly participated, showcasing their research as poster presenters. The conference provided a platform for these emerging scholars to engage with industry leaders and deepen their understanding of the field. 
+ download_edited
+ download_edited
+ 1/1
+ May 10, 2024 
+ On May 10th, the Incheon Global Campus buzzed with energy as students and faculty gathered for the IGC Research Showcase, featuring 104 innovative research posters! First place went to Mechanical Engineering students Eun Jae Lee, DaeRyeon Choi, Jungmin Lee, Mijin Lee, and Hyobin Shin for their Al Smart Farm project. 
+ Congratulations! 
+ July 2019 
+ Prof. Choi was invited to NHERI RAPID Experimental Facility at the University of Washington, Seattle on July 2019. NHERI selects 20 attendees who has professional research background for the RAPID 4 days Equipment Training Workshop as well as support up to $1,500 Travel Fund. 
+ 11122025(1)_edited
+ 11122025_edited
+ 11122025(1)_edited
+ 1/2
+ November 12-14, 2025 
+ MEIC AI participated in the 2025 KMF Expo (대한민국 가상융합산업대전), showcasing the lab’s latest advances in visual intelligence, digital-twin technologies, and AI-driven remote-engineering solutions. The exhibition highlighted MEIC AI’s integrated research capabilities spanning 3D computer vision, neural rendering, mixed-reality interfaces, and intelligent inspection systems. 
+ 07292025_edited
+ 07292025_edited
+ 1/1
+ July 29, 2025 
+ Professor Jongseong Brad Choi participated in the “SMR Design Technology Seminar Using Advanced Research” hosted by Korea Hydro & Nuclear Power (KHNP) Central Research Institute on July 29, 2025, at Koreana Hotel, Seoul. Professor Jongseong Brad Choi delivered an invited lecture titled “Digital Twin-Based Structural Anomaly Detection Using Visual Intelligence,” presenting the lab’s cutting-edge research on integrating AI-driven visual intelligence into digital twin frameworks for predictive safety assessment. The seminar highlighted six advanced technologies, including digital twins for anomaly detection and AI-based sensor applications, aimed at enhancing the safety and reliability of Small Modular Reactors (SMRs). MEIC Lab’s contribution underscored the growing importance of visual intelligence in next-generation nuclear system design and reinforced its role in global SMR innovation. 
+ 07272025
+ 07272025
+ 1/1
+ July 27, 2025 
+ Professor Jongseong Brad Choi delivered an invited lecture at the QR2MSE & ICRM 2025 Conference in China. His talk, titled “Visual Intelligence for Predictive Engineering System Assessment,” highlighted innovative approaches that integrate advanced visual intelligence with engineering system evaluation, drawing significant attention from international researchers and industry experts. 
+ 07252025
+ KSPE_교수님
+ 07252025
+ 1/2
+ July 25, 2025 
+ Professor Jongseong Brad Choi received the Outstanding Presentation Award at the International Conference on Precision Engineering and Sustainable Manufacturing (PRESM 2025), held in Chiang Mai, Thailand, from July 6–11, 2025. His presentation, titled “Physics-Informed Neural Network (PINN) and Hyper-Realistic Digital Twin (3DGS) for Predictive Engineering System Assessment,” was recognized for its excellence and impact, highlighting cutting-edge approaches that integrate physics-based learning with advanced digital twin technologies for engineering applications. 
+ 06262025
+ 06262025
+ 1/1
+ June 26-27, 2025 
+ Professor Jongseong Brad Choi delivered a keynote lecture at the KSFC Drive & Control 2025 Spring Conference, held at KIST Gangneung Institute on June 26–27, 2025. His talk introduced advances in 3D neural rendering and physics-knowledge-based intelligence for sustainable industrial energy applications, drawing strong interest from both academia and industry. 
+ 06232025_1_edited
+ 06232025_2
+ 06232025_1_edited
+ 1/2
+ June 23-25, 2025 
+ Attending the 2025 PHM Conference was a valuable experience for students to explore the evolving landscape of prognostics and health management technology. As poster presenters, they actively shared their research and insights. The conference served as a meaningful venue for interaction with experts across academia and industry, allowing participants to broaden their perspective and strengthen their academic foundation. 
+ prof04102025
+ prof04102025_2
+ prof04102025
+ 1/2
+ April 10, 2025 
+ Prof. Brad Choi is recipient of 2025 Young Scientist Award of KSME Reliability Division for his talk entitled “EV-PINN: Electric Vehicle Battery Surrogate Model using Transformer-Based Physics Informed Neural Network “ at the Korean Society of Mechanical Engineers (KSME) for Reliability 2025 Conference held in April 9-11, 2025 in Gyeongju, South Korea. 
+ Congratulations, Prof. Brad Choi! 
+ 04072025
+ 04072025
+ 1/1
+ April 7-10, 2025 
+ At the 2025 KSME Reliability Division Conference held in Gyeongju. Researchers, graduate students, and undergraduate participants attended the event to engage in academic exchange and discussion. Undergraduate students also took part in the poster session, presenting their research alongside graduate-level work and contributing to the collaborative atmosphere of the conference. 
+ 03072025
+ 03072025
+ 1/1
+ March 7, 2025 
+ Professor Jongseong Brad Choi has been selected for the 2025 Outstanding Early-Career Researcher Program by the Ministry of Science and ICT, securing 12.5 billion KRW, the largest grant in the program’s history. 
+ His research, "True Twin," focuses on AI-based hyper-realistic digital twin technology for real-time remote collaboration. Over the next five years, he aims to develop a system that enables engineers to work remotely as if they were in the same space. 
+ This technology could become a new standard for remote work and play a key role in global manufacturing and facility management in response to labor shortages. 
+ 01242025_edited
+ 01242025_edited
+ 1/1
+ January 24-25, 2025 
+ Hansol Lim, JeeWon Lee, and Hanbeom Chang attended the 2025 IEEE/SICE International Symposium on System Integration (SII), held in Munich, Germany from January 21 to 24, 2025. 
+ The symposium brought together global experts to share the latest research and applications in system integration, with a focus on combining hardware and software to address industrial and social challenges. This participation provided a valuable opportunity for academic exchange and networking with international researchers. 
+ WorkshopPic#1
+ WorkshopPic#2
+ 01152025 (2)
+ WorkshopPic#1
+ 1/5
+ January 14, 2025 
+ The MEIC Lab participated in the “Energy Machinery Industrial Application Technology Workshop for Carbon Neutrality,” held at SUNY Korea, Songdo Campus, from January 15 to 16, 2025. This workshop, hosted by the Korea Refrigeration and Air-Conditioning Certification Center and SUNY Korea, focused on key technologies for sustainable energy use, including AI applications, virtual testing, and new energy systems like SMRs. Industry experts from various sectors gathered to share insights and discuss future directions for industrial processes such as paper manufacturing, dyeing, low-temperature processes, and secondary batteries. 
+ 12122025(2)_edited
+ 12122025(2)_edited
+ 1/1
+ December 12, 2025 
+ MEIC AI Lab congratulates Jonathan Boyack on successfully completing their Ph.D. We are incredibly proud of this achievement and are excited to officially welcome them to the team as a Postdoctoral Researcher at MEIC AI Lab. We sincerely appreciate Jonathan’s continued contributions to the lab and wish them great success in this new chapter of their professional career. 
+ 12122025(3)
+ 12122025(1)
+ 12122025(3)
+ 1/2
+ December 12, 2025 
+ MEIC AI Lab congratulates Cheyul Im, Sunghoon Jeong, Sungwook Choi, and Geonwoo Kim on their graduation. Each member has successfully earned a B.E. in Mechanical Engineering from SUNY Korea (Stony Brook University) in 2025. 
+ We sincerely appreciate their hard work and valuable contributions to the lab during their undergraduate studies. We wish each of them continued success and the very best in their next chapter. 
+ 10312025_2_edited
+ 10312025_1_edited
+ 10312025_3_edited
+ 10312025_2_edited
+ 1/3
+ October 31, 2025 
+ MEIC Lab congratulates Dr. Jonathan Boyack on the successful defense of his Ph.D. dissertation, “Engineering-Soft-Power: A New Engineering Approach through Visual Intelligence, Machine Learning, and Hyper-Realistic Digital Twin,”  in Mechanical Engineering at SUNY Korea  under Professor Jongseong Brad Choi. His work introduces the unifying concept of Engineering-Soft-Power, spanning AI-driven machine learning, computer vision, visual analytics, non-contact sensing, digital twins, VR, and the metaverse, and demonstrates it through representative case studies: (1) a sensorless EV energy-consumption prediction method validated with Tesla Model S driving logs; (2) ML + photogrammetry for data localization/extraction validated on a 5,000-ton ship engine with 6,000+ images; and (3) a remote inspection pipeline using neural rendering/3D Gaussian splatting to build hyper-realistic replicas for advanced digital-twin and VR/metaverse applications—underscoring the growing impact of visual intelligence on reliable, remote engineering practice. 
+ 08212025_1
+ 08212025_2
+ 08212025_4
+ 08212025_1
+ 1/4
+ August 21, 2025 
+ The MEIC Lab recently held a friendly sports gathering, splitting into White Team and Black Team for exciting games of basketball and dodgeball. Laughter, teamwork, and a little friendly rivalry filled the courts as everyone cheered each other on. After the games, the group headed together to a barbecue restaurant, where Professor Jongseong Brad Choi generously treated everyone to a delicious meal. With sizzling meat, lively conversation, and shared laughter, it was a joyful evening of camaraderie, great food, and lasting memories. 
+ 08012025_1
+ 08012025_2_edited
+ 08012025_1
+ 1/2
+ August 1, 2025 
+ The MEIC Lab recently gathered for a dinner with the RAPA 2025 Summer Internship students, celebrating both collaboration and progress on the ongoing RAPA project. Hosted by Professor Choi at an all-you-can-eat restaurant, the evening was filled with great food, lively conversation, and a shared sense of accomplishment. Sincere thanks to Professor Choi for making the memorable evening possible. 
+ 07252025
+ KSPE_교수님
+ 07252025
+ 1/2
+ July 25, 2025 
+ Professor Jongseong Brad Choi received the Outstanding Presentation Award at the International Conference on Precision Engineering and Sustainable Manufacturing (PRESM 2025), held in Chiang Mai, Thailand, from July 6–11, 2025. His presentation, titled “Physics-Informed Neural Network (PINN) and Hyper-Realistic Digital Twin (3DGS) for Predictive Engineering System Assessment,” was recognized for its excellence and impact, highlighting cutting-edge approaches that integrate physics-based learning with advanced digital twin technologies for engineering applications. 
+ 06262025
+ 06262025
+ 1/1
+ June 26-27, 2025 
+ Professor Jongseong Brad Choi delivered a keynote lecture at the KSFC Drive & Control 2025 Spring Conference, held at KIST Gangneung Institute on June 26–27, 2025. His talk introduced advances in 3D neural rendering and physics-knowledge-based intelligence for sustainable industrial energy applications, drawing strong interest from both academia and industry. 
+ 06232025_dinner_edited
+ 06232025_dinner_edited
+ 1/1
+ June 23-25, 2025 
+ After the 2025 PHM Conference, our graduate lab members enjoyed a fun and relaxing evening with our professor. It was a great opportunity to unwind after the conference, sharing laughs and conversations over good food with an ocean view.  
+ 06232025_1_edited
+ 06232025_2
+ 06232025_1_edited
+ 1/2
+ June 23-25, 2025 
+ Attending the 2025 PHM Conference was a valuable experience for students to explore the evolving landscape of prognostics and health management technology. As poster presenters, they actively shared their research and insights. The conference served as a meaningful venue for interaction with experts across academia and industry, allowing participants to broaden their perspective and strengthen their academic foundation. 
+ 130620205(1)
+ 13062025(2)
+ 13062025(3)
+ 130620205(1)
+ 1/3
+ June 13, 2025 
+ MEIC AI Lab is proud to congratulate Hanbeom Chang and Jeewon Lee on obtaining their Master’s degree. 
+ We are excited to announce their next chapters: Hanbeom Chang has started a new professional journey at SK Inc. AX, and Jeewon Lee will be continuing her academic excellence as a Ph.D. student right here at MEIC AI Lab. 
+ We sincerely appreciate their dedicated research and significant contributions to the lab thus far, and we wish them both continued success in their respective roles. 
+ 05192025
+ 05192025
+ 1/1
+ May 19, 2025 
+ Lab members held a farewell dinner for Hugo and Felipe ahead of their departure to Ecuador. The gathering marked the end of their research stay, providing an opportunity for the team to come together and reflect on their collaborative work over the past months. 
+ 04252025
+ 04252025
+ 1/1
+ April 25, 2025 
+ Lab members gathered at a local Indian restaurant to celebrate the birthdays of Hugo and Felipe. The group enjoyed a variety of dishes in a casual setting, making time for conversation and shared moments outside the lab. The event provided a brief but welcome break from research activities. 
+ prof04102025
+ prof04102025_2
+ prof04102025
+ 1/2
+ April 10, 2025 
+ Prof. Brad Choi is recipient of 2025 Young Scientist Award of KSME Reliability Division for his talk entitled “EV-PINN: Electric Vehicle Battery Surrogate Model using Transformer-Based Physics Informed Neural Network “ at the Korean Society of Mechanical Engineers (KSME) for Reliability 2025 Conference held in April 9-11, 2025 in Gyeongju, South Korea. 
+ Congratulations, Prof. Brad Choi! 
+ 04072025
+ 04072025
+ 1/1
+ April 7-10, 2025 
+ At the 2025 KSME Reliability Division Conference held in Gyeongju. Researchers, graduate students, and undergraduate participants attended the event to engage in academic exchange and discussion. Undergraduate students also took part in the poster session, presenting their research alongside graduate-level work and contributing to the collaborative atmosphere of the conference. 
+ 04042025
+ 04042025
+ 1/1
+ April 4, 2025 
+ At the end of the week, members of the MEIC Lab came together for a spirited game of dodgeball, aiming to boost both excitement and team cohesion. The friendly competition fostered camaraderie and energized the group. To cap off the day, the team gathered at Ashley, a Korean all-you-can-eat restaurant, where they shared a hearty meal and plenty of laughter, further strengthening their bonds outside the lab. 
+ 03072025
+ 03072025
+ 1/1
+ March 7, 2025 
+ Professor Jongseong Brad Choi has been selected for the 2025 Outstanding Early-Career Researcher Program by the Ministry of Science and ICT, securing 12.5 billion KRW, the largest grant in the program’s history. 
+ His research, "True Twin," focuses on AI-based hyper-realistic digital twin technology for real-time remote collaboration. Over the next five years, he aims to develop a system that enables engineers to work remotely as if they were in the same space. 
+ This technology could become a new standard for remote work and play a key role in global manufacturing and facility management in response to labor shortages. 
+ 01242025_edited
+ 01242025_edited
+ 1/1
+ January 24-25, 2025 
+ Hansol Lim, JeeWon Lee, and Hanbeom Chang attended the 2025 IEEE/SICE International Symposium on System Integration (SII), held in Munich, Germany from January 21 to 24, 2025. 
+ The symposium brought together global experts to share the latest research and applications in system integration, with a focus on combining hardware and software to address industrial and social challenges. This participation provided a valuable opportunity for academic exchange and networking with international researchers. 
+ WorkshopPic#1
+ WorkshopPic#2
+ 01152025 (2)
+ WorkshopPic#1
+ 1/5
+ January 14, 2025 
+ The MEIC Lab participated in the “Energy Machinery Industrial Application Technology Workshop for Carbon Neutrality,” held at SUNY Korea, Songdo Campus, from January 15 to 16, 2025. This workshop, hosted by the Korea Refrigeration and Air-Conditioning Certification Center and SUNY Korea, focused on key technologies for sustainable energy use, including AI applications, virtual testing, and new energy systems like SMRs. Industry experts from various sectors gathered to share insights and discuss future directions for industrial processes such as paper manufacturing, dyeing, low-temperature processes, and secondary batteries. 
+ Mechanical Systems with Intelligence and Computer Vision Lab  
+ MEICLab in 2021 | Designed by Sooyeun Yang & Hajun Jang 
+ bottom of page

@@ -1,7 +1,17 @@
 ---
 layout: page
-title: Professor
+title: Jongseong Brad Choi, Ph.D.
 eyebrow: People
 permalink: /people/professor/
 ---
-> 기존 사이트 본문 수집 중 — 곧 채워집니다.
+
+**Assistant Professor**  
+Department of Mechanical Engineering  
+The State University of New York, SUNY Korea / Stony Brook University
+
+[jongseong.choi@stonybrook.edu](mailto:jongseong.choi@stonybrook.edu)
+
+## About
+
+Prof. Choi is an assistant professor in the Department of Mechanical Engineering (ME) at the State University of New York, Korea (SUNY Korea) and an affiliated faculty of ME at Stony Brook University since 2020. He received his PhD from ME at Purdue University, where he invented and redirected multiple visual analytics algorithms for various engineering applications and holds an M.S. and B.S. in ME from the University of Mississippi. His principal research focus is to exploit Engineering-Soft-Power (e.g., Computer Vision, Visual Analytics, Metaverse, Digital Twin) as a tool to develop techniques such as 1) Remote sensing through human-machine collaboration via metaverse; 2) Computer vision-based structural defect detection and safety diagnosis; 3) Autonomous driving of sensing platforms; 4) Homogeneous/heterogeneous vision sensing and 3D object recognition. Since 2017, Dr. Choi has made significant progress in the visual analytics field with multiple pioneering research projects supported by NSF (National Science Foundation), NASA, and EU (European Union), NRF (National Science Foundation of Korea), and more. To date, he has published over 30 journal and conference papers, with a major focus on visual analytics and remote sensing. Also, he is a board committee position in the Korean Society of Mechanical Engineers (KSME) – Division of Reliability Engineering and Korean Society of Prognostics and Health Management (KSPHM) while he is directing MEIC lab (
+

@@ -1,0 +1,112 @@
+-->
+ Journal Articles (List) | MEIC Laboratory 
+ top of page 
+ RESEARCH 
+ Overview 
+ Neural Rendering & Spatial AI Group 
+ PDI & Multimodal AI Group 
+ PIA & Embodied AI Group 
+ PEOPLE 
+ Professor 
+ Members 
+ PROJECT 
+ PUBLICATION 
+ Journal 
+ Intl. Conference 
+ Korean Conference 
+ Patents 
+ Awards 
+ NEWS 
+ GALLERY 
+ CONTACT 
+ SPIN-OFF COMPANY 
+ MEIC AI 
+ PUBLICATION 
+ Journals 
+ Transactions on Intelligent Vehicles, IEEE 
+ EV-PINN: Electric Vehicle Battery Surrogate Model Using Transformer-Based Physics-Informed Neural Network 
+ Hansol Lim, Jongseong Brad Choi*, Jee Won Lee, Jonathan Boyack 
+ Advanced Engineering Informatics, Elsevier 
+ 3D Reconstruction by Looking: Instantaneous Blind Spot Detection for Indoor SLAM through Mixed Reality 
+ Hanbeom Chang, Jongseong Brad Choi*, Chul Min Yeum 
+ Visual Informatics, Elsevier 
+ Photogrammetry Engaged Automated Image Labeling Approach 
+ Jonathan Boyack, Jongseong Brad Choi* 
+ The Structural Design of Tall and Special Buildings, Wiley 
+ Building Pose Detection for the Characterization of Reinforced Concrete Buildings 
+ Lissette Iturburu, Xiaoyu Liu, Xin Zhang, Benjamin E. Wogen, Juan Nicolas Villamizar, Shirley J. Dyke, Julio Ramirez, Jongseong Brad Choi, and Gianella Valencia, Sergio M. Alcocer 
+ Computers in Industry, Elsevier 
+ Data Localization on a Hyper-Realistic Display Model to Enable Remote Assessment: Implementation on a Full-Scale Ship Engine 
+ Jonathan Boyack, Jongseong Brad Choi*, Hansol Lim, Sangho Song, Jaecheul Park, Hwasup Jang 
+ Marine Environmental Research, Elsevier 
+ Deep learning based approach for automated characterization of large marine microplastic particles 
+ Xiao-Le Han, Toshiro Hata, Jongseong Choi, Yan-Jun Du, Yi-Jie Wang, & Ning-Jun Jiang 
+ Journal of Structural Engineering, American Society of Civil Engineering (ASCE) 
+ Automated Bridge Inspection Image Retrieval Based on Deep Similarity Learning and GPS 
+ Benjamin E. Wogen, Jongseong Brad Choi*, Xin Zhang, Xiaoyu Liu, Lissette Iturburu, and Shirly J. Dyke 
+ Computer-Aided Civil and Infrastructure Engineering, Wiley 
+ Automated image localization to support rapid building reconnaissance in a large-scale area 
+ Xiaoyu Liu, Shirley J. Dyke*, Ali Lenjani, Ilias Bilionis, Xin Zhang, & Jongseong Choi 
+ Applied Science, MDPI 
+ Automated Graffiti Detection: A Novel Approach to Maintaining Historical Architecture in Communities 
+ Jongseong Choi*, Lazaros Toumanidis, Chul Min Yeum, Patrikakis Charalampos, Ali Lenjani, Xiaoyu Liu, Panagiotis Kasnesis, Ricardo Ortiz, Nin-Jun Jiang, & Shirley J. Dyke 
+ Computer-Aided Civil and Infrastructure Engineering, Wiley 
+ Similarity learning to enable building searches in post-event image data 
+ Jongseong Choi*, Ju An Park, Shirley J. Dyke, Chul Min Yeum, Xiaoyu Liu, Ali Lenjani, & Ilias 
+ Computers in Industry, Elsevier 
+ CrowdLIM: Crowdsourcing to enable lifecycle infrastructure management 
+ Jongseong Choi* & Shirley J. Dyke 
+ Smart Materials and Structures, Institute of Physics Publishing (IOP Publishing) 
+ Autonomous image localization for visual inspection of civil infrastructure 
+ Chul Min Yeum*, Jongseong Choi, & Shirley J. Dyke. 
+ Sensors, MDPI 
+ Computer-aided Approach for Rapid Post-event Visual Evaluation of a Building Façade. 
+ Jongseong Choi, Chul Min Yeum*, Shirley J. Dyke, & Mohammad J. Jahanshahi 
+ Journal of Thermophysics and Heat Transfer, American Institute of Aeronautics and Astronautics (AIAA) 
+ Scramjet: Minimum Thrust-specific Fuel Consumption with Material Limit. 
+ Jeffrey A. Roux*, Neerad Shakya, & Jongseong Choi 
+ Computers & Graphics, Elsevier 
+ LiDAR-3DGS: LiDAR Reinforced 3D Gaussian Splatting for Multimodal Radiance Field Rendering 
+ Hansol Lim, Jongseong Brad Choi*, Hanbeom Chang 
+ Transactions on Visualization and Computer Graphics, IEEE 
+ Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in Gaussian Splatting 
+ Jee Won Lee, Jongseong Brad Choi*, Hansol Lim, Sooyeun Yang 
+ Transportation Research Part D: Transportation and Environment, Elsevier 
+ LogPath: Log data based Energy Consumption Analysis Enabling Electric Vehicle Path Optimization 
+ Jonathan Boyack, Jongseong Brad Choi*, Jongryeol Jeong, Hyungchai Park, Sewhan Kim 
+ Mathematics Recent Advances in Machine Learning and Deep Learning Theories: Towards Intelligent Fault Diagnosis, MDPI 
+ Autonomous Manipulation of Unmanned Ground Vehicle(UGV) with a User-Guided-Path on a Map: Quantitative Simulation and Analysis 
+ Ricardo Ortiz, Jongseong Brad Choi*, Alfredo Valenzuela, Francisco Yumbla, Taewook Kang, Okhue Cho, Jong-Eun Park, Chul Min Yeum 
+ Access, IEEE 
+ An Open-Source Multi-Robot Framework System for Collaborative Environments Based on ROS2 
+ Francisco Yumbla, Marcelo Fajardo, Anthony Piguave, Diego Ronquillo, Ricardo Ortiz, Jongseong Brad Choi, Gabriel Diaz, Xicu Garcia 
+ MDPI Electronics Digital Twins Special Issue, MDPI 
+ Development of Mobile App to Enable Local Update on Mapping API: Construction Sites Monitoring Through Digital Twin 
+ Alfredo Valenzuela, Jongseong Brad Choi*, Ricardo Ortiz, Byungkon Kang, Michael Kim, and Taewook Kang 
+ Journal of Machine and Computing, AnaPub Publication 
+ A Comparative Analysis of IoT based Network Anomaly Detection and Prediction Using Vector Autoregressive Models 
+ Ok-Hue Cho and Jongseong Choi 
+ Computers and Geotechnics, Elsevier 
+ Deep learning based approach for the instance segmentation of clayey soil desiccation cracks 
+ Xiao-Le Han, Ning-Jun Jiang*, Yu-Fei Yang, Jongseong Choi, Devandra N. Singh, Yan-Jun Du, & Yi-Jie Wang 
+ Journal of Performance of Constructed Facilities, American Society of Civil Engineering (ASCE) 
+ Multioutput Image Classification to Support Postearthquake Reconnaissance 
+ Ju An Park, Xiaoyu Liu, Chul Min Yeum*, Shirley J. Dyke, Max Midwinter, Chungwook Sim, Jongseong Choi, Zhiwei Chu, Thomas Hacker, & Bedrich Benes 
+ Sensors, MDPI 
+ Automated Indoor Image Localization to Support a Post-Event Building Assessment 
+ Xiaoyu Liu, Shirley J. Dyke*, Chul Min Yeum, Ilias Bilionis, Ali Lenjani, & Jongseong Choi 
+ Engineering Structures, Elsevier 
+ Towards fully automated post-event data collection and analysis: Pre-event and post-event information fusion 
+ Ali Lenjani*, Shirley J. Dyke, Ilias Bilionis, Chul Min Yeum, Kenzo Kamiya, Jongseong Choi, Xiaoyu Liu, & Arindam G. Chowdhury 
+ Sensors, MDPI 
+ Automated region-of-interest localization and classification for vision-based visual assessment of civil infrastructure 
+ Chul Min Yeum*, Jongseong Choi, & Shirley J. Dyke. 
+ Journal of Thermophysics and Heat Transfer, American Institute of Aeronautics and Astronautics (AIAA) 
+ Parametric Scramjet Cycle Analysis for Nonideal Mass Flow Rate 
+ Jeffrey A. Roux*, Jongseong Choi, & Neerad Shakya 
+ Journal of Thermophysics and Heat Transfer, American Institute of Aeronautics and Astronautics (AIAA) 
+ Revised Parametric Ideal Scramjet Cycle Analysis 
+ Jeffrey A. Roux*, Neerad Shakya, & Jongseong Choi 
+ Mechanical Systems with Intelligence and Computer Vision Lab  
+ MEICLab in 2021 | Designed by Sooyeun Yang & Hajun Jang 
+ bottom of page
