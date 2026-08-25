@@ -453,3 +453,17 @@ p{margin:0 0 14px}
 @media (max-width:820px){
   .page-hero.has-visual{padding:96px 0 48px;min-height:280px}
 }
+
+/* 씬 단계 캡션 (우하단 pill) */
+.hero-caption{
+  position:absolute;right:26px;bottom:20px;z-index:3;pointer-events:none;
+  font-size:.72rem;font-weight:600;letter-spacing:.13em;text-transform:uppercase;
+  color:#c7d2e2;padding:7px 15px;border:1px solid var(--line);border-radius:999px;
+  background:rgba(6,8,12,.55);backdrop-filter:blur(8px);
+  font-variant-numeric:tabular-nums;transition:opacity .24s;
+}
+.hero-caption:empty{opacity:0}
+.hero-caption.is-swap{opacity:0}
+@media (max-width:820px){
+  .hero-caption{right:12px;bottom:10px;font-size:.6rem;padding:5px 11px}
+}
