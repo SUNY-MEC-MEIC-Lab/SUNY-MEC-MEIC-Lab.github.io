@@ -39,7 +39,7 @@ VIDEOS = {
 def body(name):
     t = open(os.path.join(SRC, name + '.txt'), encoding='utf-8').read()
     t = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f​﻿]', '', t)
-    i = t.find('MEIC AI'); j = t.find('Mechanical Systems with Intelligence')
+    i = t.find('MEIC AI'); j = t.find('Mechanical Systems with Intelligence and Computer Vision Lab')
     return [l.strip() for l in t[i+7:j if j > 0 else None].split('\n') if l.strip()]
 
 def figures(paths):

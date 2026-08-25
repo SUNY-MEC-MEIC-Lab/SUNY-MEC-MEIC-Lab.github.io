@@ -414,3 +414,7 @@ p{margin:0 0 14px}
   border-left:2px solid var(--accent-dim);padding-left:20px;
   background:linear-gradient(90deg,rgba(90,162,255,.06),transparent 50%);
 }
+
+/* 학력 타임라인의 논문 제목 등 부가 설명 */
+.tl-note{display:block;margin-top:5px;color:var(--muted);font-size:.83rem;opacity:.85}
+.tl-note em{font-style:italic}

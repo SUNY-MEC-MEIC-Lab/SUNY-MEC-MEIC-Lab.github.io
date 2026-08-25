@@ -15,7 +15,7 @@ def body(name):
     """내비게이션/푸터를 잘라내고 본문만 반환"""
     t = open(os.path.join(SRC, name + '.txt'), encoding='utf-8').read()
     i = t.find('MEIC AI')
-    j = t.find('Mechanical Systems with Intelligence')
+    j = t.find('Mechanical Systems with Intelligence and Computer Vision Lab')
     t = t[i + 7 : j if j > 0 else None]
     t = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\u200b\ufeff]', '', t)   # NUL·제어문자 제거
     lines = [l.strip() for l in t.split('\n')]
