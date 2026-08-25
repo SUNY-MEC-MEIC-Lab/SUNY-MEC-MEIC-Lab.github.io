@@ -110,9 +110,10 @@ def journals():
             'Status': r.get('Status','').strip(),
             'URL': r.get('URL','').strip(),
             'Thumbnail': local(r.get('이미지','')),
+            'Featured': r.get('Featured','').strip(),
         })
     out.sort(key=lambda x: (x['Year'] or '0', x['Title']), reverse=True)
-    write('journals.csv', out, ['Title','Year','Venue','Authors','Status','URL','Thumbnail'])
+    write('journals.csv', out, ['Title','Year','Venue','Authors','Status','URL','Thumbnail','Featured'])
 
 # --- Projects ----------------------------------------------------------------
 def projects():
@@ -129,10 +130,35 @@ def passthrough(src, dst, sort_key=None, reverse=True):
     if sort_key: rows.sort(key=sort_key, reverse=reverse)
     write(dst, rows, list(rows[0].keys()))
 
+
+def stats():
+    """홈 하이라이트용 집계 — site/_data/stats.yml"""
+    def rows(name):
+        p = os.path.join(SRC, name)
+        return list(csv.DictReader(open(p, encoding='utf-8-sig'))) if os.path.exists(p) else []
+    j = [r for r in rows('Journal+Articles.csv') if r.get('Title')]
+    c = rows('Conference.csv'); a = rows('Awards.csv')
+    pt = rows('Patents.csv');   pr = rows('Projects.csv')
+    krw = sum(int(r['Budget_KRW']) for r in pr if r.get('Budget_KRW', '').isdigit())
+    out = {
+        'journals': len(j),
+        'journals_published': sum(1 for r in j if r.get('Status') == 'Published'),
+        'conference': len(c),
+        'awards': len(a),
+        'patents': len(pt),
+        'projects': len(pr),
+        'funding_krw_bn': round(krw / 1e9, 2),
+    }
+    with open(os.path.join(DST, 'stats.yml'), 'w', encoding='utf-8') as f:
+        for k, v in out.items():
+            f.write(f'{k}: {v}\n')
+    print(f'  site/_data/stats.yml         {len(out)}항목')
+
 if __name__ == '__main__':
     print('data/ -> site/_data/ 변환')
     members(); news(); journals(); projects()
     passthrough('Conference.csv', 'conference.csv', lambda r: (r['Year'], int(r['ID'][1:])))
     passthrough('Awards.csv',     'awards.csv',     lambda r: (r['Year'], int(r['No'])))
     passthrough('Patents.csv',    'patents.csv',    lambda r: int(r['ID'][1:]))
+    stats()
     print('완료')

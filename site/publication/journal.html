@@ -4,6 +4,28 @@ title: Journal Articles
 eyebrow: Publication
 permalink: /publication/journal/
 ---
+{% assign featured = site.data.journals | where: "Featured", "Y" %}
+{% if featured.size > 0 %}
+<div class="section-label">Selected Publications</div>
+{% for a in featured %}
+<article class="pub is-featured">
+  <div class="pub-thumb">
+    {% if a.Thumbnail != "" %}<img src="{{ a.Thumbnail | relative_url }}" alt="" loading="lazy">
+    {% else %}{% assign parts = a.Venue | split: "," %}
+      <div class="pub-thumb-ph"><span class="ph-pub">{{ parts.last | strip }}</span><span class="ph-year">{{ a.Year }}</span></div>
+    {% endif %}
+  </div>
+  <div class="pub-body">
+    <p class="pub-title">
+      {% if a.URL != "" %}<a href="{{ a.URL }}" target="_blank" rel="noopener">{{ a.Title }}</a>{% else %}{{ a.Title }}{% endif %}
+    </p>
+    <p class="pub-authors">{{ a.Authors }}</p>
+    <p class="pub-venue">{{ a.Venue }} · {{ a.Year }}</p>
+  </div>
+</article>
+{% endfor %}
+<div class="section-label" style="margin-top:52px">All Publications</div>
+{% endif %}
 {% assign years = site.data.journals | map: "Year" | uniq | sort | reverse %}
 {% for y in years %}
 <div class="section-label">{{ y }}</div>

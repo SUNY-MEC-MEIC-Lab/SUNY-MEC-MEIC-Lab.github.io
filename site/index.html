@@ -10,37 +10,93 @@ title: Home
   </div>
 </section>
 
+<section class="stats-band">
+  <div class="wrap stats-row">
+    <div class="stat"><b>{{ site.data.stats.journals }}</b><span>Journal Papers</span></div>
+    <div class="stat"><b>{{ site.data.stats.conference }}</b><span>Conference Papers</span></div>
+    <div class="stat"><b>{{ site.data.stats.awards }}</b><span>Awards</span></div>
+    <div class="stat"><b>{{ site.data.stats.patents }}</b><span>Patents</span></div>
+    <div class="stat"><b>{{ site.data.stats.projects }}</b><span>Research Projects</span></div>
+    <div class="stat"><b>{{ site.data.stats.funding_krw_bn }}B</b><span>KRW Funded</span></div>
+  </div>
+</section>
+
 <section class="page-body">
   <div class="wrap">
     <p>MEIC Lab works for establishing academic foundation to apply neural rendering based visual
        intelligence to engineering, industry, and public fields including reliability prediction of
        systems and structures, maintenance, remote sensing, and sustainable city applications.</p>
 
-    <div class="section-label">Representative Technologies</div>
-    <div class="grid grid-2">
-      <div class="card" style="padding:22px">
-        <h3 style="margin-top:0">Hyper-realistic Digital Twin</h3>
-        <p class="muted" style="margin:0">Visual intelligence based digital twin modeling and rendering</p>
-      </div>
-      <div class="card" style="padding:22px">
-        <h3 style="margin-top:0">Remote Sensing &amp; Teleoperation</h3>
-        <p class="muted" style="margin:0">Human-machine collaboration via metaverse and teleoperation</p>
-      </div>
-      <div class="card" style="padding:22px">
-        <h3 style="margin-top:0">Virtual Sensing SDK</h3>
-        <p class="muted" style="margin:0">Virtual sensing based SDK system for future vehicles</p>
-      </div>
-      <div class="card" style="padding:22px">
-        <h3 style="margin-top:0">3D Recognition</h3>
-        <p class="muted" style="margin:0">Homogeneous / heterogeneous vision sensing and 3D recognition</p>
-      </div>
+    <!-- 선별 논문 -->
+    {% assign feat_j = site.data.journals | where: "Featured", "Y" %}
+    {% if feat_j.size > 0 %}
+    <div class="section-label">Selected Publications</div>
+    <div class="grid grid-3">
+      {% for a in feat_j %}
+      <article class="card hl-pub">
+        {% if a.Thumbnail != "" %}
+        <div class="hl-thumb"><img src="{{ a.Thumbnail | relative_url }}" alt="" loading="lazy"></div>
+        {% endif %}
+        <div class="hl-body">
+          <p class="hl-year">{{ a.Year }}</p>
+          <p class="hl-title">
+            {% if a.URL != "" %}<a href="{{ a.URL }}" target="_blank" rel="noopener">{{ a.Title }}</a>
+            {% else %}{{ a.Title }}{% endif %}
+          </p>
+          <p class="hl-venue">{{ a.Venue }}</p>
+        </div>
+      </article>
+      {% endfor %}
     </div>
+    <p class="more-link"><a href="{{ '/publication/journal/' | relative_url }}">All {{ site.data.stats.journals }} journal papers →</a></p>
+    {% endif %}
 
-    <p class="muted" style="margin-top:34px">
-      MEIC 연구실은 신경 렌더링 기반의 시각 지능 기술을 공학, 산업, 공공 분야에 적용하기 위한 학문적 기반을
-      구축하는 데 주력하고 있습니다. 주요 적용 분야에는 시스템 및 구조물의 신뢰성 예측, 유지보수, 원격 센싱,
-      지속가능한 도시 구축 등이 포함됩니다.
-    </p>
+    <!-- 선별 과제 -->
+    {% assign feat_p = site.data.projects | where: "Featured", "Y" %}
+    {% if feat_p.size > 0 %}
+    <div class="section-label">Flagship Projects</div>
+    <div class="grid grid-2">
+      {% for p in feat_p %}
+      <article class="card hl-proj">
+        <p class="hl-year">{{ p.Date }}</p>
+        <p class="hl-proj-title">{{ p.Title_EN | default: p.Program_EN }}</p>
+        <p class="hl-proj-meta">{{ p.Role }} · {{ p.Funder_EN }}</p>
+        {% if p.Budget_Display != "" %}<p class="hl-budget">{{ p.Budget_Display }}</p>{% endif %}
+      </article>
+      {% endfor %}
+    </div>
+    <p class="more-link"><a href="{{ '/project/' | relative_url }}">All {{ site.data.stats.projects }} projects →</a></p>
+    {% endif %}
+
+    <!-- 선별 수상 -->
+    {% assign feat_a = site.data.awards | where: "Featured", "Y" %}
+    {% if feat_a.size > 0 %}
+    <div class="section-label">Awards &amp; Recognition</div>
+    <div class="grid grid-2">
+      {% for a in feat_a %}
+      <article class="card hl-award">
+        <p class="hl-year">{{ a.Date }}</p>
+        <p class="hl-award-name">{{ a.Award }}</p>
+        <p class="hl-venue">{{ a.Venue }}</p>
+        {% if a.Recipients != "" %}<p class="hl-people">{{ a.Recipients }}</p>{% endif %}
+      </article>
+      {% endfor %}
+    </div>
+    <p class="more-link"><a href="{{ '/publication/awards/' | relative_url }}">All {{ site.data.stats.awards }} awards →</a></p>
+    {% endif %}
+
+    <div class="section-label">Research Groups</div>
+    <div class="grid grid-3">
+      <a class="card hl-group" href="{{ '/research/neural-rendering/' | relative_url }}">
+        <h3>Neural Rendering &amp; Spatial AI</h3>
+        <p class="muted">Micro-Splatting, LiDAR-3DGS 기반 초실감 디지털 트윈</p></a>
+      <a class="card hl-group" href="{{ '/research/pdi-multimodal/' | relative_url }}">
+        <h3>PDI &amp; Multimodal AI</h3>
+        <p class="muted">AR·LiDAR·관성 센서 융합과 분산 협업 원격진단</p></a>
+      <a class="card hl-group" href="{{ '/research/pia-embodied/' | relative_url }}">
+        <h3>PIA &amp; Embodied AI</h3>
+        <p class="muted">물리 기반 신경망과 비전 로봇 제어</p></a>
+    </div>
 
     <div class="section-label">Latest News</div>
     {% assign ext = site.data.news | where: "Type", "External" %}
@@ -55,6 +111,6 @@ title: Home
       </div>
     </div>
     {% endfor %}
-    <p style="margin-top:26px"><a href="{{ '/news/' | relative_url }}" style="color:var(--accent)">All news →</a></p>
+    <p class="more-link"><a href="{{ '/news/' | relative_url }}">All news →</a></p>
   </div>
 </section>

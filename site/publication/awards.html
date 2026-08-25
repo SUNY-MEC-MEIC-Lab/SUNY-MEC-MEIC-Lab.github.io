@@ -5,6 +5,22 @@ eyebrow: Publication
 permalink: /publication/awards/
 ---
 <p class="muted" style="margin:-6px 0 8px">{{ site.data.awards.size }} recognitions</p>
+{% assign featured = site.data.awards | where: "Featured", "Y" %}
+{% if featured.size > 0 %}
+<div class="section-label">Major Awards</div>
+{% for a in featured %}
+<article class="pub is-featured">
+  <div class="pub-body">
+    <p class="pub-title">{{ a.Award }}</p>
+    {% if a.Venue != "" %}<p class="pub-venue">{{ a.Venue }}</p>{% endif %}
+    {% if a.Recipients != "" %}<p class="pub-authors">{{ a.Recipients }}</p>{% endif %}
+    {% if a.Work != "" %}<p class="pub-authors" style="font-style:italic">“{{ a.Work }}”</p>{% endif %}
+    <p class="pub-venue">{{ a.Date }}</p>
+  </div>
+</article>
+{% endfor %}
+<div class="section-label" style="margin-top:52px">All Awards</div>
+{% endif %}
 {% assign years = site.data.awards | map: "Year" | uniq | sort | reverse %}
 {% for y in years %}
 <div class="section-label">{{ y }}</div>

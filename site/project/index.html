@@ -14,7 +14,18 @@ permalink: /project/
   {% if g == "On Progress" %}{% assign key = "progress" %}{% else %}{% assign key = "finished" %}{% endif %}
   <div class="tab-panel" data-panel="{{ key }}"{% if key == "finished" %} hidden{% endif %}>
     {% assign items = site.data.projects | where: "Status", g %}
+    {% assign flag = items | where: "Featured", "Y" %}
+    {% for p in flag %}
+    <article class="project is-featured">
+      <p class="project-date">{{ p.Date }}<span class="flag-badge">Flagship</span></p>
+      <p class="project-head">{{ p.Header_Display }}</p>
+      {% if p.Title_KR != "" %}<p class="project-title-kr">{{ p.Title_KR }}</p>{% endif %}
+      {% if p.Title_EN != "" %}<p class="project-title-en">{{ p.Title_EN }}</p>{% endif %}
+      {% if p.Budget_Display != "" %}<p class="project-budget">{{ p.Budget_Display }}</p>{% endif %}
+    </article>
+    {% endfor %}
     {% for p in items %}
+    {% if p.Featured == "Y" %}{% continue %}{% endif %}
     <article class="project">
       <p class="project-date">{{ p.Date }}</p>
       <p class="project-head">{{ p.Header_Display }}</p>
