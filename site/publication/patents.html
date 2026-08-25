@@ -4,6 +4,9 @@ title: Patents
 eyebrow: Publication
 permalink: /publication/patents/
 ---
+{% assign reg = site.data.patents | where: "Status", "등록" %}
+{% assign fil = site.data.patents | where: "Status", "출원" %}
+<p class="muted" style="margin:-6px 0 8px">등록 {{ reg.size }} · 출원 {{ fil.size }}</p>
 {% assign years = site.data.patents | map: "Year" | uniq | sort | reverse %}
 {% for y in years %}
 <div class="section-label">{{ y }}</div>
@@ -11,9 +14,12 @@ permalink: /publication/patents/
 {% for p in group %}
 <article class="pub">
   <div class="pub-body">
-    <p class="pub-title">{{ p.TitleKR }}</p>
-    {% if p.TitleEN != "" %}<p class="pub-authors">{{ p.TitleEN }}</p>{% endif %}
-    <p class="pub-venue">{{ p.Status }} 번호: {{ p.Number }}</p>
+    <p class="pub-title">
+      {% if p.TitleKR != "" %}{{ p.TitleKR }}{% else %}{{ p.Title }}{% endif %}
+      <span class="badge{% if p.Status == '등록' %} review{% endif %}">{{ p.Status }}</span>
+    </p>
+    {% if p.TitleKR != "" %}<p class="pub-authors">{{ p.Title }}</p>{% endif %}
+    <p class="pub-venue">{{ p.Number }}{% if p.Country != "" %} · {{ p.Country }}{% endif %}{% if p.Month != "" %} · {{ p.Month }} {{ p.Year }}{% endif %}</p>
   </div>
 </article>
 {% endfor %}

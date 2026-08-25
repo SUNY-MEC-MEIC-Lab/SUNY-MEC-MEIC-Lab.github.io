@@ -5,6 +5,7 @@ eyebrow: Publication
 permalink: /publication/intl-conference/
 ---
 {% assign items = site.data.conference | where: "Type", "International" %}
+<p class="muted" style="margin:-6px 0 8px">{{ items.size }} papers</p>
 {% assign years = items | map: "Year" | uniq | sort | reverse %}
 {% for y in years %}
 <div class="section-label">{{ y }}</div>
@@ -12,9 +13,9 @@ permalink: /publication/intl-conference/
 {% for c in group %}
 <article class="pub">
   <div class="pub-body">
-    <p class="pub-title">{{ c.Title }}</p>
+    <p class="pub-title">{{ c.Title }}{% if c.Tags != "" %}<span class="badge review">{{ c.Tags }}</span>{% endif %}</p>
     <p class="pub-authors">{{ c.Authors }}</p>
-    <p class="pub-venue">({{ c.VenueAbbr }}) {{ c.Venue }}</p>
+    <p class="pub-venue">{{ c.Venue }}</p>
   </div>
 </article>
 {% endfor %}

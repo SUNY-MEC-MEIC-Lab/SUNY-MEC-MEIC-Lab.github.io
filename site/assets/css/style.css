@@ -174,3 +174,38 @@ p{margin:0 0 14px}
   .pub,.news-item{flex-direction:column}
   .pub-thumb,.news-cover{flex:none;width:100%;max-width:220px}
 }
+
+/* ---------- spin-off company ---------- */
+.company-hero{
+  padding:96px 0 76px;border-bottom:1px solid var(--line);
+  background:
+    radial-gradient(760px 380px at 18% 0%,rgba(90,162,255,.16),transparent 68%),
+    radial-gradient(620px 340px at 88% 12%,rgba(140,90,255,.10),transparent 68%);
+}
+.company-hero h1{font-size:clamp(2.6rem,7vw,4.6rem);margin:0 0 10px;font-weight:700;letter-spacing:-.03em}
+.company-tagline{
+  font-size:clamp(1rem,2vw,1.35rem);font-weight:600;margin:0 0 22px;
+  letter-spacing:.02em;color:var(--text);
+}
+.company-tagline span{
+  display:block;margin-top:6px;font-size:.8em;font-weight:400;
+  color:var(--muted);letter-spacing:.14em;text-transform:uppercase;
+}
+.cta{
+  display:inline-flex;align-items:center;gap:10px;margin-top:30px;
+  padding:13px 26px;border-radius:999px;font-weight:600;font-size:.95rem;
+  background:var(--accent);color:#04122a;transition:transform .18s,box-shadow .18s;
+}
+.cta:hover{transform:translateY(-2px);box-shadow:0 10px 30px rgba(90,162,255,.28)}
+.cta-outline{background:transparent;color:var(--accent);border:1px solid var(--accent-dim);margin-top:0}
+.cta-outline:hover{box-shadow:none;background:rgba(90,162,255,.1)}
+.feature-list{list-style:none;padding:0;margin:0}
+.feature-list li{
+  padding:16px 0 16px 26px;border-bottom:1px solid var(--line);position:relative;color:var(--muted);
+}
+.feature-list li::before{content:"";position:absolute;left:2px;top:24px;width:7px;height:7px;border-radius:50%;background:var(--accent)}
+.feature-list strong{color:var(--text);font-weight:600}
+.company-contact{
+  display:flex;justify-content:space-between;align-items:flex-end;gap:28px;flex-wrap:wrap;
+  margin-top:56px;padding:28px;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface);
+}

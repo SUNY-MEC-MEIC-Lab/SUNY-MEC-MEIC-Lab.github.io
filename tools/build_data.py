@@ -132,7 +132,7 @@ def passthrough(src, dst, sort_key=None, reverse=True):
 if __name__ == '__main__':
     print('data/ -> site/_data/ 변환')
     members(); news(); journals(); projects()
-    passthrough('Conference.csv', 'conference.csv', lambda r: (r['Year'], r['Type']))
-    passthrough('Awards.csv',     'awards.csv',     lambda r: r['Year'])
-    passthrough('Patents.csv',    'patents.csv',    lambda r: (r['Year'], r['Number']))
+    passthrough('Conference.csv', 'conference.csv', lambda r: (r['Year'], int(r['ID'][1:])))
+    passthrough('Awards.csv',     'awards.csv',     lambda r: (r['Year'], int(r['No'])))
+    passthrough('Patents.csv',    'patents.csv',    lambda r: int(r['ID'][1:]))
     print('완료')

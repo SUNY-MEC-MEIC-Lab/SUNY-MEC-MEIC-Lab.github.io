@@ -1,0 +1,1054 @@
+Page 1                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+                           JONGSEONG BRAD CHOI, Ph.D. 
+                           Assistant Professor  
+                           Department of Mechanical Engineering 
+                           The State University of New York, SUNY Korea  
+                           Stony Brook University 
+                           119-2 SongdoMoonhwa-Ro, Incheon, 21985, South Korea 
+ 
+jongseong.choi@stonybrook.edu 
++82 32 626 1811 
+meic-lab.com 
+YouTube 
+Github 
+ 
+RESEARCH INTERESTS 
+Machine Vision; Neural Scene Representation; Physics-Informed AI; Multimodal Spatial AI; Simulation-to-Real 
+Learning; Physical-AI; Human-in-the-loop Robotics; PHM; SHM 
+ 
+EDUCATION 
+PhD., Mechanical Engineering, Purdue University, West Lafayette, IN, USA …………………….…………………................ 06/2020 
+ Dissertation: Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems 
+MSc., Mechanical Engineering, University of Mississippi, University, MS, USA ……………………………….…………………. 05/2014 
+ Thesis: Parametric Scramjet Analysis 
+BSc., Mechanical Engineering, University of Mississippi, University, MS, USA …………………..………………………………. 08/2012 
+ 
+EMPLOYMENT HISTORY 
+Assistant Professor, Department of Mechanical Engineering ………………………………………………………………08/2020 – Present 
+The State University of New York, SUNY Korea, Incheon, South Korea 
+Affiliated Faculty (Courtesy), Department of Mechanical Engineering ………………………………………………09/2021 – Present 
+The State University of New York, Stony Brook University, Stony Brook, NY, USA 
+Founder & CEO…………………………………………………………………………………………………………………………..…………12/2025 – Present 
+MEIC AI Co., Ltd., Incheon, South Korea 
+Graduate Research Assistant, School of Mechanical Engineering ………………………………………………………08/2014 – 05/2020 
+Purdue University, West Lafayette, IN, USA 
+Graduate Research and Teaching Assistant, Department of Mechanical Engineering ………………………08/2012 –  05/2014 
+University of Mississippi, University, MS, USA 
+Army Corporal, Military Service …………………………………………………………………………………………………………09/2006 –  08/2008 
+First Logistics Support Command, Republic of Korea Army, Inje-Gun, South Korea 
+ 
+PROFESSIONAL POSITION 
+Associate Editor………………………………………………………………………………..…...…………………………………………… 10/2025 – Present 
+ASME Journal of Mechanisms and Robotics, New Jersey, United State 
+Chair Committee, Board of Business …………………………………………………………………………………………………… 01/2025 – Present 
+The Korean Society of Mechanical Engineers (KSME) – Division of Reliability Engineering, South Korea 
+Chair Committee, Board of Internal Business ……………………………………………………………………………………… 01/2024 – Present 
+The Korean Society of Prognostics and Health Management (KSPHM), South Korea 
+Committee, Board of Industry-Academia Collaboration …………………………………………………………………… 01/2025 – Present 
+The Korean Society of Mechanical Engineers (KSME) – Division of IT-Intelligence Convergence, South Korea 
+Committee, Board of Academic Affairs ………………………………..………………….............................................. 01/2025 – Present 
+The Korean Reliability Society, South Korea 
+Page 2                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+RESEARCH PROJECTS (Total amount awarded 4,223,065,000 KRW (3,519,221 USD); sole portion, 1 USD = 1,200 KRW) 
+35. 2026 strategic Research Program (SRP, 2026 년도 국가전략연구사업) (co-PI), supported by 
+NST (국가과학기술연구회). Funding Awarded: requested (sole portion ): $316,667 
+(380,000,000 KRW) for research entitled “Development of a Data-Driven Construction-Site-
+Specific AX Framework and Sustainable Platform (K-CAX)”, Total consortium grant of $32.6M 
+(39.1 billion KRW). 
+5/2026 – 12/2030 
+34. 2026 Future PAN Technology Program  (미래 판기술 프로젝트 사업) (co-PI), supported by  
+MOTIR ( 산업통상부). Funding Awarded : $50,000 (60,000,000 KRW) for research en titled 
+"Development of a Real -World–Integrated Spatial Intelligence Platform Based on 
+Multimodal 3D Scene Generation and a Superintelligent Operation Engine" , Tot al 
+consortium grant of $20.6M (24.7 billion KRW).  
+4/2026 – 12/2026 
+33. 2026 National ICT R&D and Standardization Support Program (2026 년도 제 1 차 정보통신방송 
+기술개발사업 및 표준개발지원사업) (co-PI), supported by  IITP(정보통신기획평가원). Funding 
+Awarded: $416,667 (500,000,000 KRW) for research entitled “Development of Real–Virtual 
+Synchronization Technology Between Digital Objects for Large -Scale Ultra -Realistic XR 
+Implementation”. Total consortium grant of $4.58M (5.5 billion KRW). 
+4/2026 – 12/2028 
+32. 2026 National ICT R&D and Standardization Support Program (2026 년도 제 1 차 정보통신방송 
+기술개발사업 및 표준개발지원사업) (co-PI) supported by  IITP(정보통신기획평가원). Funding 
+Awarded: $225,000 (270,000,000 KRW ) for research entitled  “Multimodal AI –Based 
+Automated Large -Scale Neural Rendering for Sim2Real in Physical AI” . Total consortium 
+grant of $1.50M (1.8billion KRW). 
+4/2026 – 12/2028 
+31. Advanced GPU Utilization Support Program  (PI), supported by NIPA ( 정보통신산업진흥원). 
+Award of two of B200 GPUs 
+4/2026 – 5/2026 
+30. Research Consultant (PI), supported by ETRI (한국전자통신연구원). Funding awarded: $41,667 
+USD (KRW 50,000,000) for a research project entitled “Development of a Real -Time 
+Rendering Tool for High -Frequency Detail Restoration via Covariance - and Isotropy -
+Controlled 3D Gaussian Splatting (Micro-Splatting).” 
+10/2025 – 01/2026 
+29. Research Consultant (PI), supported by LS Materials and KETI (한국전자기술연구원). Funding 
+awarded: $22,917 USD (KRW 27,500,000) for a research project entitled  “Development of 
+Realistic Virtual Environment-Based UC Module Cell Balancing Optimization Technology.” 
+06/2025 – 09/2025 
+28. Industrial AI and Machine Vision Partnership (PI), supported by ITP (인천테크노파크) Funding 
+awarded: $10,000 USD (KRW 12,000,000) for a research project entitled “Machine Vision via 
+Enhanced Industrial AI Platforms and MLOps Implementation.” 
+05/2025 – 12/2025 
+27. 2025 Metaverse Lab. Program (PI), supported by RAPA (한국전파진흥협회). Funding awarded: 
+$568,523 USD (KRW 682,227,000) for “MetaReal: Commercialization of Neural Rendering–
+Based Hyper -Realistic Spatial Information Metaverse Technology.”  (2026 메타버스랩 선정; 
+수행 4 개대학 – 한국과학기술원, 연세대, 고려대, 한국뉴욕주립대) 
+05/2025 – 12/2027 
+(ongoing) 
+26. 2025 Hyundai Motor Company Future Technology Research Program (PI), supported by 
+Hyundai Motor Group  (현대자동차그룹). Funding awarded: $55,000 USD (KRW 66,000,000) 
+for a research project entitled  “Physics-Informed Neural Network (PINN) -Based EV Energy 
+05/2025 – 12/2025 
+Page 3                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+Consumption PHM Model and EV Navigation System Development.”  (2025 현대자동차 
+미래기술공모과제 선정) 
+25. Excellent Young Researcher Program  (우수신진연구) (PI), supported by NRF ( 한국연구재단 
+우수신진연구). Funding awarded: $1,006,541 USD (KRW 1,207,849,000) for a research project 
+entitled “True Twin: AI -based Hyper -Realistic Industrial Digital Twin for Distributed 
+Collaborative and Predictive Facility Maintenance in Mixed Reality .” (2025 한국연구재단 
+우수신진연구 선정; equivalent to NSF CAREER) 
+03/2025 – 02/2030 
+(ongoing) 
+24. Research Consultant  (PI), supported by KIMM ( 한국기계연구원) and Doosan Enerbility  
+(두산에너빌리티). Funding awarded: $15,191 USD (KRW 18,229,000) for  a research project 
+entitled “Development of High -Resolution Modeling for Nuclear Reactor and Internal 
+Structures with Neural Rendering.” 
+01/2025 – 06/2025 
+23 Graduate Student Support P artnership (Collaborator), supported by Sungkyunkwan 
+University. Funding awarded: $20,000 USD (KRW 24,000,000) for the project entitled “AI-
+Driven Reliability and Thermal Optimization for Semiconductor Packages.” 
+01/2025 – 03/2025 
+22. Promising Labs Graduate Student Research Support Program (PI, Internal), supported by 
+SUNY Korea R&BDF. Funding awarded: $14,667 USD (KRW 17,600,000). 
+09/2024 – 12/2024 
+21. International Joint Research Support  Program (PI, Internal) , supported by SUNY Korea 
+R&BDF. Funding awarded: $7,500 USD (KRW 9,000,000). 
+06/2024 – 11/2024 
+20. Research Consultant (PI), supported by KR (한국선급). Funding awarded: $36,667 USD (KRW 
+44,000,000) for a research project entitled “Remote Ship Inspection online Platform.” 
+03/2024 – 10/2024 
+19. Research Consultant  (PI), supported by MDS Intelligence Inc  (MDS 인텔리전스). Funding 
+awarded: $50,417 USD  (KRW 60,500,000)  for a research project entitled “Indoor 3D 
+Modeling for Facility Digital Twins.” 
+11/2023 – 2/2024 
+28. 2023 Global Product Service Localization Research (PI) , supported by ITP ( 인천테크노파크). 
+Funding awarded: $4,167 USD (KRW 5,000,000). 
+08/2023 – 10/2023 
+17. Research Consultant (PI), supported by KR (한국선급). Funding awarded: $36,667 USD (KRW 
+44,000,000) for a research project entitled “Robot Vision-Based Ship Engine Sensing.” 
+05/2023 – 12/2023 
+ 
+16. STEAM Activity Research Program for Gifted High School Students (PI), supported by IASA 
+(인천과학예술영재학교). Funding awarded: $13,333 USD (KRW 16,000,000). 
+03/2023 – 12/2023 
+15. 2022 Global Product Service Localization Research (PI) , supported by ITP ( 인천테크노파크). 
+Funding awarded: $4,167 USD (KRW 5,000,000). 
+09/2022 – 12/2022 
+14. Basic Research Program (PI), supported by NRF ( 한국연구재단). Funding awarded: $84,600 
+USD (KRW 101,520,000) for a research project entitled  “Emulation and Enhancement of 
+Human Capability on Infrastructure Assessment: Engineering -Soft-Power Engaged 
+Monitoring and 3 Major Techniques Development.” 
+06/2022 – 02/2024 
+13. Industry-Academia Research Consortium for Future Mobility (Co-PI), supported by ITP 
+(인천테크노파크). Funding awarded: $23,333 USD (KRW 28,000,000; 46.67% share of total 
+$50,000) for a research project entitled “Smart-Car MCU Component and Module 
+Development.” 
+05/2022 – 12/2022 
+Page 4                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+12. Space Exploration and In -Situ Resource Utilization (ISRU) Core Technology Research 
+Center Program (Co-PI), supported by KASA ( 한국우주항공청). Funding awarded: $395,833 
+USD (KRW 475,000,000; 4.03% share of total $9.83M) for a research project entitled “Space 
+Exploration and In-Situ Resource Utilization Center (SRC).” 
+04/2022 – 12/2026 
+(ongoing) 
+11. Research Consultant (PI), supported by AIDL Co.  Funding awarded: $4,750 USD  (KRW 
+5,700,000) for a research project entitled “IMU-Based Autonomous Guided Vehicle Control 
+System.” 
+03/2022 – 07/2022 
+10. 2021 Global Product Service Localization Research (PI) , supported by ITP ( 인천테크노파크). 
+Funding awarded: $8,333 USD (KRW 10,000,000). 
+10/2021– 12/2021 
+9. Equipment Grant (PI) , supported by KICT ( 한국건설기술연구원). Award of 3 UGVs and  
+Velodyne LiDAR Puck equivalent to $44,167 USD (KRW 53,000,000) 
+06/2021 – 06/2031 
+(ongoing) 
+8. 2021 Metaverse Lab.  (Co-PI), supported by RAPA  (한국전파진흥협회). Funding awarded: 
+$17,250 USD (KRW 20,700,000; 3.45% share of total $500,000)  for a project entitled “XR-
+Based Intuitive Inventory System for Smart Factory.” 
+04/2021 – 12/2021 
+7. First Career Research Grant  (PI), supported by NRF ( 한국연구재단). Funding awarded: 
+$25,200 USD  (KRW 30,240,000)  for a research project entitled  “Automating Visual 
+Assessment of Infrastructure Exploiting Computer Vision and Big Visual Data”. 
+03/2021 – 02/2022 
+6. NSF OAC (Office of Advanced Cyberinfrastructure) (Graduate RA) (Grant No. NSF-1835473) 
+for a research project entitled “Integrating Human and Machine for Post -Disaster Visual 
+Analytics.” 
+01/2019 – 05/2020 
+5. EU Horizon 2020 Research & Innovation Programme (Graduate RA) (Grant No. 700191) for 
+a research project entitled “STORM: Cultural Heritage Risk Management.” 
+04/2017 – 05/2020 
+4. NASA Space Technology Mission Directorate (STMD) (Graduate RA) for a research project 
+entitled “Resilient ExtraTerrestrial Habitats Institute (RETHi / RETH).” 
+08/2018 – 05/2020 
+3. NSF CAREER Program  (Graduate RA)  (Grant No. NSF -1645047) for a research project 
+entitled “Active Citizen Engagement for Infrastructure Lifecycle Management.” 
+05/2017 – 08/2018 
+2. State Planning and Research (SPR) Program (Graduate RA), supported by INDOT (Grant No. 
+SPR-4006) for a research project entitled “Image-Based Collection and Measurement for 
+Construction Pay Items.” 
+05/2015 – 08/2017 
+1. Graduate Student Support Awards  (Graduate RA) , supported by the University of 
+Mississippi for a research entitled “Parametric Analysis of Scramjet Engine Performance.” 
+08/2012 – 05/2014 
+ 
+TEACHING RECORDS 
+Course Teaching  
+MEC 559: (Graduate Course) Mobile Robotics and Autonomous Vehicle – Computer Vision and  
+                  Control at the State University of New York, SUNY Korea 
+Sp 24 – 25 
+MEC 510: (Graduate Course) Object-Oriented Programming for Scientists and Engineers – Visual  
+                  Analytics for Mechanical Engineers at the State University of New York, SUNY Korea 
+Sp22 – 25 
+MEC 410: Design of Machine Elements at the State University of New York, SUNY Korea Sp22 – 23 
+MEC 301: Thermodynamics at the State University of New York, SUNY Korea: Recorded the highest  
+                   course evaluation score in the department 
+Fa20 – 25 
+Page 5                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+MEC 320: Numerical Methods in Engineering Design and Analysis at the State University of New  
+                  York, SUNY Korea 
+Fa21 – 25 
+MEC 363: Mechanics of Materials at the State University of New York, SUNY Korea Sp21 
+ 
+STUDENT SUPERVISED (Total of 5 Ph.D., 14 Master’s, 44 bachelor’s level RAs) 
+RAs – Course of Ph.D., the State University of New York, SUNY Korea  
+1. (Graduated) Jonathan Boyack : Engineering-Soft-Power: A New Engineering Approach 
+through Visual Intelligence, Machine Learning, and Hyper-Realistic Digital Twin (appointed 
+postdoc at Purdue Univ. IN, USA) 
+2021.03 – 2025.12 
+2. Ricardo Ortiz: Development of RKTGPS-based Autonomous Vehicle using ROS (LoA) 2024.03 – Present  
+3. Hansol Lim: Physics-Informed Neural Operator for Sim2Real in Physical-AI 2024.09 – Present 
+4. Alfredo Valenzuela: An Automated Camera Calibration for Long-distance Assessment 2025.03 – Present 
+5. Jee Won Lee: MicroSplats: Image-based 3D Reconstruction using Micro Gaussian Splatting 2025.09 – Present 
+RAs – Course of Master’s, the State University of New York, SUNY Korea  
+1. (Graduated) Hanbeom Chang: SRCX: Advanced Visual Sensor Fusion for Remote Structural 
+Assessment and Collaborative Inspection in Extended Reality (currently at SK AX Co., Ltd., 
+South Korea) 
+2023.03 – 2025.06 
+2. (Graduated) Jee Won Lee: A  Unified Framework for High -Fidelity 3D Gaussian Splatting 
+and Remote Inspection  from Micro -splatting to ReVIEW  (currently in a  Ph.D. program, 
+Research Assistant, SUNY Korea) 
+2022.03 – 2025.06 
+3. (Graduated) Alfredo Valenzuela: An Automated Long-Range Pan-Tilt-Zoom Target Control 
+and Mapping App System for Remote Sensing (currently in a Ph.D. program, Research 
+Assistant, SUNY Korea) 
+2022.08 – 2024.12 
+4. (Graduated) Hansol Lim: LiDAR -3DGS: LiDAR Reinforced 3D Gaussian Splatting for  
+Accurate Digital Twins (currently in a Ph.D. program, Research Assistant, SUNY Korea) 
+2022.08 – 2024.06 
+5. (Graduated) Ricardo Ortiz: Autonomous  Manipulation of Unmanned Ground Vehicle  
+(UGV) with an User-Guided-Path on a Map: Quantitative Simulation and Analysis (currently 
+in a Ph.D. program, Research Assistant, SUNY Korea) 
+2021.08 – 2023.12 
+6. (Graduated) Jonathan Boyack: Non-Thesis option (currently in a Ph.D. program, Research 
+Assistant, SUNY Korea) 
+2020.08 – 2021.12 
+7. Hyeoji Chang: 3D Gaussian Splatting SLAM (LoA) 2025.03 – Present 
+8. Sooyeun Yang: Digital Twin Operation through Issac SIM 2025.03 – Present 
+9. Minhyeok Im (CS major): Neural Rendering engaged SLAM 2025.09 – Present 
+10. Nahyun Kim (CS major, engaged): Sim2Real in Physical-AI engaged Smart Factory 2026.03 – Present 
+11. Cheyul Im (engaged): Hyper-Resolution 3D Reconstruction and Blender 2026.03 – Present 
+12. Sungwook Choi (engaged): Multimodal-AI through Mixed/Virtual Reality 2026.03 – Present 
+13. Sunghoon Jeong (engaged): Neural Rendering based Sim2Real & Physical-AI 2026.03 – Present 
+14. Semin Bae (engaged): Real-time and Spatial Synchronization for Teleoperation System 2026.03 – Present 
+RAs – Funded Undergraduate Researchers, the State University of New York, SUNY Korea  
+1. (Graduated) Cheyul Im (master’s program at MEC at SUNY Korea) 2025.03 – 2025.12 
+2. (Graduated) Sungwook Choi (master’s program at MEC at SUNY Korea) 2025.03 – 2025.12 
+3. (Graduated) Sunghoon Jeong (master’s program at MEC at SUNY Korea) 2025.03 – 2025.12 
+4. (Graduated) DaeRyeon Choi (master’s program at Univ. of Michigan Ann Arbor) 2024.01 – 2024.12 
+5. (Graduated) Mijin Lee (GM Korea, South Korea) 2024.01 – 2024.12 
+6. (Graduated) Jungmin Lee (Hyundai Mobis, USA) 2024.01 – 2024.12 
+Page 6                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+7. (Graduated) Eunjae Lee (Skyes Blackchain, Co., South Korea) 2024.01 – 2024.12 
+8. (Graduated) Soo-Jung Chi (Johnson & Johnson Innovative Medicine, South Korea) 2024.01 – 2024.12 
+9. (Graduated) Hojin Song (Army, Military Service, South Korea) 2024.01 – 2024.12 
+10. (Graduated) Sooyeun Yang (master’s program at MEC, SUNY Korea) 2024.01 – 2024.12 
+11. (Graduated) Hyobin Shin (running own business, South Korea) 2024.01 – 2024.12 
+12. (Graduated) Leeloy Makusha (master’s program at UT Alington, USA) 2023.01 – 2023.12 
+13. (Graduated) Yoonseong Kim (Research Intern at KITECH, South Korea) 2023.07 – 2023.12 
+14. (Graduated) Sambridha Bhattarai (owner of Cinder Bar, South Korea) 2023.07 – 2023.12 
+15. (Graduated) Dannielle Macmaster (an engineering Company, USA) 2023.01 – 2023.12 
+16. (Graduated) Hanbeom Chang (master’s program at MEC at SUNY Korea) 2022.07 – 2023.06 
+17. (Graduated) Jaewon Lee (master’s program at MEC at SUNY Korea) 2022.07 – 2023.06 
+18. (Graduated) Yijoo Um (Korea Aerospace Industries - KAI, Ltd., South Korea) 2022.07 – 2023.06 
+19. (Graduated) Seunghyun Cha (KT, Co., Ltd., South Korea) 2022.01 – 2024.12 
+20. (Graduated) Jimin Shin (master’s program at MEC at SUNY Korea) 2022.01 – 2024.12 
+21. (Graduated) Pureun Jeong (Yujin Robotics, Co, Ltd., South Korea) 2021.07 – 2022.06 
+22. (Graduated) Hojung Lim (master’s program at CS at USC, USA) 2021.07 – 2021.12 
+23. (Graduated) Hyeji Chang (undergrad program at Georgia Tech, USA) 2020.07 – 2021.06 
+24. (Graduated) Jeewon Lee (master’s program at SUNY Korea, South Korea) 2020.07 – 2021.12 
+25. (Graduated) Hansol Lim (master’s program at SUNY Korea, South Korea) 2020.07 – 2021.03 
+26. (Graduated) Sooyon Chang (master program at Cornell University, USA) 2020.07 – 2021.12 
+27. (Graduated) Hyunseung Cha (Hyundai Rotem, Co., Ltd., South Korea) 2020.07 – 2021.12 
+28. (Graduate) Gunwoo Kim: Camera Calibration for Rapid Projection Matrix Generation 2025.01 – 2025.13 
+29. (Graduated) Prince-David Malendele (Brookhaven Natl. Lab., USA) 2020.07 – 2021.12 
+30. Justin Kim: Neural Rendering and Multimodal AI 2026.01 – Present 
+31. Andrew Kim: AGI and Safe AI 2026.01 – Present 
+32. Jaesuk Song: XR-based teleoperations 2026.01 – Present 
+33. Janheum Park: Voxel-based 3D reconstruction 2026.01 – Present 
+34. Jeonghwan Jeikal: Physics-informed Neural Operator 2026.01 – Present 
+35. Christopher Song: Physics-informed Neural Operator 2026.01 – Present 
+36. Seungho Jun (CS major): Front-End App Development for Real-time Rendering 2025.07 – Present 
+37. Dohyun Lee (CS major): Voxel based 3D Reconstruction 2025.07 – Present 
+38. Sanha Jang: Neural Rendering based Hyper-Realistic Spatial Information Metaverse 2025.07 – Present 
+39. Hajun Jang: Neural Rendering based Hyper-Realistic Spatial Information Metaverse 2025.07 – Present 
+40. Eunha Choi: Neural Rendering based Hyper-Realistic Spatial Information Metaverse 2025.07 – Present 
+Research Intern via International MOU  
+41. Lesus Aguilla (Research Intern from Ecuador): UGV Swarm: inter-connected through LiDAR 
+and ROS, Undergraduate student, Dept. of Mechatronics, Escuela Superior Politécnica del 
+Litoral, Ecuador 
+2023.01 – 2023.05 
+42. Hugo Zuniga (Research Intern from Ecuador): Adaptive Control of PTZ sensor  
+Undergraduate student, Dept. of Mechatronics, Escuela Superior Politécnica del Litoral, 
+Ecuador 
+2024.01 – 2024.05 
+43. Felipe Zuniga (Research Intern from Ecuador): Adaptive Control of 7 -DOF Robot Arm  
+Undergraduate student, Dept. of Mechatronics, Escuela Superior Politécnica del Litoral,  
+Ecuador 
+2024.01 – 2024.05 
+Dissertation Committee, Ph.D. Student other than my own students, the State University of New York, SUNY Korea 
+Page 7                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+1. Mark Anthony Rotor: Designing  tidal turbine (HATT) blades utilizing A rtificial Neural 
+Network (ANN) where I serve as chair of the committee (Supervisor Prof. Hefazi) 
+2021.01 – 2023.08 
+2. Saebom Jin: Breaking the Vicious Cycle:  How Vulnerable Cities Can Develop Smart and 
+Sustainable with Adaptation Planning (Supervisor Prof. Maliphol) 
+2023.04– 2023.12 
+Theis Committee, Master Student other than my own students,  the State University of New York, SUNY Korea 
+1. Suyeon Lee: Prognostics using Nonlinear Cumulative Damage Model for Electronic Devices 
+where I serve as member of the committee (Supervisor Prof. Han) 
+2021.08– 2023.06 
+Research Mentor, Undergraduate Research Course, Purdue University  
+• Wookjin Chung: 6 credits of undergraduate research (Sp2018, Fal2019)  
+• Jonghyun Park: 6 credits of undergraduate research (Sp2018, Fa2019)  
+• Gun Wook Park: 6 credits of undergraduate research (Sp2017, Fa2017)  
+• Sharda Parth: 3 credits of undergraduate research (Sp2018)  
+• Yisong Yin: 6 credits of undergraduate research (Fa2016, Sp2017)  
+ 
+VISITING SCHOLARS 
+ 
+1. Prof. Chul Min Yeum from University of Waterloo, ON, Canada: Teleoperation 
+through XR platform 
+2025.10 – 2026.09 
+ 
+2. Prof. Francisco Yumbla from Escuela Superior Politécnica del Litoral  (ESPOL), 
+Ecuador: 7DOF Robot Arm for High-Precision Image Sensor Zoom Control 
+2025.10 – 2026.01 
+ 
+CURRICULUM DEVELOPMENT AND EDUCATIONAL SERVICE 
+ 
+Graduate Course Development  – MEC 559 Mobile Robotics and Autonomous Vehicles: 
+Computer Vision and Control 
+2024 - present 
+• Students are to be trained to manipulate a Robot Operating System (ROS) package, 
+work on related tasks 
+ 
+Graduate Course Development – MEC 510 Object-Oriented Programming for Scientists and 
+Engineers: Visual Analytics and Sensing 
+2022 – present 
+• Providing Computer Vision (CV) and Machine Learning (ML) techniques in various 
+mechanical engineering subjects 
+ 
+High School Credit System and Curriculum 
+• Chosen and served as an instructor for the 16 -hour course “Computer Vision and 
+Sustainable Cities Applications” organized by Incheon of Education 
+2016 – 2017 
+TRAILS: Teachers and Researchers Advancing Integrated Lessons in STEM, Purdue University 2016 – 2017 
+• Supported by NSF under Grant No. NSF-1513248 
+• Participated as a graduate research assistant in promoting  practices that increase 
+students' motivations and capacities to pursue careers in STEM area. 
+ 
+SLED:  Science Learning through Engineering Design, Purdue University 
+• Supported by NSF under Grant No. NSF-0962840 
+• Participated as a graduate research assistant in c ollaboration between STEM 
+disciplinary faculty and grades 3-6 teachers. 
+2015- 2016 
+ 
+ 
+ 
+Page 8                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+HONORS & AWARDS (22 Recognitions/ Achievement / Award) * corresponding author or PI 
+Awards  
+1. Outstanding Presentation Award  from Intl. Conf. on Precision Engineering and Sustainable 
+Manufacturing (PRESM 2025, Chiangmai, Thailand) 
+07/2025 
+• Jongseong Choi* , “Physics-informed Neural Network (PINN) and Hyper -realistic Digital 
+Twin (3DGS) for Predictive Engineering System Assessment” 
+ 
+2. Promising Young Scientist Award from Korean Society of Mechanical Engineers Reliability 
+Division 2025 (KSME Reliability 2025, Gyeongju, South Korea) 
+04/2025 
+• Jongseong Choi*, “EV-PINN: Electric Vehicle Battery Surrogate Model using Transformer-
+Based Physics Informed Neural Network” 
+ 
+3. Grand Prize  from “Idea Challenge Competition ” held by Korean Society of Mechanical 
+Engineers Chungcheong Division and KIMM 2024 (KSME Chungcheong 2024, Daejeon, South 
+Korea) 
+12/2024 
+• Hansol Lim, Jeewon Lee, Hanbeom Chang, Sooyeun Yang, and Jongseong Choi*, “Physics-
+Informed Neural Network for EV Battery Prediction” 
+ 
+4. Outstanding Paper Award from 7th Intl. Conf. on Materials and Reliability (ICMR 2025, Busan, 
+South Korea) 
+12/2024 
+• Jeewon Lee, Hansol Lim, Jongseong Choi*, Sangho Song, Jaechul Park, and Hwasup Jang , 
+“Development of a 3D Gaussian Splatting Digital Twining Platform  for Remote Ship 
+Assessment” 
+ 
+5. Vice Presidential Award for Industrial Potential from 2024 SUNY Korea Research Challenge 12/2024 
+• The team of Hansol Lim, Jeewon Lee, Hanbeom Chang,  and Jongseong Choi* won the 
+competition and a monetary prize of $10,000 for conference attending 
+ 
+6. Best Poster Award from Annual Conf. of the Korean Society of PHM (PHM Korea 2024, Seoul, 
+South Korea) 
+10/2024 
+• Hanbeom Chang and Jongseong Choi* , “LiDAR-Camera based Real -time 3D 
+Reconstruction with Mixed Reality Visualization System” 
+ 
+7. Best Paper Award from Korean Society of Mechanical Engineers Reliability Division 2024 
+(KSME Reliability 2024, Yeosu, South Korea) 
+03/2024 
+• Jonathan Boyack  and Jongseong Choi *, “Falling Haz ard Assessment Application: 
+Automated Labelling Large Data Sets for Transfer Learning Models” 
+ 
+8. Outstanding Thesis Award from Korean Society of Mechanical Engineers Reliability Division 
+2024 (KSME Reliability 2024, Yeosu, South Korea) 
+03/2024 
+• Ricardo Ortiz and Jongseong Choi , “Autonomous Manipulation of Unmanned Ground 
+Vehicle (UGV) with an User-Guided-Path on a Map: Quantitative Simulation and Analysis” 
+ 
+9. Outstanding Paper Award from 14th Intl. Symposium on NDT in Aerospace (AeroNDT  2023, 
+Busan, South Korea) 
+11/2023 
+• Hansol Lim and Jongseong Choi*, “Real-Time 3D Video Generation Using NeRF”  
+10. Best Paper Award from 14th Intl. Symposium on NDT in Aerospace (AeroNDT  2023, Busan, 
+South Korea) 
+11/2023 
+• Jonathan Boyack, Hansol Lim, Alfredo Valenzuela,  Jongseong Choi* , Sangho Song, 
+Yongseok Choi, and Dongguk Im , “Region of Interest Locator with Digital Twin Model 
+Generation of Large-Scale Facility” 
+ 
+11. Excellent Presentation Award from Korean Society of Mechanical Engineers  Annual Meeting 
+2023 (KSME 2023, Incheon, South Korea) 
+11/2023 
+Page 9                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+• Hansol Lim and Jongseong Choi*, “Seamless 3D Scene Control of NeRF Generated Digital 
+Twin Environments” 
+ 
+12. Best Paper Award from Korean Society of Mechanical Engineers Annual Meeting 2023 (KSME 
+2023, Incheon, South Korea) 
+11/2023 
+• Jonathan Boyack  and Jongseong Choi* , “Falling Hazard Assessment Application: 
+Automated Labelling Large Data Sets for Transfer Learning Models” 
+ 
+13. Bronze Medal from Korean Society of Mechanical Engineers Annual Meeting 2023  (KSME 
+2023, Incheon, South Korea) 
+11/2023 
+• Hansol Lim participated a LLM Competition and won with title “ 
+LLM-based Fault Diagnosis and Natural Language Response in Military Robots and Drones” 
+ 
+14. Outstanding Project Award from Incheon Technopark (ITP) 11/2023 
+• The team MEIC (Ricardo Ortiz, Jonathan Boyakck, Alfredo Valenzuela, and Sambridha 
+Bhattarai, supervised by Jongseong Choi, won "2023 Global Product -Service Localization 
+Research Award Competition” 
+ 
+15. Promising Young Scientist Award from Annual Conference of the PHM Korea Society (PHM 
+Korea 2023, Seoul, South Korea) 
+07/2023 
+• Jongseong Choi* , "Engineering-Soft-Power engaged visualization analytics and human -
+machine collaboration remote assessment for large-scale structures" 
+ 
+16. Best Paper Award from Annual Conference of the PHM Korea Society (PHM Korea 2023, Seoul, 
+South Korea) 
+07/2023 
+• Hansol Lim and Jongseong Choi*, “Real-Time, Non-Intrusive Inspection of Structures and 
+Machines Using Visual Analytics and SfM-Based Digital Twin Generation” 
+ 
+17. Best Paper Award from Korean Society of Mechanical Engineering Annual Meeting 2022  
+(KSME 2024, Jeju, South Korea) 
+11/2022 
+• Jonathan Boyack and Jongseong Choi*, "A Real -Time Log Data Analytics -based Electric 
+Vehicle Path Optimization", only 2 papers were selected for this award among all papers 
+submitted to the Reliability Division in KSME. 
+ 
+18. Best Paper Award from Korean Society of Mechanical Engineering  Annual Meeting 2022  
+(KSME 2024, Jeju, South Korea) 
+11/2022 
+• Pureun Jeong, Jimin Shin, Seung Hyun Cha, Jongseong Choi*, "Indoor Navigation System 
+Designed for a Safety of Construction Site", Only 2 papers were selected for this award 
+among all papers submitted to the Reliability Division in KSME. 
+ 
+19. Outstanding Project Award from Incheon Technopark (ITP), Incheon, South Korea 11/2022 
+• The team MEIC (Jonathan Boyakck, Ricardo Ortiz, and Jee Won Lee, supervised by Prof. 
+Jongseong Choi, won "2022 Global Product -Service Localization Research Award 
+Competition” 
+ 
+20.  Travel Award & Workshop Invitation from NHERI RAPID Experimental Facility, NSF  (UW 
+Seattle, WA, USA) 
+07/2019 
+• This award selects 20 attendees who has professional research background for the RAPID 
+4 days Equipment Training Workshop at the University of Washington, Seattle, as well as 
+support up to $1,500 Travel Fund. 
+ 
+21. Travel Award for Conference from College of Engineering, Purdue University 05/2018 
+Honorable Mentions from 3rd Midwest Smart Structure Colloquium, University of Illinois (UIUC) 10/2017 
+• This award recognizes excellence PhD candidates supporting up to $1,000 for 2019 
+EWSHM conference at Hilton Hotel, Manchester, UK 
+ 
+Page 10                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+22. Resident Assistant Scholarship from University of Mississippi 08/2012 – 08/2013 
+Honor Program Scholarship from University of Mississippi 01/2011 
+• This scholarship is awarded to prominent undergraduate students in the School of 
+Engineering. 
+ 
+ 
+SYNERGISTIC LEADERSHIP POSITION 
+Organizing Member of International Conference  
+• Organizing committee member of the 8th International Conference on Materials and 
+Reliability and 8th International Conference (QR2MSE 2025) on Materials and Reliability 
+(ICMR 2025) 
+07/2025 
+• Organizing committee member of the 7th International Conference on Materials and 
+Reliability (ICMR 2024) 
+11/2024 
+• Steering committee member of the 14 th International Symposium on NDT in Aerospace  
+(AeroNDT 2023) 
+11/2023 
+ 
+Organizing Member of Korean Conference 
+ 
+• Committee member for the 202 5 Annual Spring Conference of the Korean Society of 
+Mechanical Engineers (KSME) - Reliability Division 
+04/2025 
+• Committee Member for the PHM Korea 2025 06/2025 
+• Committee member for the 202 4 Annual Spring Conference of the Korean Society of 
+Mechanical Engineers (KSME) - Reliability Division 
+04/2024 
+• Committee Member for the PHM Korea 2024 06/2024 
+• Committee member for the 202 3 Annual Spring Conference of the Korean Society of 
+Mechanical Engineers (KSME) - Reliability Division 
+04/2023 
+• Committee Member for the PHM Korea 2023 06/2023 
+• Committee Member for the PHM Korea 2022 
+ 
+06/2022 
+Membership in Professional Society   
+• Member of American Society of Mechanical Engineers (ASME) 2012 – 2014 
+• Member of the American Institute of Aeronautics and Astronautics (AIAA) 2014 – 2015 
+• Member of the Institute of Electrical and Electronics Engineers  (IEEE) / Robotics and 
+Automation Society (RAS) 
+2017 – Present 
+• Member of the Korean Society of Prognostics and Health Management (KSPHM) 2021 - Present 
+• Member of Korean Society of Mechanical Engineers (KSME) - Reliability Division 2022 - Present 
+• Member of Korean Society of Mechanical Engineers (KSME) – IT-Intelligence Convergence 2025 - Present 
+• Member of The Korean Reliability Society (KORAS) 2025 - Present 
+• Member of Korean Computer Vision Society (KCVS) 2025 - Present 
+  
+Expert Position  
+• Member of the Proposal Evaluation Committee, 5th Term, Gyeonggi Housing Corporation 2025 – Present 
+• Korea Metaverse Talent Development Committee 2025 – Present 
+• Member of the Project Evaluation/Selection Committee for National Research Foundation 
+of Korea (NRF), Ministry of Trade, Industry and Energy (MOTIE) , Ministry of Land, 
+2020 – Present  
+Page 11                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+Infrastructure and Transport (MOLIT) , Ministry of Science and ICT (MSIT) , Incheon 
+Technopark (ITP), and many 
+ 
+PROFESSIONAL TALKS & PRESENTATION 
+[T31] Invited Seminar , “Simultaneous Spatial Twinning and Teleoperation Technologies for 
+Defense Applications Based on Spatial AI and Multimodal AI ”, LIG Nex1, LIG Nex1 Pangyo 
+Office, Seongnam, South Korea 
+5/2026 
+[T30] Invited Speaker, “Sim2Real and Neural Rendering: Next -Generation BIM Based on Visual 
+Intelligence”, Scan to BIM with AI Seminar Series, Korea BIM Association, Online 
+4/2026 
+[T29] Guest Lecturer, “DT-based simulation for manufacturing Physical -AI”, Manufacturing 
+Physical-AI Curriculum  Lecture Series held by Advanced AI Manufacturing Innovation 
+Professional Workforce Development Program, Seoul National University, L7 Hotel, Seoul, 
+South Korea 
+2/2026 
+[T28] Guest Lecturer, “Physical-AI and Fundamentals: Sim2Real through Neural Rendering and 
+Visual Intelligence ”, Professional Training Course  Series entitled “PHM Technologies 
+Utilizing Signal Processing, Agentic AI, and Physical AI” , Hanyang University, Seoul, South 
+Korea 
+2/2026 
+[T27] Invited Speaker, “Digital Twin -Based Structural Anomaly Detection Technology Using 
+Hyper-Realistic Visual Intelligence ”, Workshop on Advanced Reactor System Design 
+Technologies for Practical Research Applications, hosted by Reactor Systems Engineering 
+Division of Korean Nuclear Society (KNS), Changwon Convention Center, Changwon, South 
+Korea 
+10/2025 
+[T26] Invited Speaker, “Digital Twin–Driven Structural Anomaly Detection Using Hyper-Realistic 
+Visual Intelligence Neural Rendering ”, hosted by Korea Aerospace Industries, Ltd. (KAI) , 
+KAI Headquarter, Sacheon, South Korea 
+10/2025 
+[T25] Invited Speaker, “Digital Twin–Based Structural Anomaly Detection Technology Utilizing 
+Hyper-Realistic Visual Intelligence and Neural Rendering ”, Nuclear and Energy Division 
+Workshop, hosted by Korean Society for Noise and Vibration Engineering (KSNVE), Atomic 
+Energy Research Institute (KAERI), Daejeon, South Korea 
+09/2025 
+[T24] Invited Speaker, “MEIC Lab’s Ongoing Research Introduction: Physical AI current and 
+Future”, Global AI Researcher Forum, hosted by AI Research Center  in K-water, K-water 
+Research Center, Daejeon, South Korea 
+09/2025 
+[T23] Invited Speaker, “Hyper-Realistic Digital Twin and 3D Perception for Predictive Engineering 
+System Assessment”, Graduate Seminar Series, hosted by Dept. of Math, Ewha Women’s 
+University, Seoul, South Korea 
+09/2025 
+[T22] Invited Speaker, “Hyper-Realistic AI current and future”, Workshop of Autonomous Vehicle 
+& Robotics Division, hosted by Institute of Control, Robotics and Systems (ICROS), KAIST 
+Dongtan, Osan, South Korea 
+08/2025 
+[T21] Invited Speaker, “Digital Twin -based Structural Anomaly Detection Technology Utilizing 
+Visual Intelligence”, Workshop on Advanced SMR Design Technologies, hosted by Central 
+Research Institute of Korea Hydro & Nuclear Power (KHNP) , Koreana Hotel, Seoul, South 
+Korea 
+08/2025 
+[T20] Invited Speaker, “Hyper -realistic 3D Neural Rendering Technology and Physics -Informed 
+Neural Networks for Intelligent Industrial Equipment Prognostics and Health 
+07/2025 
+Page 12                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+Management”, Central Research Institute  Seminar Series, hosted by  Korea Hydro & 
+Nuclear Power (KHNP), KHNP, Daejeon, South Korea (Jul 25) 
+[T19] Invited Lecturer, “Physics-Informed Neural Network; History and Current”, Workshop on 
+Industrial Application Technologies in the Energy and Machinery Sector for Carbon 
+Neutrality, hosted by Korea Refrigeration and Air conditioning Assessment Center  
+(KRAAC), SUNY Korea, Incheon, South Korea 
+01/2025 
+[T18] Invited Speaker, “Human -Machine Distributed Collaborative Remote Sensing and Visual 
+Analytics for Asset Assessment”, ME Graduate School Seminar Series , hosted by AI -PHM 
+Lab., Sungkyunkwan University, Suwon, South Korea 
+01/2025 
+[T17] Invited Speaker, “Visual Analytics; History and Current”, Workshop of Autonomous Vehicle 
+& Robotics Division, hosted by Institute of Control, Robotics and Systems (ICROS), Holiday 
+Inn Songdo, Incheon, South Korea 
+10/2024 
+[T16] Invited Speaker, “Human -Machine Distributed Collaborative Remote Sensing and Visual 
+Analytics for Asset Assessment”, ME Graduate School Seminar Series, hosted by Dept. 
+Mechanical Engineering, UNIST, Ulsan, South Korea 
+10/2024 
+[T15] Invited Plenary Speaker, “Visual Analytics; History and Current”, Inha University 70th 
+anniversary symposium, hosted by Inha University, Incheon, South Korea 
+04/2024 
+[T14] Invited Speaker, “Remote Sensing through Engineering -Soft-Power”, Invited Seminar 
+Series, hosted by Korea Electronics Technology Institute (KETI), Bucheon, South Korea 
+12/2023 
+[T13] Invited Speaker, "A Real -Time Log Data Analytics -based Electric Vehicle Path 
+Optimization", Expert Seminar Series, hosted by Vehicle & Mobility Systems Department 
+(VMS), Argonne National Lab., Lemont, IL, USA 
+05/2023 
+[T12] Invited Guest Lecturer, “Human-Machine Collaborative Remote Monitoring and Sensing”, 
+Expert Seminar Series, hosted by Digital Twin Team, Korean Register, Busan, South Korea 
+12/2022 
+[T11] Invited Guest Lecturer, “Human-Machine Collaborative Remote Monitoring and Sensing”, 
+ME Seminar Series, hosted by Mechanical Engineering, Hanyang University, Seoul, South 
+Korea 
+11/2022 
+[T10] Invited Guest Lecturer, “Computer Vision engaged Infrastructure Remote Sensing”, Dept. 
+Architecture Engineering Seminar Series,  hosted by Architecture Engineering,  Inha 
+University, Incheon, South Korea 
+11/2022 
+[T9] Invited Speaker, “Citizen Engaged Infrastructure Assessment and Remote Sensing”, Young 
+Promising Scientists Session, hosted by Korean Society of Mechanical Engineers (KSME) 
+Annual Conference 2022, Seoguipo, South Korea 
+11/2022 
+[T8] Invited Guest Lecturer, “Cultural Heritage Long-term Preservation and Monitoring”, Expert 
+Seminar Series, hosted by National Museum of Modern and Contemporary Art, Cheongju, 
+South 
+09/2022 
+[T7] Invited Guest Lecturer, “Citizen Engaged Infrastructure Assessment and Remote 
+Monitoring”, Artificial Intelligence Winter School,  hosted by AI-Machine Research Group 
+in The Korean Society for Mechanical Engineers (KSME), KAIST, Daejeon, South Korea 
+02/2022 
+[T6] Research Seminar, “AI to Enable Water Quality Control”, Expert Seminar Series, hosted by 
+Magpiesoft co., Daejeon, South Korea (Feb 
+02/2022 
+[T5] Research Seminar, “AI for Possible Military Applications”, Expert Seminar Series, hosted by 
+HANCOM Intelligence co., Seongnam, South Korea 
+11/2021 
+[T4] Research Seminar, “Citizen Engaged Building Cultural Heritage Management”, Expert 
+Seminar Series, hosted by Cultural Heritage Department of Incheon City, Incheon City Hall, 
+Incheon, South Korea ( 
+11/2021 
+Page 13                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+[T3] Invited Speaker, “Automating Visual Data Analytics to Aid Lifecycle Management of  
+Infrastructure toward Sustainable Cities”, Conference on Toward ‘Ontact’ Industries 
+through PHM (PHM Korea 2021), hosted by Korea Society for Prognostics and Health 
+Monitoring (KSPHM), Jeju, South Korea 
+09/2021 
+[T2] Invited Seminar , “Infrastructure Management with Automated Vision Systems”, Expert 
+Seminar Series, hosted by Incheon City Museum, Incheon, South Korea 
+10/2021 
+[T1] Invited Semina r, “Vision -based visual inspection for large -scale infrastructure”, Expert 
+Seminar Series, hosted by Korea Institute of Construction Technology (KICT), Ilsan, South 
+Korea 
+09/2020 
+ 
+PATENTS (1 Registered; 8 Filed) * Inventor 
+[A9] METHOD OF ESTIMATING DYNAMIC COEFFICIENT OF ELECTRIC VEHICLE AND PREDICTING ENERGY 
+CONSUMPTION BY UTILIZING SPEED LOG DATA AND PHYSICS -INFORMED NEURAL NETWORK, Jongseong Choi*, 
+filed at the United States in Aug 2025 (19/290,373) 
+[A8] COMPUTER VISION TECHNIQUE TO EXTRACT STRUCTURAL INFORMATION FROM CITIZEN SCIENCE DATA: 
+AUTOMATED LIFECYCLE INFRASTRUCTURE MONITORING APPLICATION, Jongseong Choi*, Registered at Republic 
+of Korea in Nov 2025 (10-2025-1068454) 
+[A7] SPEED LOG DATA AND PHYSICAL KNOWLEDGE NEURAL NETWORK -BASED ELECTRIC VEHICLE DYNAMIC 
+COEFFICIENT ESTIMATION AND ENERGY CONSUMPTION PREDICTION METHOD , Jongseong Choi* , filed at 
+Republic of Korea in Feb 2025 (10-2025-0017752) 
+[A6] GAUSSIAN SPLATTING -BASED LIDAR -RGB MULTI -SENSOR AND RENDERING SYSTEM FOR ULTRA -HIGH-
+RESOLUTION FACILITY SCANNING AND MODELING, Jongseong Choi*, filed at Republic of Korea in Feb 2025 (10-
+2025-0017753) 
+[A5] A MIXED REALITY DEVICE VISUALIZING THE LIDAR SCANNING ALIGNMENT PROCESS IN THE REAL -WORLD 
+ENVIRONMENT THROUGH AN MR HEADSET, Jongseong Choi*, filed at Republic of Korea in  Feb 2025 (10-2021-
+0017754) 
+[A4] 3D GAUSSIAN SPLATTING DIGITAL TWIN PLATFORM, Jongseong Choi*, filed Apr 2025 (10-2025-0046922)  
+[A3] DIGITAL TWIN GENERATION SYSTEM FOR VISION-BASED STRUCTURAL HEALTH MONITORING, Jongseong Choi*, 
+filed at Republic of Korea in Apr 2025 (10-2025-0046923)  
+[A2] LOG DATA -BASED ELECTRIC VEHICLE ENERGY CONSUMPTION ANALYSIS AND PATH EXPLORATION SYSTEM, 
+Jongseong Choi*, filed at Republic of Korea in Apr 2025 (10-2025-0058452)  
+[A1] DIGITAL TWIN -BASED CONSTRUCTION SITE MONITORING SYSTEM USING MOBILE APP PERFORMING LOCAL 
+UPDATE ON MAPPING API, Jongseong Choi*, filed at Republic of Korea in Apr 2025 (10-2025-0058453) 
+ 
+BOOK CHAPTER 
+[B1] Changwoon Han and  Jongseong Choi (2022.10). Chapter 10: Information of PHM research and facilities, PHM 
+BOK Guide: Prognostics and Health Management Body of Knowledge (pp. 307-345). Hongreung Publishing. ISBN: 
+979-11-5600-966-5 (2023 Sejong’s Choice Selection) 
+ 
+PEER-REVIEWED JOURNAL PAPERS  (24 published, 5 under review); *corresponding author 
+[J30] Jeewon Lee and Jongseong Choi* , LiteVoxel: Low -memory Intelligent Thresholding for Efficient Voxel  
+Rasterization, ACM Transactions on Graphics (IF: 9.5, JCR top 3.87%); *Under Review, the first submission date 
+of 7th Nov, 2025 
+[J29] Hansol Lim, Jongseong Choi*, Jeewon Lee, Haeseong Jeoung, and Minkyu Han, A Hybrid Surrogate for Electric 
+Vehicle Parameter Estimation and Power Consumption via Physics -Informed Neural Operators , Engineering 
+Page 14                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+Applications of Artificial Intelligence (IF: 8.0, JCR top 8.99%) ; *Under Review, completed 2nd-round review with 
+the first submission date of 31th Oct, 2025 
+[J28] Hansol Lim, Jeewon Lee, Jonathan Boyack, and Jongseong Choi*, EV-PINN: Electric Vehicle Battery Surrogate 
+Model Using Transformer-Based Physics-Informed Neural Network, IEEE Transactions on Intelligent Vehicles (IF: 
+14.3, JCR top 1.90%); *Under Review, the first submission date of 21st Mar, 2025 
+[J27] Jonathan Boyack, Jongseong Choi*, Hansol Lim, Sangho Song, Jaecheul Park, and Hwasup Jang (2026), Enhancing 
+Visual Data Localization and Extraction by Hyper -Realistic Scene Reconstruction with 3D Gaussian Splatting: 
+Validation on a Full-Scale Ship Engine, Computers in Industry (IF: 9.1, JCR top 6.85%); *Under Review, completed 
+3rd-round review with the first submission date of 7th Apr, 2025 
+[J26] Anas Alsharo, Max Midwinter, Chul Min Yeum *, and Jongseong Choi (2026), Generalizable UAV-based image 
+registration framework for enhancing visual inspection of civil infrastructure , ISPRS Journal of Photogrammetry 
+and Remote Sensing, vol 237, pp. 652-667 (IF: 12.2, JCR top 1.49%) doi: 10.1016/j.isprsjprs.2026.04.053 
+[J25] Jeewon Lee and Jongseong Choi*  (2026), Micro-Splatting: Multistage Isotropy -informed Covariance 
+Regularization Optimization for High -Fidelity 3D Gaussian Splatting , IEEE Transactions on Visualization and 
+Computer Graphics (TVCG), 1-12, (IF: 6.5, JCR top 6.20%); doi: 10.1109/TVCG.2026.3677074 
+[J24] Hanbeom Chang, Jongseong Choi*, Chul Min Yeum (2026), 3D Reconstruction by Looking: Instantaneous Blind 
+Spot Detection for Indoor SLAM through Mixed Reality , Advanced Engineering Informatics, 69, 104065 (IF: 9.9, 
+JCR top 2.28%); doi: 10.1016/j.aei.2025.104065 
+[J23] Hansol Lim, Hanbeom Chang , Jongseong Choi*, Chul Min Yeum (2025), LiDAR-3DGS: LiDAR Reinforce ment for 
+multimodal initialization of 3D Gaussian Splats, Computers & Graphics, 104293. doi: 10.1016/j.cag.2025.104293 
+[J22] Jonathan Boyack and Jongseong Choi* (2025), Photogrammetry Engaged Automated Image Labeling Approach, 
+Visual Informatics, 100239. doi: 10.1016/j.visinf.2025.100239 
+[J21] Francisco Yumbla*, Marcelo Fajardo, Anthony Piguave, Diego Ronquillo, Ricardo Ortiz, Jongseong Choi, Gabriel 
+Diaz, and Xicu Garcia (2025), An Open-Source Multi-Robot Framework System for Collaborative Environments 
+Based on ROS2, IEEE Access, vol. 13, pp. 16288-16302. doi: 10.1109/ACCESS.2025.3530391 
+[J20] Jonathan Boyack, Jongseong Choi*, Jongryeol Jeong, Hyungchai Park, and Sewhan Kim (2024), LogPath: Log Data 
+based Energy Consumption Analysis enabling Electric Vehicle Path Optimization, Transportation Research Part D: 
+Transport and Environment, 135, 104387. doi: 10.1016/j.trd.2024.104387 
+[J19] Lissette Iturburu, Xiaoyu Liu, Xin Zhang, Benjamin E. Wogen, Juan Nicolas Villamizar, Shirley J. Dyke, Julio Ramirez, 
+Jongseong Choi*,  and Gianella Valencia, Sergio M. Alcocer  (2024), Building Pose Detection for the 
+Characterization of Reinforced Concrete Buildings, The Structural Design of Tall and Special Buildings , 33(13), 
+e2020, doi: 10.1002/tal.2120 
+[J18] Benjamin E. Wogen, Jongseong Choi* , Xin Zhang, Xiaoyu Liu, Lissette Iturburu, and Shirly J. Dyke (2024), 
+Automated Bridge Inspection Image Retrieval Based on Deep Similarity Learning and GPS. ASCE J ournal of 
+Structural Engineering, 150(3), 04023238. doi: 10.1061/JSENDH.STENG-12639 
+[J17] Ok-Hue Cho and Jongseong Choi* (2024), A Comparative Analysis of IoT based Network Anomaly Detection and 
+Prediction Using Vector Autoregressive Models, Journal of Machine and Computing , 127 -137. doi: 
+10.53759/7669/jmc202404013. 
+[J16] Alfredo Valenzuela, Jongseong Choi*, Ricardo Ortiz, Byungkon Kang, Michael Kim, and Taewook  Kang (2023), 
+Development of Mobile App to Enable Local Update on Mapping API: Construction Sites Monitoring Through 
+Digital Twin, Electronics, 12(23), 4738. doi: 10.3390/electronics12234738 
+[J15] Xiao-Le Han, Toshiro Hata, Jongseong Choi, Yan-Jun Du, Yi -Jie Wang, & Ning -Jun Jiang* (2023), Deep Learning 
+Based Approach for Automated Characterization of Large Marine Microplastic Particles, Marine Environmental 
+Research, 183, 105829. doi: 10.1016/j.marenvres.2022.105829 
+Page 15                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+[J14] Xiaoyu Liu, Shirley J. Dyke *, Ali Lenjani , Ilias Bilionis, Xin Zhang, &  Jongseong Choi (2023), Automated Image 
+Localization to Support Rapid Building Reconnaissance in a Large -scale Area, Computer-Aided Civil and 
+Infrastructure Engineering, 38(1), 3-25. doi: 10.1111/mice.12828 (IF: 11.775, JCR top 0.72%) 
+[J13] Ju An Park, Xiaoyu Liu, Chul Min Yeum*, Shirley J. Dyke, Max Midwinter, Chungwook Sim, Jongseong Choi, Zhiwei 
+Chu, Thomas Hacker, & Bedrich Benes ( 2022), Multioutput Image Classification to Support Post -Earthquake 
+Reconnaissance, ASCE J ournal of Performance o f Cons tructed Facilities , 36(6), 04022063 . doi: 
+10.1061/(ASCE)CF.1943-5509.0001755 (Editor’s Choice Selection) 
+[J12] Xiao-Le Han, Ning-Jun Jiang*, Yu-Fei Yang, Jongseong Choi, Devandra N. Singh, Yan-Jun Du, & Yi-Jie Wang (2022), 
+Deep Learning Approach for the Detection and Instance Segmentation of Clayey Soil Desiccation Crack, 
+Computers and Geotechnics, 146, 104733. doi: 10.1016/j.compgeo.2022.104733 
+[J11] Jongseong Choi*, Lazaros Toumanidis, Chul Min Yeum, Patrikakis Charalampos, Ali Lenjani, Xiaoyu Liu, Panagiotis 
+Kasnesis, Ricardo Ortiz, Nin-Jun Jiang, & Shirley J. Dyke (2022), Automated Graffiti Detection: Automated Graffiti 
+Detection: A Novel Approach for Maintaining Historical Architectures in Community, Applied Sciences , 12(6), 
+2983. doi: 10.3390/app12062983 
+[J10] Jongseong Choi *, Ju An Park, Shirley J. Dyke, Chul Min Yeum, Xiaoyu Liu, Ali Lenjani, & Ilias Bilionis (2022), 
+Similarity Learning to Enable Buliding Searches in Post-event Image Data, Computer-Aided Civil and Infrastructure 
+Engineering, 37(2), 261-275. doi: 10.1111/mice.12698 (IF: 11.775, JCR top 0.72%) 
+[J9] Xiaoyu Liu, Shirley J. Dyke*, Chul Min Yeum, Ilias Bilionis, Ali Lenjani, & Jongseong Choi (2020), Automated Indoor 
+Image Localization to Support Post-Event Building Assessment. Sensors, 20(6), 1610. doi: 10.3390/s20061610 
+[J8] Jongseong Choi* & Shirley J. Dyke (20 20), CrowdLIM: Crowdsourcing to Enable Lifecycle Infrastructure 
+Management. Computers in Industry, 115, 103185. doi: 10.1016/j.compind.2019.103185 
+[J7] Ali Lenjani*, Shirley J. Dyke, Ilias Bilionis, Chul Min Yeum, Kenzo Kamiya, Jongseong Choi, Xiaoyu Liu, & Arindam 
+G. Chowdhury (20 20), Towards Fully Automated Post -event Data Collection and Analysis: Pre -event and Post -
+event Information Fusion. Engineering Structure, 109884. doi: 10.1016/j.engstruct.2019.109884 
+[J6] Chul Min Yeum *, Jongseong Choi , & Shirley J. Dyke . (201 9), Automated Region -of-interest Localization and 
+Classification for Vision -based Visual Assessment of Civil Infrastructure.  Structural Health Monitoring , 
+1475921718765419. doi: 10.1088/1361-665X/aa510e 
+[J5] Jongseong Choi, Chul Min Yeum*, Shirley J. Dyke, & Mohammad J. Jahanshahi (2018), Computer-aided Approach 
+for Rapid Post-event Visual Evaluation of a Building Façade. Sensors, 18(9), 3017. doi: 10.3390/s18093017 
+[J4] Chul Min Yeum*, Jongseong Choi, & Shirley J. Dyke (2017), Autonomous Image Localization for Visual Inspection 
+of Civil Infrastructure. Smart Materials and Structures, 26(3), 035051. doi: 10.1088/1361-665X/aa510e 
+[J3] Jeffrey A. Roux*, Jongseong Choi, & Neerad Shakya (2014), Parametric Scramjet Cycle Analysis for Nonideal Mass 
+Flow Rate. AIAA Journal of Thermophysics and Heat Transfer, 28(1), 166-171. doi: 10.2514/1.T4217 
+[J2] Jeffrey A. Roux*, Neerad Shakya, & Jongseong Choi (2013), Scramjet: Minimum Thrust-specific Fuel Consumption 
+with Material Limit. AIAA Journal of Thermophysics and Heat Transfer, 27(2), 367-368. doi: 10.2514/1.T4045 
+[J1] Jeffrey A. Roux *, Neerad Shakya, & Jongseong Choi  (2012), Revised Parametric Ideal Scramjet Cycle 
+Analysis. AIAA Journal of Thermophysics and Heat Transfer, 27(1), 178-183. doi: 10.2514/1.T3961 
+ 
+CONFERENCE PROCEEDINGS & POSTERS (63 published; *corresponding author) 
+[C67] Hansol Lim, Minhyeok Im, Jonathan Boyack, Jee Won Lee, and Jongseong Choi* , “VEGA: Electric Vehicle 
+Navigation Agent via Physics -Informed Neural Operator and Proximal Policy Optimization ”, The 25th 
+International Conference on Control, Automation,  and System (ICRA 2026), Vienna, Austria, Jun 1 – 5, 2026; 
+*Accepted 
+Page 16                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+[C66] (Invited) Jongseong Choi* , “Micro-Splatting: Manufacturing AI Neural Rendering Techniques ”, 2026 Spring 
+Conference of The Korean Society for Precision Engineering, Jeju Shinhwa World, Jeju, South Korea, May 13 – 15, 
+2026.  
+[C65] (Invited) Jongseong Choi*, “Micro-Splatting: Manufacturing AI Neural Rendering Techniques for Addressing the 
+Sim2Real Problem in Physical AI by Reflecting Material and Surface Properties ”, 2026 Spring Conference of The 
+Korean Society for Composite Materials, Jeju Shinhwa World, Jeju, South Korea, Apr 22 – 24, 2026.  
+[C64] (Invited) Jongseong Choi* and Jeewon Lee, “Neural Rendering Techniques for Manufacturing AI to Address the 
+Sim2Real Problem in Physical AI”, Korean Society of Mechanical Engineers (KSME)-Reliability Division 2026, Lotte 
+Hotel Jeju, Jeju, South Korea, Apr 8 – 10, 2026. Plus, 9 students generated papers. 
+[C63] Sooyuen Yang, Hansol Lim, Jeewon Lee, and Jongseong Choi*, “Resolving the Accuracy-Efficiency Trade-off: A 
+Hierarchical Learning-Based Control Architecture ”, The 25th International Conference on Control, Automation, 
+and System (ICCAS 2025), Songdo Convensia, Incheon, South Korea, IEEE Xplore, Nov 4 – 7, 2025. 
+[C62] Hansol Lim, Jeewon Lee, Sooyeun Yang, and Jongseong Choi*, “Small Lagrangian Networks for Nonlinear Model 
+Predictive Control”, The 25th International Conference on Control, Automation, and System (ICCAS 2025), Songdo 
+Convensia, Incheon, South Korea, IEEE Xplore, Nov 4 – 7, 2025. 
+[C61] Jeewon Lee, Hansol Lim, Sooyeun Yang, and Jongseong Choi*, “Hybrid Vision Servoing with Deep Alignment and 
+GRU-Based Occlusion Recovery”, The 25th International Conference on Control, Automation, and System (ICCAS 
+2025), Songdo Convensia, Incheon, South Korea, IEEE Xplore, Nov 4 – 7, 2025. 
+[C60] (Invited) Jongseong Choi* , “Visual Intelligence for Predictive Engineering System Assessment ”, The 15th 
+International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering  (QR2MSE 2025), 
+Hohhot Juva Grand Hotel, Hohhot, China, Jul 23 – 26, 2025. 
+[C59] (Invited) (Best Presentation Award)  Jongseong Choi*, “Physics-Informed Neural Network (PINN) and Hyper -
+Realistic Digital Twin (3DGS) for Predictive Engineering System Assessment ”, International Conference on 
+Precision Engineering and Sustainable Manufacturing (PRESM 2025), Chiang Mai Marriott Hotel, Chiang Mai, 
+Thailand, Jul 6 – 11, 2025. 
+[C58] (Keynote) Jongseong Choi*, “Physics-Informed Neural Network (PINN) and Hyper -Realistic Digital Twin (3DGS) 
+for Predictive Engineering System Assessment ”, Annual Conference of Drive & Control, KIST Gangneung, 
+Gangneung, South Korea, Jun 26 – 27, 2025. 
+[C57] Hanbeom Chang, Hyeji Chang, Sungwook Choi, and Jongseong Choi*, “PHM-Driven XR-Enabled Sensor Fusion 
+Platform for Remote Structural Health Management and Collaborative Inspection ”, Annual Conference of the 
+PHM Korea (PHM Korea 2025), Jeju Booyoung Hotel, Seoguipo, South Korea, Jun 23 – 25, 2025. 
+[C56] Alfredo Valenzuela, Hugo Zuniga, Felipe Zuniga, and Jongseong Choi*, “ROS-Based PTZ Camera System for Visual 
+Monitoring in PHM”, Annual Conference of the PHM Korea (PHM Korea 2025), Jeju Booyoung Hotel, Seoguipo, 
+South Korea, Jun 23 – 25, 2025. 
+[C55] Sooyeun Yang and Jongseong Choi*, “An Integrated Framework for Object Reconstruction with 3D Gaussian 
+Splatting and Reinforcement -Learned Sliding -Mode Landing Control ”, Annual Conference of the PHM Korea 
+(PHM Korea 2025), Jeju Booyoung Hotel, Seoguipo, South Korea, Jun 23 – 25, 2025. 
+[C54] Jonathan Boyack, Hansol Lim, and Jongseong Choi*, “An Integrated Framework for Object Reconstruction with 
+3D Gaussian Splatting and Reinforcement -Learned Sliding-Mode Landing Control ”, Annual Conference of the 
+PHM Korea (PHM Korea 2025), Jeju Booyoung Hotel, Seoguipo, South Korea, Jun 23 – 25, 2025. 
+[C53] Jeewon Lee and Jongseong Choi*, “Linear Optimization Strategy for Individual Battery Cell Power Controller to 
+Extend its Remaining Useful Life using PHM ”, Annual Conference of the PHM Korea (PHM Korea 202 5), Jeju 
+Booyoung Hotel, Seoguipo, South Korea, Jun 23 – 25, 2025. 
+[C52] Hansol Lim and Jongseong Choi*, “Interpretable Surrogates via Lagrangian Energy Heads ”, Annual Conference 
+of the PHM Korea (PHM Korea 2025), Jeju Booyoung Hotel, Seoguipo, South Korea, Jun 23 – 25, 2025. 
+Page 17                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+[C51] Sooyeun Yang, Jeewon Lee, Hansol Lim, Jongseong Choi* , “OPTIMIS: Omniverse -Powered 3D Gaussian 
+Splatting”, Korean Society of Mechanical Engineers  (KSME)-Reliability Division 2025, Kolon Hotel,  Gyeongju, 
+South Korea, Apr 9 – 11, 2025. 
+[C50] Hansol Lim, Jeewon Lee, Sooyeun Yang, and Jongseong Choi*, “Physics-Informed Diffusion Models for 2D Heat 
+Equation”, Korean Society of Mechanical Engineers  (KSME)-Reliability Division 2025, Kolon Hotel,  Gyeongju, 
+South Korea, Apr 9 – 11, 2025. 
+[C49] Alfredo Valenzuela, Jongseong Choi*, Felipe Zuniga, and Hugo Zuniga, “Visual Monitoring Assessments System 
+through Robot Operating System (ROS) ”, Korean Society of Mechanical Engineers  (KSME)-Reliability Division 
+2025, Kolon Hotel, Gyeongju, South Korea, Apr 9 – 11, 2025. 
+[C48] Cheyul Im, Hansol Lim, and Jongseong Choi*, “Virtual Reality based Remote Controlled Perspective Synchronized 
+Snowplow”, Korean Society of Mechanical Engineers  (KSME)-Reliability Division 2025, Kolon Hotel, Gyeongju, 
+South Korea, Apr 9 – 11, 2025. 
+[C47] Sungwook Choi, Hanbeom Chang, Jongseong Choi*, “Remote Collaboration and Real-Time Visualization System 
+Using Mixed Reality: Application in Construction and Industrial Sites ”, Korean Society of Mechanical Engineers  
+(KSME)-Reliability Division 2025, Kolon Hotel, Gyeongju, South Korea, Apr 9 – 11, 2025. 
+[C46] Jeewon Lee, Hansol Lim, Sooyeun Yang, Jongseong Choi*, Sang Hyuk Lee, Dongsoo Kang, Hankwang Choi, and 
+Yongkyu Kim, “NuClearView: Object-Centric 3D Reconstruction and Automated Defect Localization for Nuclear 
+Reactor Inspection ”, Korean Society of Mechanical Engineers  (KSME)-Reliability Division 2025, Kolon Hotel,  
+Gyeongju, South Korea, Apr 9 – 11, 2025. 
+[C45] Lesus Davila, Alfredo Valenzuela, Ricardo Ortiz, Jongseong Choi, Francisco Yumbla*, “Software Architecture and 
+Simulation Interface for Autonomous Underwater Vehicles” , IEEE Ecuador Technical Chapters Meeting 2024  
+(ETCM 2024), Universidad de Cuenca, Cuenca, Ecuador, Oct 15 – 18, 2024 
+[C44] Jee Won Lee, Hansol Lim, Jongseong Choi*, Sangho Song, Jaechul Park, Hwasup Jang, “ Development of a 3D 
+Gaussian Splatting Digital Twining Platform for Remote Ship Assessment ”, 7th International Conference on 
+Materials and Reliability (ICMR 2024), The Westin Josun Busan, Busan, South Korea, Dec 3-6, 2024 
+[C43] Hansol Lim, Jonathan Boyack, Jongseong Choi* , “Runge -Kutta Neural Networks as PINN Alternative”, 7th 
+International Conference on Materials and Reliability (ICMR 2024), The Westin Josun Busan, Busan, South Korea, 
+Dec 3-6, 2024 
+[C42] Hansol Lim,  Hanbeom Chang  and Jongseong Choi* , “Transforming SLAM Data into 3D Gaussian Splatting 
+Models”, 12th International Conference on Robot Intelligence Technology and Applications  (RiTA2024), UNIST, 
+Ulsan, South Korea, Dec 4 – 7, 2024. 
+[C41] Hanbeom Chang, Hansol Lim, and Jongseong Choi*, “3D Reconstruction by Looking: Instantaneous Visualization 
+of Point Cloud Registration on an MR Device” , 12th International Conference on Robot Intelligence Technology 
+and Applications (RiTA2024), UNIST, Ulsan, South Korea, Dec 4 – 7, 2024. 
+[C40] (Grand Prize) Hansol Lim, Jeewon Lee, Sooyeun Yang, and Jongseong Choi*, “Real-time Digital Twin Registration 
+System for Visual Inspection in Mixed Reality ”, Korean Society of Mechanical Engineers  (KSME)-Chungcheong 
+Division 2024, KIMM, Daejeon, South Korea, Nov 21, 2024. 
+[C39] Sooyeun Yang, Jeewon Lee, Hanbeom Chang, and Jongseong Choi*, “PhysGaussian-Enhanced Digital Twin for 
+Building Safety Assessment ”, Korean Society of Mechanical Engineers  (KSME)-Chungcheong Division 2024, 
+KIMM, Daejeon, South Korea, Nov 21, 2024. 
+[C38] Jeewon Lee, Hansol Lim, Hanbeom Chang, Sooyeun Yang, and Jongseong Choi*, “Augmented Reality-Driven 
+Remote Inspection: Head-Movement and Gesture-Based PTZ Camera Control in Real -Time”, Korean Society of 
+Mechanical Engineers (KSME)-Chungcheong Division 2024, KIMM, Daejeon, South Korea, Nov 21, 2024. 
+Page 18                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+[C37] (Best Poster Award) Hanbeom Chang, Soo-Jung Chi, Jongseong Choi*, and Chul Min Yeum, “LiDAR-Camera based 
+Real-time 3D Reconstruction with Mixed Reality Visualization System ”, Annual Conference of the PHM Kor ea 
+(PHM Korea 2023), The K Hotel, Seoul, South Korea, Jun 25 – 26, 2024. 
+[C36] Hansol Lim, Hanbeom Chang, and Jongseong Choi* , “ChromaFilter: Color -Based LiDAR Filter for Real -Time 
+Feature Extraction and Optimization ”, Annual Conference of the PHM Kor ea (PHM Korea 2023) , The K Hotel , 
+Seoul, South Korea, Jun 25 – 26, 2024. 
+[C35] Sooyeun Yang, Hojin Song, Eugene Pak, and Jongseong Choi*, “CNN-Driven Pothole Detection and Road Hazard 
+Localized DB Development”, Annual Conference of the PHM Korea (PHM Korea 2023), The K Hotel, Seoul, South 
+Korea, Jun 25 – 26, 2024. 
+[C34] Yoonseong Kim, Hansol Lim, and Jongseong Choi*, “Photogrammetry-Based Approach to Indoor Space Digital 
+Twin Model Generation”, Annual Conference of the PHM Kor ea (PHM Korea 2023), The K Hotel , Seoul, South 
+Korea, Jun 25 – 26, 2024. 
+[C33] (Invited) Jongseong Choi*, “Visual Analytics and Human-Machine Collaborative Remote Assessment Approach 
+for Infrastructure Management ”, 20th World Conference on Non -Destructive Testing 2024  (WCNDT 2024), 
+Songdo Convensia, Incheon, South Korea, May 27 – 31, 2024.  
+[C32] Hansol Lim and Jongseong Choi*, “NeRF Generated Digital Twin Model for Real -Time, Perspective-Free Visual 
+Analytics”, 20th World Conference on Non-Destructive Testing 2024 (WCNDT 2024), Songdo Convensia, Incheon, 
+South Korea, May 27 – 31, 2024. 
+[C31] Hanbeom Chang, Jongseong Choi* , R icardo Ortiz, and Chul Min  Yeum, “Digital Twin Platform for Remote 
+Assessment: Application in  Extensive Ship Engine Inspection”, 20th World Conference on Non -Destructive 
+Testing 2024 (WCNDT 2024), Songdo Convensia, Incheon, South Korea, May 27 – 31, 2024.  
+[C30] Alfredo Valenzuela, Jee Won Lee, Chul Min Yeum, Ricardo Ortiz , and Jongseong Choi*, “Remote Monitoring  
+Assessment Through Pan -Tilt-Zoom Automated Camera Control”, 20th World Conference on Non -Destructive 
+Testing 2024 (WCNDT 2024), Songdo Convensia, Incheon, South Korea, May 27 – 31, 2024. 
+[C29] Jonathan Boyack, & Jongseong Choi*, “Data Localization on A Digital Twin Model to Enable Remote Assessment: 
+Implementation on a full-scale Ship Engine”, 20th World Conference on Non-Destructive Testing 2024 (WCNDT 
+2024), Songdo Convensia, Incheon, South Korea, May 27 – 31, 2024.  
+[C28] Ricardo Ortiz, Alfredo Valenzuela, and Jongseong Choi*, “Enhanced Construction Site Monitoring with RTK-GPS 
+Guided Unmanned Mobile Robot and Mapping API Integration ”, 20th World Conference on Non -Destructive 
+Testing 2024 (WCNDT 2024), Songdo Convensia, Incheon, South Korea, May 27 – 31, 2024.  
+[C27] (Outstanding Paper Award) Hansol Lim and Jongseong Choi*, Alfredo Valenzuela, and Hanbeom Chang, “Real-
+Time 3D Video Generation using NeRF”, The 14th International Symposium on NDT in Aerospace (AeroNDT2023), 
+The Westin Josun Busan, Busan, South Korea, Nov 5 – 8, 2023.  
+[C26] (The Best Paper  Award) Jonathan Boyack, Hansol Lim, Alfredo Valenzuela,  Jongseong Choi* , Sangho Song, 
+Yongseok Choi, and Dongguk Im, “Region of Interest Locator with Digital Twin Model Generation of Large-Scale 
+Facility”, The 14th International Symposium on NDT in  Aerospace (AeroNDT2023), The Westin Josun Busan , 
+Busan, South Korea, 5 – 8 Nov 2023.  
+[C25] Alfredo Valenzuela, Jee Won Lee, Chul Min Yeum, Ricardo Ortiz , and Jongseong Choi*, “Automated Pan-Tilt-
+Zoom Camera Control to Enable Monitoring Assessment”, The 14th International Symposium on NDT in  
+Aerospace (AeroNDT2023), The Westin Josun Busan, Busan, South Korea, 5 – 8 Nov 2023. 
+[C24] (Best Paper Award) Jonathan Boyack, & Jongseong Choi*, “Falling Hazard Assessment Application: Automated 
+Labelling Large Data Sets for Transfer Learning Models”, Korean Society of Mechanical Engineers (KSME) Annual 
+Meeting 2023, Songdo Convensia, Incheon, South Korea, Nov 1 – 4, 2023. 
+Page 19                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+[C23] Alfredo Valenzuela, Ricardo Ortiz, Sambridha Bhattarai, and Jongseong Choi*, “Localize Map Update Mobile App 
+to Enable Construction Sites Monitoring: User-Guided Path Generation for Robot Operation”, Korean Society of 
+Mechanical Engineers (KSME) Annual Meeting 2023, Songdo Convensia, Incheon, South Korea, Nov 1 – 4, 2023. 
+[C22] (Excellent Presentation  Award) Hansol Lim and Jongseong Choi* , “ Seamless 3D Scene Control of NeRF 
+Generated Digital Twin Environments”, Korean Society of Mechanical Engineers (KSME) Annual  Meeting 2023, 
+Songdo Convensia, Incheon, South Korea, Nov 1 – 4, 2023.  
+[C21] Hanbeom Chang, Jaewon Lee, Danielle Macmaster, Leeroy Makusha, Jongseong Choi*, and Chul Min Yeum,  
+“Human-Machine Collaborative Platform in Metaverse”, Korean Society of Mechanical Engineers (KSME) Annual 
+Meeting 2023, Songdo Convensia, Incheon, South Korea, Nov 1 – 4, 2023. 
+[C20] Alfredo Valenzuela  and Jongseong Choi* , “Locally Update Scenes to Enable a User -Guided Path Planning”, 
+Annual Conference of the PHM Korea (PHM Korea 2023), The K Hotel, Seoul, South Korea, July 7 – 8, 2023. 
+[C29] (Best Paper Award)  Hansol Lim and Jongseong Choi*, “Real-Time, Non-Intrusive Inspection of  Structures and 
+Machines Using Visual Analytics and SfM-Based Digital Twin Generation”, Annual Conference of the PHM Korea 
+(PHM Korea 2023), The K Hotel, Seoul, South Korea, July 7 – 8, 2023.  
+[C18] Ricardo Ortiz, Alfredo Valenzuela & Jongseong Choi*, “Development of RTK-GPS Engaged Autonomous Mobility: 
+Implementation and Analysis for Structural Health Monitoring Application”, Advanced Smart Materials and 
+Structures 2nd International Conference (ASMaS2023), Ton Duc Thang University, Ho Chi Minh, Vietnam, Jun 28 
+– 30, 2023. 
+[C17] Jonathan Boyack, &  Jongseong Choi*, “An Automated Falling Hazard Assessment of High -Rise Buildings Using 
+Transfer Learning and Orthophoto Generation”, Advanced Smart Materials and Structures 2nd International 
+Conference (ASMaS2023), Ton Duc Thang University, Ho Chi Minh, Vietnam, Jun 28 – 30, 2023. 
+[C16] Jongseong Choi *, “Automating Visual Analytics to Aid Lifecycle Management of Infrastructure”, Structural 
+Congress 2023, Hyatt Regency New Orleans, New Orleans, LA, May 3 – 6, 2023. 
+[C15] Jeewon Lee, Hanbeom Chang, Jongseong Choi*, and Chul Min Yeum, “Automated Pan-Tilt-Zoom Camera Control 
+Enabling Long-Range Visual Exploration for Extraterrestrial Missions”, Korean Society of Mechanical Engineers 
+(KSME)-Reliability Division 2023, Jeju Oriental Hotel, Jeju, South Korea, Mar 22 - 24, 2023. 
+[C14] (Best Paper Award) Pureun Jeong, Hansol Lim, Jimin Shin, and Jongseong Choi*, “SLAM for Skid-Steering Mobile 
+Robot Systems”, Korean Society of Mechanical Engineers  (KSME)-Reliability Division 2023, Jeju Oriental Hotel, 
+Jeju, South Korea, Mar 22 - 24, 2023.  
+[C13] Ricardo Ortiz, Jee Won Lee, Jonathan Boyack,  & Jongseong Choi *, “ Development of User -Designated-Path 
+Driving Ground Robot for Construction Sites ”, Korean Society of Mechanical Engineers (KSME) Annual Meeting 
+2022, Jeju International Convention Center, Seoguipo, South Korea, Nov 9 – 12, 2022. 
+[C12] Jee Won Lee, Chul Min Yeum, Ricardo Ortiz, & Jongseong Choi*, “Automated Pan-Tilt-Zoom Camera Control to 
+Enable Long-Range Visual Assessment and Localization”, Korean Society of Mechanical Engineers (KSME) Annual 
+Meeting 2022, Jeju International Convention Center, Seoguipo, South Korea, Nov 9 – 12, 2022. 
+[C11] (Best Paper Award) Jonathan Boyack & Jongseong Choi*, “A Real-Time Log Data Analytics-based Electric Vehicle 
+Path Optimization”, Korean Society of Mechanical Eng ineers (KSME) Annual Meeting 2022, Jeju International 
+Convention Center, Seoguipo, South Korea, Nov 9 – 12, 2022.  
+[C10] Jonathan Boyack & Jongseong Choi*, “Electric Vehicle Path Optimization using Real-Time Log Data for Decision 
+Making”, Annual Conference of the PHM Korea, The K Hotel, Seoul, South Korea Jun 29 – July 1, 2022. 
+[C9] Jongseong Choi  & Shirley J. Dyke*, “ARIO: Automatic Reconnaissance Image Organizer to Learn from 
+Earthquake”, Annual Conference of Korean Society of Mechanical Engineers, Division of Reliability, Jeju Oriental 
+Hotel, Jeju, South Korea, Mar 23 – 25, 2022. 
+Page 20                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+[C8] Shirley J. Dyke*, Xiaoyu Liu, Jongseong Choi, Chul Min Yeum, Juan Park, Ali Lenjani, Julio A. Ramirez, & Randall 
+Poston, “Learning from Earthquakes Using the Automatic Reconnaissance Image Organizer,” Proceedings of 17th 
+World Conference on Earthquake Engineering, Sendai International Center, Sendai, Japan, Sep 27- Oct 2, 2021. 
+[C7] Jongseong Choi * & Jonathan Boyack, “Automating Visual Data Analytics to Aid lifecycle Management of 
+Infrastructure toward Sustainable cities”, Annual Conference of the PHM Korea, The K Hotel, Seoul, South Korea, 
+Sep 8 – 10, 2021. 
+[C6] Jongseong Choi*, Ju An Park, Chul Min Yeum, & Shirley J Dyke, “Similarity Learning to Building Search Capability: 
+Post-event Image Data Application ”, Proceedings of Asia Pacific Conference of the Prognostics and Health 
+Management Society 2021, Jeju Ramada Hotel, Jeju, South Korea, Sep 8 – 11, 2021. 
+[C5] Jonathan Boyack & Jongseong Choi*, “Machine Learning Approach for a Rapid Falling Hazard Assessment on 
+High-Rise Buildings”, Proceedings of Asia Pacific Conference of the Prognostics and Health Management Society 
+2021, Jeju Ramada Hotel, Jeju, South Korea, Sep 8 – 11, 2021. 
+[C4] Audai Theinat, Anahita Modiriasari, Antonio Bobet, Jay Melosh, Shirley J. Dyke *, Julio A. Ramirez, Jongseong 
+Choi, Amin Maghareh, & Daniel Gomez , “Geology Explorations of Lava Tubes in the National Beds Lava 
+Monuments,” 50th Lunar and Planetary Science Conference ( LPSC 2019), Woodlands Waterway Marriott Hotel 
+and Convention Center, Woodlands, Texas, USA, Mar 18 – 22, 2019. 
+[C3] Jongseong Choi*, Chul Min Yeum, Shirley J. Dyke, Mohammad R. Jahanshahi, & Gun Wook Park , “Rapid Vision-
+Based Inspection of Nonstructural Components in Buildings” Proceedings of the 9th European Workshop on 
+Structural Health Monitoring (EWSHM 2018), Hilton Manchester Deansgate, Manchester, UK, July 10-13, 2018. 
+[C2] Chul Min Yeum *, Jongseong Choi , & Shirley J. Dyke , “Automated Region -of-Interest Localization and 
+Classification for Visual Assessment on Civil Infrastructure,” Proceedings of the 11th International Workshop on 
+Structural Health Monitoring, Stanford University, Stanford, CA, USA, Sep 12 – 14, 2017. 
+[C1] Chul Min Yeum *, Jongseong Choi , & Shirley J. Dyke, “Image Localization for Computer -enhanced Visual 
+Inspection of Civil Infrastructure,” Proceedings of Engineering Mechanics Institute Conference, Price Center at 
+UCSD, San Diago, CA, USA, Jun 4 – 7, 2017 
+ 
+TECHNICAL REPORT & GUEST EXPERT COLUMN 
+[R3] (Special Lecture Course) Jongseong Choi, “AI to Hardware: Neural Rendering for Sim2Real”, The Korean Society 
+for Noise and Vibration Engineering (한국소음진동공학회), Feb 2026 
+[R2] (Special Issue Manuscript ) Jongseong Choi , “Physical AI, Sim2Real, and Neural Rendering Techniques ”, The 
+Institute of Electronics and Information Engineers (IEIE, 한국전자공학회), Feb 2026 
+[R1] Chul Min Yeum, Anup Mohan, Shirley J. Dyke, Mohammad Jahanshahi, Jongseong Choi, Ziyi Zhao, Ali Lenjani, 
+and Julio A. Ramirez , "Image-based collection and measurements for construction pay items." Joint 
+Transportation Research Program Publication No. FHWA/IN/JTRP -2017/10. West Lafayette, IN: Purdue 
+University, Mar 2015 
+ 
+PROPOSAL DEVELOPMENT to U.S. GOVERNMENT (5 generated, 1 awarded). 
+[P5] Active Citizen Engagement to Enable Lifecycle Management of Infrastructure Systems 
+• (Funded under Grant No.  CMMI-1645047) Co-authored successful proposal with funded 
+$100,000 from National Science Foundation (NSF). 
+07/2016 
+[P4] Automating Damage Quantification, Localization and BIM Updating Using Optical Data 
+• Co-authored successful proposal and requested $400,000 to National Science Foundation (NSF). 
+02/2020 
+[P3] HDBE (E-Defense): Enabling Building Damage Assessment by Engaging Remote Experts 
+• Co-authored and requested $700,000 to National Science Foundation (NSF). 
+01/2018 
+Page 21                                                                                                                                                   JONGSEONG BRAD CHOI, Ph.D. 
+[P3] S&SA: Autonomous Infrastructure Inspection and Condition-Based Maintenance  
+• Co-authored proposal and requested to National Science Foundation (NSF). 
+05/2017 
+[P1] S&SA: Reconfigurable Aerial Robots for Intelligent Assessment to Industrial Disasters 
+• Co-authored proposal and requested to National Science Foundation (NSF). 
+11/2016 
+ 
