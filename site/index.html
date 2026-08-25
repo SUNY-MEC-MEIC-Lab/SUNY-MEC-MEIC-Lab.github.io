@@ -3,13 +3,26 @@ layout: default
 title: Home
 scene: home
 ---
-<section class="home-hero">
+<section class="home-hero is-banner">
   <div class="hero-visual" data-scene="home" aria-hidden="true"></div>
-  <div class="wrap">
-    <p class="eyebrow">{{ site.institution }}</p>
-    <h1>Mechanical Systems with<br>Intelligence &amp; Computer Vision</h1>
-    <p class="lead">Neural rendering based visual intelligence for engineering, industry, and public applications.</p>
+  <div class="wrap banner-wrap">
+    <p class="eyebrow">MEIC Lab · {{ site.institution }}</p>
+    <h1>Machines that <span class="grad">See</span>.<br>Intelligence that <span class="grad">Acts</span>.</h1>
+    <p class="lead">Neural rendering–based visual intelligence for engineering, industry, and public
+      applications — hyper-realistic digital twins, multimodal remote sensing, and physics-informed AI.</p>
+    <div class="banner-ctas">
+      <a class="cta" href="{{ '/research/' | relative_url }}">Explore Research</a>
+      <a class="cta cta-outline" href="{{ '/publication/journal/' | relative_url }}">Publications</a>
+    </div>
+    <ul class="chip-row">
+      <li>3D Gaussian Splatting</li>
+      <li>LiDAR SLAM</li>
+      <li>Digital Twin</li>
+      <li>Physics-Informed AI</li>
+      <li>Embodied AI</li>
+    </ul>
   </div>
+  <div class="scroll-cue" aria-hidden="true"></div>
 </section>
 
 <section class="stats-band">

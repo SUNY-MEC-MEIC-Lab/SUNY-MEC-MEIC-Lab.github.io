@@ -4,6 +4,15 @@ title: Neural Rendering & Spatial AI Group
 eyebrow: Research
 permalink: /research/neural-rendering/
 scene: neural
+banner_sub: >-
+  From multi-view capture to 3D Gaussian Splatting and sparse-voxel rendering —
+  we digitize large-scale facilities into photorealistic, perception-driven digital twins.
+chips:
+  - 3D Gaussian Splatting
+  - SVRaster
+  - Micro-Splatting
+  - LiDAR-3DGS
+  - Digital Twin
 ---
 
 ## Contact

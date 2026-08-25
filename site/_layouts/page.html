@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
-<section class="page-hero{% if page.scene %} has-visual{% endif %}">
+<section class="page-hero{% if page.scene %} has-visual is-banner{% endif %}">
   {% if page.scene %}<div class="hero-visual" data-scene="{{ page.scene }}" aria-hidden="true"></div>{% endif %}
-  <div class="wrap">
+  <div class="wrap{% if page.scene %} banner-wrap{% endif %}">
     {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
-    <h1>{{ page.title }}</h1>
+    <h1>{% if page.banner_title %}{{ page.banner_title }}{% else %}{{ page.title }}{% endif %}</h1>
     {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+    {% if page.banner_sub %}<p class="banner-sub">{{ page.banner_sub }}</p>{% endif %}
+    {% if page.chips %}<ul class="chip-row">{% for c in page.chips %}<li>{{ c }}</li>{% endfor %}</ul>{% endif %}
   </div>
 </section>
 <section class="page-body">

@@ -249,9 +249,10 @@ function initHome(scene, ctx) {
   ctx.camera.position.set(0, 0.25, 5.3);
   ctx.camera.lookAt(0, 0, 0);
   ctx.pointMats.push(cloud.mat);
-  ctx.onResize = (w, h) => {
-    const halfW = Math.tan((50 * Math.PI) / 360) * 5.3 * (w / h);
-    group.position.x = w > 980 ? halfW * 0.45 : 0;
+  // 배너 레이아웃: 텍스트 아래 중앙 하단에 배치
+  ctx.onResize = (w) => {
+    group.position.set(0, -1.5, 0);
+    group.scale.setScalar(w > 980 ? 0.88 : 0.66);
   };
   const setCap = makeCaption(ctx.el);
 
@@ -454,10 +455,9 @@ function initNeural(scene, ctx) {
   ctx.camera.position.set(0, 0.5, 5.4);
   ctx.camera.lookAt(0, 0, 0);
   ctx.pointMats.push(pts.mat);
-  ctx.onResize = (w, h) => {
-    const halfW = Math.tan((50 * Math.PI) / 360) * 5.4 * (w / h);
-    group.position.x = w > 980 ? halfW * 0.44 : 0;
-    group.scale.setScalar(w > 980 ? 1 : 0.8);
+  ctx.onResize = (w) => {
+    group.position.set(0, -1.2, 0);
+    group.scale.setScalar(w > 980 ? 0.82 : 0.62);
   };
   const setCap = makeCaption(ctx.el);
 
@@ -571,6 +571,10 @@ function initPdi(scene, ctx) {
   ctx.camera.position.set(0, 2.35, 4.1);
   ctx.camera.lookAt(0, -0.35, 0);
   ctx.pointMats.push(cloud.mat, gMat, scanner.mat);
+  ctx.onResize = (w) => {
+    group.position.y = -0.3;
+    group.scale.setScalar(w > 980 ? 1 : 0.72);
+  };
   const setCap = makeCaption(ctx.el);
 
   const path = (s) => {  // figure-8 순회 경로
@@ -764,7 +768,10 @@ function initPia(scene, ctx) {
   ctx.camera.position.set(0, 1.7, 4.0);
   ctx.camera.lookAt(0, -0.2, 0);
   ctx.pointMats.push(cloud.mat, nodeCloud.mat, pulseCloud.mat);
-  ctx.onResize = (w) => { group.scale.setScalar(w > 980 ? 1 : 0.72); };
+  ctx.onResize = (w) => {
+    group.position.y = -0.72;
+    group.scale.setScalar(w > 980 ? 1 : 0.66);
+  };
   const setCap = makeCaption(ctx.el);
 
   const cLow = [0.1, 0.2, 0.5], cMid = C_ACCENT, cHigh = C_WHITE;

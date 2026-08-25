@@ -4,6 +4,13 @@ title: Research Overview
 eyebrow: Research
 permalink: /research/
 scene: home
+banner_sub: >-
+  An AI-embodied engineering intelligence framework — spatial, multimodal, and
+  physics-informed convergence technologies that close the Sim2Real gap.
+chips:
+  - Neural Rendering &amp; Spatial AI
+  - PDI &amp; Multimodal AI
+  - PIA &amp; Embodied AI
 ---
 
 <p class="lead" style="margin-bottom:34px">MEIC (Mechanical Systems with Intelligence and Computer Vision) Lab</p>

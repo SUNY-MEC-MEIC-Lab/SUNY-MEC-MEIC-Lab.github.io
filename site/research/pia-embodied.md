@@ -4,6 +4,15 @@ title: PIA & Embodied AI Group
 eyebrow: Research
 permalink: /research/pia-embodied/
 scene: pia
+banner_sub: >-
+  Embedding physical laws directly into neural networks — predictive intelligence
+  and embodied AI that adapt to the real world beyond simulation.
+chips:
+  - PINN
+  - EV-PINN · PINO
+  - Virtual Sensing
+  - Optimal Control
+  - Embodied AI
 ---
 
 Physics-Infromed Actuation & Embodied AI Group

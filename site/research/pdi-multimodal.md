@@ -4,6 +4,15 @@ title: PDI & Multimodal AI Group
 eyebrow: Research
 permalink: /research/pdi-multimodal/
 scene: pdi
+banner_sub: >-
+  Aligning physical sites with virtual worlds in real time — LiDAR SLAM,
+  multimodal sensor fusion, and XR-based remote collaboration for smart infrastructure.
+chips:
+  - LiDAR SLAM
+  - Sensor Fusion
+  - 3DGS ↔ Unity Alignment
+  - Remote XR Collaboration
+  - PTZ · 6DoF Sensing
 ---
 
 Physics-Digital Interaction & Multimoda AI Group
