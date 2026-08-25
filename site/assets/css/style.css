@@ -151,9 +151,6 @@ p{margin:0 0 14px}
 .news-title{font-size:1.1rem;font-weight:600;margin:0 0 8px}
 .news-text{color:var(--muted);font-size:.92rem;margin:0}
 
-/* ---------- gallery ---------- */
-.gallery-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
-.gallery-grid img{aspect-ratio:4/3;object-fit:cover;border-radius:8px;border:1px solid var(--line)}
 
 /* ---------- footer ---------- */
 .site-footer{border-top:1px solid var(--line);padding:44px 0 26px;margin-top:60px;background:var(--surface)}
@@ -214,13 +211,6 @@ p{margin:0 0 14px}
   margin-top:56px;padding:28px;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface);
 }
 
-/* ---------- gallery groups ---------- */
-.gallery-group{margin-bottom:44px}
-.gallery-caption{
-  display:flex;align-items:baseline;gap:14px;margin:0 0 12px;
-  font-size:.95rem;font-weight:600;color:var(--text);
-}
-.gallery-caption span{color:var(--accent);font-size:.8rem;font-weight:500;flex:0 0 auto}
 
 /* ---------- figures (research pages) ---------- */
 .fig-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:20px 0 30px}
@@ -257,3 +247,52 @@ p{margin:0 0 14px}
   .tl-row{grid-template-columns:1fr;gap:6px;padding:16px 0}
   .contact-grid{grid-template-columns:1fr;gap:30px}
 }
+
+/* ---------- research: video embeds ---------- */
+.video-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:16px;margin:20px 0 30px}
+.video-grid.video-single{grid-template-columns:minmax(0,820px)}
+.video-frame{position:relative;padding-top:56.25%;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#000}
+.video-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+
+/* ---------- members: research interest tags ---------- */
+.person-tags{list-style:none;margin:0 0 6px;padding:0}
+.person-tags li{
+  position:relative;padding-left:12px;color:var(--muted);
+  font-size:.8rem;line-height:1.55;margin-bottom:2px;
+}
+.person-tags li::before{
+  content:"";position:absolute;left:0;top:.58em;
+  width:4px;height:4px;border-radius:50%;background:var(--accent-dim);
+}
+
+/* ---------- gallery: 주제별 캐러셀 ---------- */
+.gal{margin-bottom:56px}
+.gal-head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;margin-bottom:14px;flex-wrap:wrap}
+.gal-date{color:var(--accent);font-size:.82rem;margin:0 0 4px;font-weight:500}
+.gal-title{font-size:1.15rem;font-weight:600;margin:0;letter-spacing:-.01em}
+.gal-nav{display:flex;align-items:center;gap:8px}
+.gal-count{color:var(--muted);font-size:.78rem;margin-right:4px}
+.gal-btn{
+  width:36px;height:36px;border-radius:50%;cursor:pointer;
+  background:var(--surface-2);border:1px solid var(--line);color:var(--text);
+  font-size:1.15rem;line-height:1;display:grid;place-items:center;
+  transition:background .18s,border-color .18s,opacity .18s;
+}
+.gal-btn:hover:not(:disabled){background:rgba(90,162,255,.14);border-color:var(--accent-dim)}
+.gal-btn:disabled{opacity:.3;cursor:default}
+.gal-track{
+  display:grid;grid-auto-flow:column;
+  grid-auto-columns:calc((100% - 32px) / 3);      /* 데스크톱 3장 */
+  gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;
+  scrollbar-width:none;-ms-overflow-style:none;padding-bottom:4px;
+}
+.gal-track::-webkit-scrollbar{display:none}
+.gal-slide{scroll-snap-align:start;display:block}
+.gal-slide img{
+  width:100%;aspect-ratio:4/3;object-fit:cover;
+  border:1px solid var(--line);border-radius:var(--radius);
+  transition:border-color .18s,transform .18s;
+}
+.gal-slide:hover img{border-color:var(--accent-dim);transform:translateY(-2px)}
+@media (max-width:1000px){ .gal-track{grid-auto-columns:calc((100% - 16px) / 2)} }  /* 태블릿 2장 */
+@media (max-width:620px){ .gal-track{grid-auto-columns:88%} }                        /* 모바일 1장 */

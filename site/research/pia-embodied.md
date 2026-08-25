@@ -46,6 +46,11 @@ With the rapidly evolving EV industry, we propose physics-informed AI system tha
 </div>
 
 
+<div class="video-grid video-single">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/Wid2fpsdwqw" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div>
+
+
 ### 2. MLN: Modular Lagrangian Networks
 
 The Lagrangian formalism provides one of the most compact and expressive descriptions of the physical universe. We aim to train an AI system that can effectively understand the Lagrangian perspective and apply it to chaotic systems.
@@ -74,4 +79,9 @@ D3M is a Diffusion Models inspired PINN that can reconstruct Fields based on ini
 ### 4. LogPath: Log Data Based Energy Consumption Analysis Enabling Electric Vehicle Path Optimization
 
 We developed an eco-routing system used for EV navigation that uses real-time battery information to estimate seven major vehicle parameters by extracting multiple drive modes from the log data for the analysis. The developed system provides 1) routes, 2) charge locations, 3) charging times, and 4) optimum vehicle speeds that guarantee the shortest travel time.
+
+
+<div class="video-grid video-single">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/iPlkJGpI3nw" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div>
 

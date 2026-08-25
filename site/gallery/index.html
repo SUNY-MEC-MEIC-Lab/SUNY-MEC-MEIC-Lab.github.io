@@ -5,19 +5,51 @@ eyebrow: MEIC Lab
 permalink: /gallery/
 ---
 {% assign items = site.data.news | where: "Type", "Internal" %}
-<p class="muted" style="margin:-6px 0 22px">연구실 활동 사진</p>
+<p class="muted" style="margin:-6px 0 30px">연구실 활동 사진 — 좌우로 넘겨서 보세요</p>
+
 {% for n in items %}
   {% if n.Images != "" %}
     {% assign imgs = n.Images | split: "|" %}
-    <div class="gallery-group">
-      <p class="gallery-caption"><span>{{ n.Date }}</span>{{ n.Summary }}</p>
-      <div class="gallery-grid">
+    <section class="gal">
+      <div class="gal-head">
+        <div>
+          <p class="gal-date">{{ n.Date }}</p>
+          <h2 class="gal-title">{{ n.Summary }}</h2>
+        </div>
+        <div class="gal-nav">
+          <span class="gal-count">{{ imgs.size }}장</span>
+          <button class="gal-btn" data-dir="-1" aria-label="이전">&#8249;</button>
+          <button class="gal-btn" data-dir="1" aria-label="다음">&#8250;</button>
+        </div>
+      </div>
+      <div class="gal-track">
         {% for src in imgs %}
-        <a href="{{ src | relative_url }}" target="_blank" rel="noopener">
+        <a class="gal-slide" href="{{ src | relative_url }}" target="_blank" rel="noopener">
           <img src="{{ src | relative_url }}" alt="{{ n.Summary }}" loading="lazy">
         </a>
         {% endfor %}
       </div>
-    </div>
+    </section>
   {% endif %}
 {% endfor %}
+
+<script>
+document.querySelectorAll('.gal').forEach(function (gal) {
+  var track = gal.querySelector('.gal-track');
+  gal.querySelectorAll('.gal-btn').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var slide = track.querySelector('.gal-slide');
+      var step = slide ? slide.getBoundingClientRect().width + 16 : track.clientWidth;
+      track.scrollBy({ left: step * Number(btn.dataset.dir), behavior: 'smooth' });
+    });
+  });
+  function sync() {
+    var max = track.scrollWidth - track.clientWidth - 4;
+    gal.querySelector('[data-dir="-1"]').disabled = track.scrollLeft <= 4;
+    gal.querySelector('[data-dir="1"]').disabled = track.scrollLeft >= max;
+  }
+  track.addEventListener('scroll', sync);
+  window.addEventListener('resize', sync);
+  sync();
+});
+</script>

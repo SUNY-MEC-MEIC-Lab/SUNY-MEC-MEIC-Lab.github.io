@@ -48,6 +48,11 @@ Development of computer power and vision sensors (such as LiDAR, camera), remote
 </div>
 
 
+<div class="video-grid video-single">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/3yvMV7Hh9MQ" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div>
+
+
 ### 2. High-Fidelity 3D Map
 
 Pre-built LiDAR-RGB camera system builds a 3D-colored point cloud map with SLAM (Simultaneous Localization and Mapping). In order to detect any SLAM errors (e.g., Blind Spot), we have developed LiMRSF (LiDAR-MR-RGB Sensor Fusion) system to detect and visualize the errors for high-fidelity 3D maps.
@@ -56,6 +61,11 @@ Pre-built LiDAR-RGB camera system builds a 3D-colored point cloud map with SLAM 
 <div class="fig-grid">
   <a href="{{ '/assets/research/pdi-multimodal/MR_blindspot_Figure11.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/MR_blindspot_Figure11.webp' | relative_url }}" alt="" loading="lazy"></a>
   <a href="{{ '/assets/research/pdi-multimodal/HanbeomChang_LiMRSF.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/HanbeomChang_LiMRSF.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
+
+
+<div class="video-grid video-single">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/3EbnmCrZffk" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 
 
@@ -70,6 +80,11 @@ In order to track each device (e.g., VR, MR) in Virtual space, it is important t
 </div>
 
 
+<div class="video-grid video-single">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/8fV65GJ26AA" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div>
+
+
 ### 4. Remote Collaboration
 
 Remote collaboration is important for structural assessment between the field and office engineers. This system reduces the time and cost of travel and easily connects remote engineers with VR and MR headsets.
@@ -77,6 +92,11 @@ Remote collaboration is important for structural assessment between the field an
 
 <div class="fig-grid fig-single">
   <a href="{{ '/assets/research/pdi-multimodal/HBC_Pic6.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/HBC_Pic6.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
+
+
+<div class="video-grid video-single">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/yrGOJmk6oGs" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 
 
@@ -97,6 +117,12 @@ This work presents a 6-DoF robotic arm system designed for precise visual monito
 </div>
 
 
+<div class="video-grid">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/qGllrwDXY8M" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/RzewsfXvwWM" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div>
+
+
 ### 6. Mobile Application Development
 
 6-1) Smart Construction Monitoring
@@ -106,5 +132,10 @@ This study presents a mobile application that overlays recent images of construc
 
 <div class="fig-grid fig-single">
   <a href="{{ '/assets/research/pdi-multimodal/application.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/application.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
+
+
+<div class="video-grid video-single">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/Hs_k5SBCqNg" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 

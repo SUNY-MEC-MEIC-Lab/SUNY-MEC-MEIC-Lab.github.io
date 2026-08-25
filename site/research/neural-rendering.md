@@ -38,6 +38,11 @@ This research presents Micro-Splatting, an enhanced 3D Gaussian Splatting framew
 </div>
 
 
+<div class="video-grid video-single">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/sFVd9xadQKU" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div>
+
+
 ### 2. ReVIEW: Remote Visualization and Inspection Enabled on Web
 
 ReVIEW is a web-based platform that enables remote 3D inspection by transforming video footage into interactive 3D models using Gaussian Splatting. The system integrates video-based data collection, YOLO-based object detection, Structure-from-Motion for camera pose estimation, and WebGL visualization. By allowing users to inspect specific components directly within a browser, ReVIEW improves safety, reduces inspection costs, and makes detailed visual analysis possible without on-site access which is ideal for environments like ship engine rooms and industrial facilities.
@@ -46,6 +51,11 @@ ReVIEW is a web-based platform that enables remote 3D inspection by transforming
 <div class="fig-grid">
   <a href="{{ '/assets/research/neural-rendering/그림5.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/neural-rendering/그림5.webp' | relative_url }}" alt="" loading="lazy"></a>
   <a href="{{ '/assets/research/neural-rendering/그림6.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/neural-rendering/그림6.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
+
+
+<div class="video-grid video-single">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/VqsfgKjf9U8" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div>
 
 
@@ -64,4 +74,10 @@ With the rapidly evolving EV industry, we propose physics-informed AI system tha
 ### 4. Data Localization on a Hyper-Realistic Display Model Enabling Remote Assessment: Implementation on a Full-scale Ship Engine
 
 We produce a hyper-realistic digital damage model for use in Structural Health monitoring to provide a comprehensive approach for user-driven input to monitor specific areas of the model by creating 1) a 3D Gaussian Splatting Model (3DGS) – a full-scale super-resolution 3D reconstructed model of the structure for a user to select target inspection regions on global information; 2) a Region-of-Interest (ROI) Locator – extracting many image patches from original images acquired with various view perspectives corresponding to the user selected target inspection regions providing local information.
+
+
+<div class="video-grid">
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/uKQ9KkWU9qk" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/pZfm7TG3dgM" title="YouTube video" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div>
 

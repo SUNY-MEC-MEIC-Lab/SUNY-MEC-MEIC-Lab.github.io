@@ -10,7 +10,7 @@ permalink: /news/
 <article class="news-item">
   {% if n.Cover != "" %}<div class="news-cover"><img src="{{ n.Cover | relative_url }}" alt="{{ n.Summary }}" loading="lazy"></div>{% endif %}
   <div class="news-body">
-    <p class="news-date">{{ n.Date }}{% if n.Type != "" %} · {{ n.Type }}{% endif %}</p>
+    <p class="news-date">{{ n.Date }}</p>
     <p class="news-title">{{ n.Summary }}</p>
     <p class="news-text">{{ n.Content }}</p>
   </div>
