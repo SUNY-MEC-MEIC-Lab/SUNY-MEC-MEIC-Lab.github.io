@@ -10,7 +10,17 @@ permalink: /publication/journal/
 {% assign items = site.data.journals | where: "Year", y %}
 {% for a in items %}
 <article class="pub">
-  {% if a.Thumbnail != "" %}<div class="pub-thumb"><img src="{{ a.Thumbnail | relative_url }}" alt="" loading="lazy"></div>{% endif %}
+  <div class="pub-thumb">
+    {% if a.Thumbnail != "" %}
+      <img src="{{ a.Thumbnail | relative_url }}" alt="" loading="lazy">
+    {% else %}
+      {% assign parts = a.Venue | split: "," %}
+      <div class="pub-thumb-ph">
+        <span class="ph-pub">{{ parts.last | strip | default: "Journal" }}</span>
+        <span class="ph-year">{{ a.Year }}</span>
+      </div>
+    {% endif %}
+  </div>
   <div class="pub-body">
     <p class="pub-title">
       {% if a.URL != "" %}<a href="{{ a.URL }}" target="_blank" rel="noopener">{{ a.Title }}</a>{% else %}{{ a.Title }}{% endif %}

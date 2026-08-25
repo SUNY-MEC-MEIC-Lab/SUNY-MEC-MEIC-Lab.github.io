@@ -10,7 +10,7 @@
 import csv, json, os, re, shutil, sys, collections
 
 sys.path.insert(0, '/home/meic/.local/lib/python3.10/site-packages')
-from PIL import Image
+from PIL import Image, ImageOps
 import pillow_heif
 pillow_heif.register_heif_opener()
 
@@ -84,6 +84,7 @@ def slug_index():
 
 def convert(src, dst):
     with Image.open(src) as im:
+        im = ImageOps.exif_transpose(im) or im   # EXIF 회전 반영
         im = im.convert('RGBA') if im.mode in ('RGBA', 'LA', 'P') else im.convert('RGB')
         w, h = im.size
         if max(w, h) > MAX_EDGE:

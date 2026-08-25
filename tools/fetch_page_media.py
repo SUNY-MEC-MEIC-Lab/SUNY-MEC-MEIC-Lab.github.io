@@ -5,7 +5,7 @@ GIF 는 애니메이션을 유지한 채 animated WebP 로 변환한다.
 import json, os, re, sys, time
 from urllib.request import Request, urlopen
 sys.path.insert(0, '/home/meic/.local/lib/python3.10/site-packages')
-from PIL import Image
+from PIL import Image, ImageOps
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORIG = os.path.join(ROOT, 'assets_original', 'pages')
@@ -30,6 +30,7 @@ def get(slug, dest):
 
 def to_webp(src, dst):
     with Image.open(src) as im:
+        im = ImageOps.exif_transpose(im) or im   # EXIF 회전 반영
         animated = getattr(im, 'n_frames', 1) > 1
         if animated:
             im.save(dst, 'WEBP', save_all=True, quality=80, method=4)

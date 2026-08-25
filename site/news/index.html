@@ -8,7 +8,23 @@ permalink: /news/
 <p class="muted" style="margin:-6px 0 8px">{{ items.size }} entries</p>
 {% for n in items %}
 <article class="news-item">
-  {% if n.Cover != "" %}<div class="news-cover"><img src="{{ n.Cover | relative_url }}" alt="{{ n.Summary }}" loading="lazy"></div>{% endif %}
+  {% if n.Images != "" %}
+    {% assign imgs = n.Images | split: "|" %}
+    <div class="news-media{% if imgs.size > 1 %} has-many{% endif %}">
+      <div class="news-track">
+        {% for src in imgs %}
+        <a class="news-slide" href="{{ src | relative_url }}" target="_blank" rel="noopener">
+          <img src="{{ src | relative_url }}" alt="{{ n.Summary }}" loading="lazy">
+        </a>
+        {% endfor %}
+      </div>
+      {% if imgs.size > 1 %}
+      <button class="news-arrow prev" data-dir="-1" aria-label="이전">&#8249;</button>
+      <button class="news-arrow next" data-dir="1" aria-label="다음">&#8250;</button>
+      <span class="news-counter"><b>1</b>/{{ imgs.size }}</span>
+      {% endif %}
+    </div>
+  {% endif %}
   <div class="news-body">
     <p class="news-date">{{ n.Date }}</p>
     <p class="news-title">{{ n.Summary }}</p>
@@ -16,3 +32,27 @@ permalink: /news/
   </div>
 </article>
 {% endfor %}
+
+<script>
+document.querySelectorAll('.news-media.has-many').forEach(function (box) {
+  var track = box.querySelector('.news-track');
+  var counter = box.querySelector('.news-counter b');
+  var total = track.children.length;
+  function sync() {
+    var w = track.clientWidth || 1;
+    var i = Math.round(track.scrollLeft / w) + 1;
+    if (counter) counter.textContent = Math.min(Math.max(i, 1), total);
+    box.querySelector('.prev').disabled = track.scrollLeft <= 4;
+    box.querySelector('.next').disabled = track.scrollLeft >= track.scrollWidth - w - 4;
+  }
+  box.querySelectorAll('.news-arrow').forEach(function (btn) {
+    btn.addEventListener('click', function (e) {
+      e.preventDefault();
+      track.scrollBy({ left: track.clientWidth * Number(btn.dataset.dir), behavior: 'smooth' });
+    });
+  });
+  track.addEventListener('scroll', sync);
+  window.addEventListener('resize', sync);
+  sync();
+});
+</script>
