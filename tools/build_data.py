@@ -72,11 +72,15 @@ def members():
             'Photo': local(r.get('이미지','')),
             'Notes': r.get('Notes','').strip(),
             'PostCareer': r.get('Post career','').strip(),
+            'Rank': r.get('Rank','').strip(),
         })
-    out.sort(key=lambda x: (x['SectionOrder'], x['Duration']), reverse=False)
+    # Alumni 는 진로 기준 순서(Rank), 나머지는 재직 기간 순
+    out.sort(key=lambda x: (x['SectionOrder'],
+                            int(x['Rank']) if x['Rank'].isdigit() else 999,
+                            x['Duration']))
     write('members.csv', out,
           ['Section','SectionOrder','Name','Duration','Education','Interest',
-           'Email','Photo','Notes','PostCareer'])
+           'Email','Photo','Notes','PostCareer','Rank'])
 
 # --- News --------------------------------------------------------------------
 def news():
