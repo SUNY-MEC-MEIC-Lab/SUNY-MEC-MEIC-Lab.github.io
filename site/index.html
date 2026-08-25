@@ -1,16 +1,42 @@
 ---
 layout: default
 title: Home
-scene: home
 ---
 <section class="home-hero">
-  <div class="hero-visual" data-scene="home" aria-hidden="true"></div>
+  <div class="hero-media" aria-hidden="true">
+    <video id="hero-video" autoplay muted loop playsinline preload="auto"
+           poster="{{ '/assets/video/home-hero-poster.webp' | relative_url }}">
+      <source src="{{ '/assets/video/home-hero.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
   <div class="wrap">
     <p class="eyebrow">{{ site.institution }}</p>
     <h1>Mechanical Systems with<br>Intelligence &amp; Computer Vision</h1>
     <p class="lead">Neural rendering based visual intelligence for engineering, industry, and public applications.</p>
   </div>
+  <div class="hero-caption" id="hero-cap"></div>
 </section>
+
+<script>
+  (function () {
+    var v = document.getElementById('hero-video');
+    var cap = document.getElementById('hero-cap');
+    if (!v) return;
+    if (matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      v.removeAttribute('autoplay');
+      v.pause();
+    }
+    /* 영상 구간(7.4s × 4)에 맞춰 연구 주제 캡션 동기화 */
+    var caps = ['Mechanical Systems', 'Neural Rendering · 3D Gaussian Splatting',
+      'Hyper-realistic Digital Twin', 'Physics-Informed AI'];
+    var last = -1;
+    setInterval(function () {
+      if (!cap || v.paused) return;
+      var idx = Math.floor(((v.currentTime + 1.1) / 7.4)) % 4;
+      if (idx !== last) { last = idx; cap.textContent = caps[idx]; }
+    }, 400);
+  })();
+</script>
 
 <section class="stats-band">
   <div class="wrap stats-row">

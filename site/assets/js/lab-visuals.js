@@ -249,11 +249,10 @@ function initHome(scene, ctx) {
   ctx.camera.position.set(0, 0.25, 5.3);
   ctx.camera.lookAt(0, 0, 0);
   ctx.pointMats.push(cloud.mat);
-  // 홈 히어로: 텍스트 좌측, 오브젝트는 화면 우측 ~72% 지점
-  ctx.onResize = (w, h) => {
-    const halfW = Math.tan((50 * Math.PI) / 360) * 5.3 * (w / h);
-    group.position.set(w > 980 ? halfW * 0.45 : 0, -0.1, 0);
-    group.scale.setScalar(w > 980 ? 0.92 : 0.68);
+  // scene "home"은 Research Overview 배너에서 사용: 텍스트 아래 중앙 하단 배치
+  ctx.onResize = (w) => {
+    group.position.set(0, -1.5, 0);
+    group.scale.setScalar(w > 980 ? 0.88 : 0.66);
   };
   const setCap = makeCaption(ctx.el);
 
