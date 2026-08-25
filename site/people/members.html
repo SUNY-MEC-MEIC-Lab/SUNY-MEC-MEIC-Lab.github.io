@@ -9,24 +9,35 @@ permalink: /people/members/
   {% assign people = site.data.members | where: "Section", sec %}
   {% if people.size > 0 %}
   <div class="section-label">{{ sec }} <span style="color:var(--muted);font-weight:400">({{ people.size }})</span></div>
+
+  {% if sec == "Alumni" %}
+  <p class="muted" style="margin:-8px 0 22px;font-size:.9rem">졸업 후 진로 — 대학원 진학과 산업체 취업 현황</p>
+  {% endif %}
+
   <div class="grid grid-4">
     {% for p in people %}
-    <article class="card person">
+    <article class="card person{% if sec == 'Alumni' %} is-alumni{% endif %}">
       <div class="person-photo">
         {% if p.Photo != "" %}<img src="{{ p.Photo | relative_url }}" alt="{{ p.Name }}" loading="lazy">{% endif %}
       </div>
       <div class="person-body">
         <p class="person-name">{{ p.Name }}</p>
         {% if p.Duration != "" %}<p class="person-line">{{ p.Duration }}</p>{% endif %}
+        {% if sec == "Alumni" and p.Notes != "" %}<p class="person-role">{{ p.Notes }}</p>{% endif %}
         {% if p.Interest != "" %}
         <ul class="person-tags">
           {% assign tags = p.Interest | split: "|" %}
           {% for t in tags %}<li>{{ t | strip }}</li>{% endfor %}
         </ul>
         {% endif %}
-        {% if p.PostCareer != "" %}<p class="person-line">→ {{ p.PostCareer }}</p>{% endif %}
         {% if p.Email != "" %}<p class="person-line"><a href="mailto:{{ p.Email }}">{{ p.Email }}</a></p>{% endif %}
       </div>
+      {% if p.PostCareer != "" %}
+      <div class="person-dest">
+        <span class="dest-label">Now</span>
+        <span class="dest-name">{{ p.PostCareer }}</span>
+      </div>
+      {% endif %}
     </article>
     {% endfor %}
   </div>
