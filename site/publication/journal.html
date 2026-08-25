@@ -14,10 +14,10 @@ permalink: /publication/journal/
   <div class="pub-body">
     <p class="pub-title">
       {% if a.URL != "" %}<a href="{{ a.URL }}" target="_blank" rel="noopener">{{ a.Title }}</a>{% else %}{{ a.Title }}{% endif %}
-      {% if a.Status != "Published" %}<span class="badge review">{{ a.Status }}</span>{% endif %}
+      
     </p>
     <p class="pub-authors">{{ a.Authors }}</p>
-    <p class="pub-venue">{{ a.Venue }}</p>
+    <p class="pub-venue">{{ a.Venue }}{% if a.Status != "Published" %}<span class="status-note">{{ a.Status }}</span>{% endif %}</p>
   </div>
 </article>
 {% endfor %}

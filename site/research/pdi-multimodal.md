@@ -43,9 +43,20 @@ We develop multimodal fusion pipelines integrating AR, LiDAR, and inertial sensi
 Development of computer power and vision sensors (such as LiDAR, camera), remote visual assessment has been actively developed. We built LiDAR-RGB camera system with extrinsic calibration, 3D printed sensor mount.
 
 
+<div class="fig-grid fig-single">
+  <a href="{{ '/assets/research/pdi-multimodal/HBC_Pic2.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/HBC_Pic2.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
+
+
 ### 2. High-Fidelity 3D Map
 
 Pre-built LiDAR-RGB camera system builds a 3D-colored point cloud map with SLAM (Simultaneous Localization and Mapping). In order to detect any SLAM errors (e.g., Blind Spot), we have developed LiMRSF (LiDAR-MR-RGB Sensor Fusion) system to detect and visualize the errors for high-fidelity 3D maps.
+
+
+<div class="fig-grid">
+  <a href="{{ '/assets/research/pdi-multimodal/MR_blindspot_Figure11.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/MR_blindspot_Figure11.webp' | relative_url }}" alt="" loading="lazy"></a>
+  <a href="{{ '/assets/research/pdi-multimodal/HanbeomChang_LiMRSF.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/HanbeomChang_LiMRSF.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
 
 
 ### 3. Spatial Alignment
@@ -53,9 +64,20 @@ Pre-built LiDAR-RGB camera system builds a 3D-colored point cloud map with SLAM 
 In order to track each device (e.g., VR, MR) in Virtual space, it is important to align the virtual world to the real world. We have applied Umeyama + ICP algorithm and are trying to apply neural networks to automate the alignment process.
 
 
+<div class="fig-grid">
+  <a href="{{ '/assets/research/pdi-multimodal/080b1e_13e62c78c29c48e1806da66b15eb7ecb_mv2.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/080b1e_13e62c78c29c48e1806da66b15eb7ecb_mv2.webp' | relative_url }}" alt="" loading="lazy"></a>
+  <a href="{{ '/assets/research/pdi-multimodal/HBC_Pic5.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/HBC_Pic5.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
+
+
 ### 4. Remote Collaboration
 
 Remote collaboration is important for structural assessment between the field and office engineers. This system reduces the time and cost of travel and easily connects remote engineers with VR and MR headsets.
+
+
+<div class="fig-grid fig-single">
+  <a href="{{ '/assets/research/pdi-multimodal/HBC_Pic6.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/HBC_Pic6.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
 
 
 ### 5. Remote Visual Sensing
@@ -69,9 +91,20 @@ This work presents a PTZ camera system for remote visual sensing that automatica
 This work presents a 6-DoF robotic arm system designed for precise visual monitoring of objects of varying sizes and at different distances. Unlike traditional 2-DoF PTZ systems, the 6-DoF configuration enables greater flexibility in viewpoint selection and camera positioning, allowing the robot to maintain optimal framing and alignment with the Region of Interest (ROI) in complex 3D environments.
 
 
+<div class="fig-grid">
+  <a href="{{ '/assets/research/pdi-multimodal/ptzcamerasystem.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/ptzcamerasystem.webp' | relative_url }}" alt="" loading="lazy"></a>
+  <a href="{{ '/assets/research/pdi-multimodal/6dof.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/6dof.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
+
+
 ### 6. Mobile Application Development
 
 6-1) Smart Construction Monitoring
 
 This study presents a mobile application that overlays recent images of construction sites onto mapping APIs like Google Maps to enable real-time, user-guided path planning for unmanned ground vehicles (UGVs). By computing a homographic transformation between captured images and satellite views, the system functions as a dynamic digital twin enhancing inspection accuracy, reducing operational workload, and supporting GPS-based autonomous navigation in evolving environments.
+
+
+<div class="fig-grid fig-single">
+  <a href="{{ '/assets/research/pdi-multimodal/application.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pdi-multimodal/application.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
 

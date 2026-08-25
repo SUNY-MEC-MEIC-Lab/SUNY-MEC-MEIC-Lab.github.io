@@ -9,10 +9,9 @@ Physics-Infromed Actuation & Embodied AI Group
 
 Physics-Informed Actuation & Embodied AI Group
 
-
 ## Contact
 
-E-mail:  hansol.lim@stonybrook.edu
+hansol.lim@stonybrook.edu  
 
 We advance goal-oriented predictive intelligence based on physics-informed AI. By embedding physical laws directly into neural networks through EV-PINN and PINO architectures, we enable accurate inference of complex physical behaviors and system states even under limited data conditions, supporting adaptive virtual sensing capabilities.
 
@@ -26,13 +25,10 @@ Furthermore, by integrating the vision-based robotic control platform R-Zoom wit
 
 ## Research Interest
 
-Digital Twins
-
-Physics Informed Machine Learning
-
-Electric Vehicle PHM
-
-Optimal Control
+- Digital Twins
+- Physics Informed Machine Learning
+- Electric Vehicle PHM
+- Optimal Control
 
 
 ## Detailed Work
@@ -43,14 +39,36 @@ Optimal Control
 With the rapidly evolving EV industry, we propose physics-informed AI system that can inference battery power usage from a real-time velocity feed. The system is trained on real vehicle log data and can also estimate parameters such as motor efficiency, mass, rolling resistance, aerodynamic drag, and regenerative braking efficiency through data.
 
 
+<div class="fig-grid">
+  <a href="{{ '/assets/research/pia-embodied/evpinn1.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pia-embodied/evpinn1.webp' | relative_url }}" alt="" loading="lazy"></a>
+  <a href="{{ '/assets/research/pia-embodied/evpinn2.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pia-embodied/evpinn2.webp' | relative_url }}" alt="" loading="lazy"></a>
+  <a href="{{ '/assets/research/pia-embodied/evpinn3.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pia-embodied/evpinn3.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
+
+
 ### 2. MLN: Modular Lagrangian Networks
 
 The Lagrangian formalism provides one of the most compact and expressive descriptions of the physical universe. We aim to train an AI system that can effectively understand the Lagrangian perspective and apply it to chaotic systems.
 
 
+<div class="fig-grid">
+  <a href="{{ '/assets/research/pia-embodied/1.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pia-embodied/1.webp' | relative_url }}" alt="" loading="lazy"></a>
+  <a href="{{ '/assets/research/pia-embodied/mln2.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pia-embodied/mln2.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
+
+
 ### 3. D3M Deblurring Diffusion Deterministic  Models: Physics-Informed Field Reconstruction via Flux Regularization
 
 D3M is a Diffusion Models inspired PINN that can reconstruct Fields based on initial conditions. It can inference steady state results of heat, electrodynamics, fluids up to 10^-9 MSE accuracy at lightspeed.
+
+
+<div class="fig-grid">
+  <a href="{{ '/assets/research/pia-embodied/d3m1.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pia-embodied/d3m1.webp' | relative_url }}" alt="" loading="lazy"></a>
+  <a href="{{ '/assets/research/pia-embodied/d3m2.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pia-embodied/d3m2.webp' | relative_url }}" alt="" loading="lazy"></a>
+  <a href="{{ '/assets/research/pia-embodied/d3m3.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pia-embodied/d3m3.webp' | relative_url }}" alt="" loading="lazy"></a>
+  <a href="{{ '/assets/research/pia-embodied/d3m4.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pia-embodied/d3m4.webp' | relative_url }}" alt="" loading="lazy"></a>
+  <a href="{{ '/assets/research/pia-embodied/d3m5.webp' | relative_url }}" target="_blank" rel="noopener"><img src="{{ '/assets/research/pia-embodied/d3m5.webp' | relative_url }}" alt="" loading="lazy"></a>
+</div>
 
 
 ### 4. LogPath: Log Data Based Energy Consumption Analysis Enabling Electric Vehicle Path Optimization

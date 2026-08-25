@@ -1,0 +1,288 @@
+{
+ "neural-rendering": {
+  "heads": [
+   {
+    "no": 1,
+    "title": "1. Micro-Splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting"
+   },
+   {
+    "no": 2,
+    "title": "2. ReVIEW: Remote Visualization and Inspection Enabled on Web"
+   },
+   {
+    "no": 3,
+    "title": "3. LiDAR-3DGS: LiDAR Reinforcement for Multimodal Initialization of 3D Gaussian Splats"
+   }
+  ],
+  "images": {
+   "0": [
+    {
+     "slug": "754fc9_9fc1152b31244f01b79b78dd1805bd78~mv2.jpg",
+     "alt": "journal paper image_edited_edited.jpg"
+    },
+    {
+     "slug": "080b1e_949e46a1b2a74e149b0c68264717185f~mv2.jpg",
+     "alt": "MEIC_LOGO_bw.jpg"
+    },
+    {
+     "slug": "a1fed5f687844a6e8f42e017f71dfcb4.png",
+     "alt": "YouTube"
+    },
+    {
+     "slug": "11062b_ee3c26cc8b3d494691e223097536c2d0~mv2.png",
+     "alt": "GitHub     "
+    },
+    {
+     "slug": "080b1e_4bee0ac803ef47228efe2f2a433999be~mv2.jpg",
+     "alt": "_edited.jpg"
+    }
+   ],
+   "1": [
+    {
+     "slug": "080b1e_6e8fce2903f44c6aad4582a7e2586f15~mv2.png",
+     "alt": "microsplatting2.png"
+    }
+   ],
+   "2": [
+    {
+     "slug": "080b1e_0ed827144a004bf291443093bebce7a7~mv2.png",
+     "alt": "그림5.png"
+    },
+    {
+     "slug": "080b1e_58d724512e744a2da229153acdb6667c~mv2.png",
+     "alt": "그림6.png"
+    }
+   ],
+   "3": [
+    {
+     "slug": "080b1e_5804246b91a14967b93b329505fe051c~mv2.png",
+     "alt": ""
+    },
+    {
+     "slug": "080b1e_3ce90bee8cf847739565bb2060d42b3e~mv2.png",
+     "alt": ""
+    },
+    {
+     "slug": "080b1e_e6d37b482a254c2087982a6a42c4ea80~mv2.png",
+     "alt": ""
+    },
+    {
+     "slug": "754fc9_d7a813875224428ca55559f82bb7dade~mv2.png",
+     "alt": "SUNY Logo_edited.png"
+    },
+    {
+     "slug": "754fc9_e5caf2f6b7ae4283993eb6cac1f64fbd~mv2.png",
+     "alt": "stonybrook logo_edited.png"
+    }
+   ]
+  }
+ },
+ "pdi-multimodal": {
+  "heads": [
+   {
+    "no": 1,
+    "title": "1. LiDAR-RGB Camera Sensor Fusion"
+   },
+   {
+    "no": 2,
+    "title": "2. High-Fidelity 3D Map"
+   },
+   {
+    "no": 3,
+    "title": "3. Spatial Alignment"
+   },
+   {
+    "no": 4,
+    "title": "4. Remote Collaboration"
+   },
+   {
+    "no": 5,
+    "title": "5. Remote Visual Sensing&nbsp;"
+   },
+   {
+    "no": 6,
+    "title": "6. Mobile Application Development"
+   }
+  ],
+  "images": {
+   "0": [
+    {
+     "slug": "754fc9_9fc1152b31244f01b79b78dd1805bd78~mv2.jpg",
+     "alt": "journal paper image_edited_edited.jpg"
+    },
+    {
+     "slug": "080b1e_949e46a1b2a74e149b0c68264717185f~mv2.jpg",
+     "alt": "MEIC_LOGO_bw.jpg"
+    },
+    {
+     "slug": "a1fed5f687844a6e8f42e017f71dfcb4.png",
+     "alt": "YouTube"
+    },
+    {
+     "slug": "11062b_ee3c26cc8b3d494691e223097536c2d0~mv2.png",
+     "alt": "GitHub     "
+    },
+    {
+     "slug": "080b1e_4bee0ac803ef47228efe2f2a433999be~mv2.jpg",
+     "alt": "_edited.jpg"
+    }
+   ],
+   "1": [
+    {
+     "slug": "080b1e_270db710132d47fea335dfa2b016dffc~mv2.png",
+     "alt": "HBC_Pic2.png"
+    }
+   ],
+   "2": [
+    {
+     "slug": "080b1e_c4bcd2574e544d77beea875ca3c4e84c~mv2.png",
+     "alt": "MR_blindspot_Figure11.png"
+    },
+    {
+     "slug": "080b1e_3980242df31747008fb69ccf244763cc~mv2.gif",
+     "alt": "HanbeomChang_LiMRSF.gif"
+    }
+   ],
+   "3": [
+    {
+     "slug": "080b1e_13e62c78c29c48e1806da66b15eb7ecb~mv2.png",
+     "alt": ""
+    },
+    {
+     "slug": "080b1e_3c35a13335344b0a8f67fdde98938f9b~mv2.png",
+     "alt": "HBC_Pic5.png"
+    }
+   ],
+   "4": [
+    {
+     "slug": "080b1e_ede333c5642647febe828591b0f4284d~mv2.png",
+     "alt": "HBC_Pic6.png"
+    }
+   ],
+   "5": [
+    {
+     "slug": "080b1e_617f8e8e49bf404e9fff8894105f30c1~mv2.jpg",
+     "alt": "ptzcamerasystem.jpg"
+    },
+    {
+     "slug": "080b1e_fbad0f86186a43fcab455db891e9025f~mv2.jpg",
+     "alt": "6dof.jpg"
+    }
+   ],
+   "6": [
+    {
+     "slug": "080b1e_2ff59dd294814e8dbb8c7a2d2a16a89b~mv2.jpg",
+     "alt": "application.jpg"
+    },
+    {
+     "slug": "754fc9_d7a813875224428ca55559f82bb7dade~mv2.png",
+     "alt": "SUNY Logo_edited.png"
+    },
+    {
+     "slug": "754fc9_e5caf2f6b7ae4283993eb6cac1f64fbd~mv2.png",
+     "alt": "stonybrook logo_edited.png"
+    }
+   ]
+  }
+ },
+ "pia-embodied": {
+  "heads": [
+   {
+    "no": 1,
+    "title": "1. EV-PINN: Electric Vehicle Battery Surrogates Using Physics-Informed Transform"
+   },
+   {
+    "no": 2,
+    "title": "2. MLN: Modular Lagrangian Networks"
+   },
+   {
+    "no": 3,
+    "title": "3. D3M Deblurring Diffusion Deterministic&nbsp; Models: Physics-Informed Field Reconstruction via Flux Regularization"
+   },
+   {
+    "no": 4,
+    "title": "4. LogPath: Log Data Based Energy Consumption Analysis Enabling Electric Vehicle Path Optimization"
+   }
+  ],
+  "images": {
+   "0": [
+    {
+     "slug": "754fc9_9fc1152b31244f01b79b78dd1805bd78~mv2.jpg",
+     "alt": "journal paper image_edited_edited.jpg"
+    },
+    {
+     "slug": "080b1e_949e46a1b2a74e149b0c68264717185f~mv2.jpg",
+     "alt": "MEIC_LOGO_bw.jpg"
+    },
+    {
+     "slug": "a1fed5f687844a6e8f42e017f71dfcb4.png",
+     "alt": "YouTube"
+    },
+    {
+     "slug": "11062b_ee3c26cc8b3d494691e223097536c2d0~mv2.png",
+     "alt": "GitHub     "
+    },
+    {
+     "slug": "080b1e_4bee0ac803ef47228efe2f2a433999be~mv2.jpg",
+     "alt": "_edited.jpg"
+    }
+   ],
+   "1": [
+    {
+     "slug": "080b1e_392d82eb6cc04f8e9371ab34f1338737~mv2.png",
+     "alt": "evpinn1.png"
+    },
+    {
+     "slug": "080b1e_029c9cfaece84132ab8f48a82fd2aff4~mv2.png",
+     "alt": "evpinn2.png"
+    },
+    {
+     "slug": "080b1e_2d8b411332b14600b2780480ffed7a7e~mv2.png",
+     "alt": "evpinn3.png"
+    }
+   ],
+   "2": [
+    {
+     "slug": "080b1e_4ca521d115c04fc99d5bb5c5ebf3127e~mv2.gif",
+     "alt": "1.gif"
+    },
+    {
+     "slug": "080b1e_2b9c7e544ed0411290224a70e2004a47~mv2.png",
+     "alt": "mln2.png"
+    }
+   ],
+   "3": [
+    {
+     "slug": "080b1e_795b9ce399e842b2983fd626cf3b1448~mv2.png",
+     "alt": "d3m1.png"
+    },
+    {
+     "slug": "080b1e_6f2e8a7d4c674ea7a098357ddabc77fb~mv2.png",
+     "alt": "d3m2.png"
+    },
+    {
+     "slug": "080b1e_ba6a9385e8bf42fdab9a60642e806723~mv2.png",
+     "alt": "d3m3.png"
+    },
+    {
+     "slug": "080b1e_e526ba6255294854a7b34a08cf7d156a~mv2.png",
+     "alt": "d3m4.png"
+    },
+    {
+     "slug": "080b1e_d2df25a4f397432e84be7298d81c9523~mv2.png",
+     "alt": "d3m5.png"
+    }
+   ],
+   "4": [
+    {
+     "slug": "754fc9_d7a813875224428ca55559f82bb7dade~mv2.png",
+     "alt": "SUNY Logo_edited.png"
+    },
+    {
+     "slug": "754fc9_e5caf2f6b7ae4283993eb6cac1f64fbd~mv2.png",
+     "alt": "stonybrook logo_edited.png"
+    }
+   ]
+  }
+ }
+}

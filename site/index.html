@@ -43,7 +43,8 @@ title: Home
     </p>
 
     <div class="section-label">Latest News</div>
-    {% assign recent = site.data.news | slice: 0, 5 %}
+    {% assign ext = site.data.news | where: "Type", "External" %}
+    {% assign recent = ext | slice: 0, 5 %}
     {% for n in recent %}
     <div class="news-item">
       {% if n.Cover != "" %}<div class="news-cover"><img src="{{ n.Cover | relative_url }}" alt="{{ n.Summary }}" loading="lazy"></div>{% endif %}

@@ -1,0 +1,59 @@
+{
+ "neural-rendering": {
+  "1": [
+   "/assets/research/neural-rendering/microsplatting2.webp"
+  ],
+  "2": [
+   "/assets/research/neural-rendering/그림5.webp",
+   "/assets/research/neural-rendering/그림6.webp"
+  ],
+  "3": [
+   "/assets/research/neural-rendering/080b1e_5804246b91a14967b93b329505fe051c_mv2.webp",
+   "/assets/research/neural-rendering/080b1e_3ce90bee8cf847739565bb2060d42b3e_mv2.webp",
+   "/assets/research/neural-rendering/080b1e_e6d37b482a254c2087982a6a42c4ea80_mv2.webp"
+  ]
+ },
+ "pdi-multimodal": {
+  "1": [
+   "/assets/research/pdi-multimodal/HBC_Pic2.webp"
+  ],
+  "2": [
+   "/assets/research/pdi-multimodal/MR_blindspot_Figure11.webp",
+   "/assets/research/pdi-multimodal/HanbeomChang_LiMRSF.webp"
+  ],
+  "3": [
+   "/assets/research/pdi-multimodal/080b1e_13e62c78c29c48e1806da66b15eb7ecb_mv2.webp",
+   "/assets/research/pdi-multimodal/HBC_Pic5.webp"
+  ],
+  "4": [
+   "/assets/research/pdi-multimodal/HBC_Pic6.webp"
+  ],
+  "5": [
+   "/assets/research/pdi-multimodal/ptzcamerasystem.webp",
+   "/assets/research/pdi-multimodal/6dof.webp"
+  ],
+  "6": [
+   "/assets/research/pdi-multimodal/application.webp"
+  ]
+ },
+ "pia-embodied": {
+  "1": [
+   "/assets/research/pia-embodied/evpinn1.webp",
+   "/assets/research/pia-embodied/evpinn2.webp",
+   "/assets/research/pia-embodied/evpinn3.webp"
+  ],
+  "2": [
+   "/assets/research/pia-embodied/1.webp",
+   "/assets/research/pia-embodied/mln2.webp"
+  ],
+  "3": [
+   "/assets/research/pia-embodied/d3m1.webp",
+   "/assets/research/pia-embodied/d3m2.webp",
+   "/assets/research/pia-embodied/d3m3.webp",
+   "/assets/research/pia-embodied/d3m4.webp",
+   "/assets/research/pia-embodied/d3m5.webp"
+  ]
+ },
+ "professor_photo": "/assets/people/Profile_Brad.webp",
+ "contact_image": "/assets/contact/contact_map.webp"
+}

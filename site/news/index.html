@@ -4,7 +4,9 @@ title: News
 eyebrow: MEIC Lab
 permalink: /news/
 ---
-{% for n in site.data.news %}
+{% assign items = site.data.news | where: "Type", "External" %}
+<p class="muted" style="margin:-6px 0 8px">{{ items.size }} entries</p>
+{% for n in items %}
 <article class="news-item">
   {% if n.Cover != "" %}<div class="news-cover"><img src="{{ n.Cover | relative_url }}" alt="{{ n.Summary }}" loading="lazy"></div>{% endif %}
   <div class="news-body">

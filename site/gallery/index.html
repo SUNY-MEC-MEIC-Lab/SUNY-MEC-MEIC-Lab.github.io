@@ -4,15 +4,20 @@ title: Gallery
 eyebrow: MEIC Lab
 permalink: /gallery/
 ---
-<div class="gallery-grid">
-{% for n in site.data.news %}
+{% assign items = site.data.news | where: "Type", "Internal" %}
+<p class="muted" style="margin:-6px 0 22px">연구실 활동 사진</p>
+{% for n in items %}
   {% if n.Images != "" %}
     {% assign imgs = n.Images | split: "|" %}
-    {% for src in imgs %}
-      <a href="{{ src | relative_url }}" target="_blank" rel="noopener">
-        <img src="{{ src | relative_url }}" alt="{{ n.Summary }}" loading="lazy">
-      </a>
-    {% endfor %}
+    <div class="gallery-group">
+      <p class="gallery-caption"><span>{{ n.Date }}</span>{{ n.Summary }}</p>
+      <div class="gallery-grid">
+        {% for src in imgs %}
+        <a href="{{ src | relative_url }}" target="_blank" rel="noopener">
+          <img src="{{ src | relative_url }}" alt="{{ n.Summary }}" loading="lazy">
+        </a>
+        {% endfor %}
+      </div>
+    </div>
   {% endif %}
 {% endfor %}
-</div>
