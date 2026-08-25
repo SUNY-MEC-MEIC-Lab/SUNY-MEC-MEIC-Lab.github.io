@@ -3,6 +3,7 @@ layout: page
 title: Neural Rendering & Spatial AI Group
 eyebrow: Research
 permalink: /research/neural-rendering/
+scene: neural
 ---
 
 ## Contact

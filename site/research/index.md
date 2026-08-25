@@ -3,6 +3,7 @@ layout: page
 title: Research Overview
 eyebrow: Research
 permalink: /research/
+scene: home
 ---
 
 <p class="lead" style="margin-bottom:34px">MEIC (Mechanical Systems with Intelligence and Computer Vision) Lab</p>

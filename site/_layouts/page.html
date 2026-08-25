@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<section class="page-hero">
+<section class="page-hero{% if page.scene %} has-visual{% endif %}">
+  {% if page.scene %}<div class="hero-visual" data-scene="{{ page.scene }}" aria-hidden="true"></div>{% endif %}
   <div class="wrap">
     {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
     <h1>{{ page.title }}</h1>

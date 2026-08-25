@@ -3,6 +3,7 @@ layout: page
 title: PDI & Multimodal AI Group
 eyebrow: Research
 permalink: /research/pdi-multimodal/
+scene: pdi
 ---
 
 Physics-Digital Interaction & Multimoda AI Group

@@ -3,6 +3,7 @@ layout: page
 title: PIA & Embodied AI Group
 eyebrow: Research
 permalink: /research/pia-embodied/
+scene: pia
 ---
 
 Physics-Infromed Actuation & Embodied AI Group
