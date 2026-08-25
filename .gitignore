@@ -12,5 +12,6 @@ assets_original/
 .rubyenv/
 __pycache__/
 
-# 작업용 원본 파일
+# 작업용 원본 파일 (사이트에 게시하는 문서는 예외)
 *.pdf
+!site/assets/docs/*.pdf

@@ -17,7 +17,7 @@ permalink: /project/
     {% assign flag = items | where: "Featured", "Y" %}
     {% for p in flag %}
     <article class="project is-featured">
-      <p class="project-date">{{ p.Date }}<span class="flag-badge">Flagship</span></p>
+      <p class="project-date">{{ p.Date }}</p>
       <p class="project-head">{{ p.Header_Display }}</p>
       {% if p.Title_KR != "" %}<p class="project-title-kr">{{ p.Title_KR }}</p>{% endif %}
       {% if p.Title_EN != "" %}<p class="project-title-en">{{ p.Title_EN }}</p>{% endif %}

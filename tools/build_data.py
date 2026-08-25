@@ -115,9 +115,10 @@ def journals():
             'URL': r.get('URL','').strip(),
             'Thumbnail': local(r.get('이미지','')),
             'Featured': r.get('Featured','').strip(),
+            'Impact': r.get('Impact','').strip(),
         })
     out.sort(key=lambda x: (x['Year'] or '0', x['Title']), reverse=True)
-    write('journals.csv', out, ['Title','Year','Venue','Authors','Status','URL','Thumbnail','Featured'])
+    write('journals.csv', out, ['Title','Year','Venue','Authors','Status','URL','Thumbnail','Featured','Impact'])
 
 # --- Projects ----------------------------------------------------------------
 def projects():
@@ -141,6 +142,9 @@ def stats():
         p = os.path.join(SRC, name)
         return list(csv.DictReader(open(p, encoding='utf-8-sig'))) if os.path.exists(p) else []
     j = [r for r in rows('Journal+Articles.csv') if r.get('Title')]
+    mem = rows('Members.csv')
+    cur = [r for r in mem if r.get('Sectoin', '').strip() not in ('Alumni', '')]
+    alu = [r for r in mem if r.get('Sectoin', '').strip() == 'Alumni']
     c = rows('Conference.csv'); a = rows('Awards.csv')
     pt = rows('Patents.csv');   pr = rows('Projects.csv')
     krw = sum(int(r['Budget_KRW']) for r in pr if r.get('Budget_KRW', '').isdigit())
@@ -151,6 +155,8 @@ def stats():
         'awards': len(a),
         'patents': len(pt),
         'projects': len(pr),
+        'members': len(cur),
+        'alumni': len(alu),
         'funding_krw_bn': round(krw / 1e9, 2),
     }
     with open(os.path.join(DST, 'stats.yml'), 'w', encoding='utf-8') as f:

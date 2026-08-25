@@ -7,28 +7,31 @@ permalink: /publication/journal/
 {% assign featured = site.data.journals | where: "Featured", "Y" %}
 {% if featured.size > 0 %}
 <div class="section-label">Selected Publications</div>
-{% for a in featured %}
-<article class="pub is-featured">
-  <div class="pub-thumb">
-    {% if a.Thumbnail != "" %}<img src="{{ a.Thumbnail | relative_url }}" alt="" loading="lazy">
-    {% else %}{% assign parts = a.Venue | split: "," %}
-      <div class="pub-thumb-ph"><span class="ph-pub">{{ parts.last | strip }}</span><span class="ph-year">{{ a.Year }}</span></div>
-    {% endif %}
-  </div>
-  <div class="pub-body">
-    <p class="pub-title">
-      {% if a.URL != "" %}<a href="{{ a.URL }}" target="_blank" rel="noopener">{{ a.Title }}</a>{% else %}{{ a.Title }}{% endif %}
-    </p>
-    <p class="pub-authors">{{ a.Authors }}</p>
-    <p class="pub-venue">{{ a.Venue }} · {{ a.Year }}</p>
-  </div>
-</article>
-{% endfor %}
-<div class="section-label" style="margin-top:52px">All Publications</div>
+<div class="sel-grid">
+  {% for a in featured %}
+  <article class="sel-card">
+    <div class="sel-thumb">
+      {% if a.Thumbnail != "" %}<img src="{{ a.Thumbnail | relative_url }}" alt="" loading="lazy">
+      {% else %}{% assign parts = a.Venue | split: "," %}
+        <div class="pub-thumb-ph"><span class="ph-pub">{{ parts.last | strip }}</span><span class="ph-year">{{ a.Year }}</span></div>
+      {% endif %}
+    </div>
+    <div class="sel-body">
+      <p class="sel-meta">{{ a.Year }}{% if a.Impact != "" %}<span class="sel-if">{{ a.Impact }}</span>{% endif %}</p>
+      <p class="sel-title">
+        {% if a.URL != "" %}<a href="{{ a.URL }}" target="_blank" rel="noopener">{{ a.Title }}</a>{% else %}{{ a.Title }}{% endif %}
+      </p>
+      <p class="sel-authors">{{ a.Authors }}</p>
+      <p class="sel-venue">{{ a.Venue }}</p>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+<div class="section-label" style="margin-top:56px">All Publications</div>
 {% endif %}
 {% assign years = site.data.journals | map: "Year" | uniq | sort | reverse %}
 {% for y in years %}
-<div class="section-label">{{ y }}</div>
+<div class="year-label">{{ y }}</div>
 {% assign items = site.data.journals | where: "Year", y %}
 {% for a in items %}
 <article class="pub">
@@ -46,7 +49,6 @@ permalink: /publication/journal/
   <div class="pub-body">
     <p class="pub-title">
       {% if a.URL != "" %}<a href="{{ a.URL }}" target="_blank" rel="noopener">{{ a.Title }}</a>{% else %}{{ a.Title }}{% endif %}
-      
     </p>
     <p class="pub-authors">{{ a.Authors }}</p>
     <p class="pub-venue">{{ a.Venue }}{% if a.Status != "Published" %}<span class="status-note">{{ a.Status }}</span>{% endif %}</p>
