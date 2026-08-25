@@ -532,92 +532,56 @@ p{margin:0 0 14px}
 }
 
 /* ==========================================================================
-   홈: 라이트 테마 (V-Lab / KAIST Kim group 스타일)
+   라이트/다크 테마 — 헤더 토글로 전환, html.theme-light 가 라이트 모드
+   변수만 바꾸면 대부분의 컴포넌트가 함께 전환된다.
    ========================================================================== */
-body.theme-light{background:#ffffff;color:#17181c}
-body.theme-light .site-header{background:rgba(255,255,255,.92);border-bottom:1px solid #e7e9ee}
-body.theme-light .brand-mark{color:#111318}
-body.theme-light .brand-sub{color:#8a8f9c}
-body.theme-light .nav-item > a{color:#5a6070}
-body.theme-light .nav-item > a:hover{color:#111318}
-body.theme-light .nav-sub{background:#ffffff;border-color:#e7e9ee;box-shadow:0 14px 40px rgba(20,30,60,.1)}
-body.theme-light .nav-sub a{color:#5a6070}
-body.theme-light .nav-sub a:hover{background:rgba(90,162,255,.09);color:#111318}
-body.theme-light .nav-burger span{background:#23252c}
-body.theme-light .site-nav{background:#fff}
-body.theme-light .stats-band{background:#f6f8fb;border-color:#e7e9ee;border-top:1px solid #e7e9ee;margin-top:38px}
-body.theme-light .stat span{color:#7a8090}
-body.theme-light .muted{color:#6a7080}
+html.theme-light{
+  --bg:#ffffff;
+  --surface:#f6f8fb;
+  --surface-2:#eceff4;
+  --line:#e3e6ec;
+  --text:#191b20;
+  --muted:#68717f;
+  --accent:#2564c9;
+  --accent-dim:#5aa2ff;
+}
+html.theme-light .site-header{background:rgba(255,255,255,.92)}
+html.theme-light .pub-authors,
+html.theme-light .sel-authors{color:#555c68}
+html.theme-light .contact-map iframe{filter:none}
+html.theme-light .cta{color:#fff}
 
-/* --- 홈 캐러셀 --- */
-.hc{
-  position:relative;border-radius:14px;overflow:hidden;background:#0d0f14;
-  margin-top:28px;box-shadow:0 24px 70px rgba(16,32,64,.14);
-}
-.hc-track{position:relative;aspect-ratio:16/7.2}
-.hc-slide{position:absolute;inset:0;margin:0;opacity:0;transition:opacity .9s ease;pointer-events:none}
-.hc-slide.is-on{opacity:1;pointer-events:auto}
-.hc-slide img{width:100%;height:100%;object-fit:cover;display:block}
-.hc-slide.fig img{object-fit:contain;background:#fff;padding:26px 26px 64px}
-.hc-cap{
-  position:absolute;left:0;right:0;bottom:0;padding:54px 32px 20px;color:#fff;
-  background:linear-gradient(180deg,transparent,rgba(0,0,0,.66));
-}
-.hc-cap b{font-size:1.08rem;font-weight:600;letter-spacing:-.01em}
-.hc-cap span{display:block;font-size:.84rem;opacity:.85;margin-top:3px}
-.hc-btn{
-  position:absolute;top:50%;transform:translateY(-50%);z-index:3;
-  width:42px;height:42px;border-radius:50%;cursor:pointer;border:0;
-  background:rgba(255,255,255,.85);color:#23252c;font-size:1.5rem;line-height:1;
-  display:grid;place-items:center;opacity:0;transition:opacity .2s,background .2s;
-  box-shadow:0 4px 16px rgba(0,0,0,.18);padding:0 0 3px;
-}
-.hc:hover .hc-btn{opacity:1}
-.hc-btn:hover{background:#fff}
-.hc-btn.prev{left:16px}
-.hc-btn.next{right:16px}
-.hc-dots{display:flex;justify-content:center;gap:9px;margin:16px 0 0}
-.hc-dot{
-  width:9px;height:9px;border-radius:50%;border:0;cursor:pointer;
-  background:#ced3dc;padding:0;transition:background .2s,transform .2s;
-}
-.hc-dot.is-on{background:var(--accent);transform:scale(1.15)}
-@media (max-width:820px){
-  .hc-track{aspect-ratio:4/3}
-  .hc-slide.fig img{padding:12px 12px 56px}
-  .hc-cap{padding:40px 18px 14px}
-  .hc-cap b{font-size:.95rem}
-}
+/* 3D 씬이 있는 히어로는 라이트 모드에서도 다크 유지 (씬이 다크 전용) */
+html.theme-light .home-hero,
+html.theme-light .page-hero.has-visual{background-color:#04060a;color:#eaeaee}
+html.theme-light .home-hero .lead,
+html.theme-light .page-hero.has-visual .lead,
+html.theme-light .page-hero.has-visual .banner-sub{color:#9ba3b2}
+html.theme-light .home-hero .eyebrow,
+html.theme-light .page-hero.has-visual .eyebrow{color:#5aa2ff}
 
-/* --- 홈 소개 문단 --- */
-.home-intro{margin-top:34px}
-.home-intro p{
-  max-width:900px;font-size:1.02rem;line-height:1.8;color:#3c414d;margin:0;
+/* --- 테마 토글 버튼 --- */
+.header-actions{display:flex;align-items:center;gap:10px}
+.theme-toggle{
+  width:36px;height:36px;border-radius:50%;cursor:pointer;
+  border:1px solid var(--line);background:transparent;color:var(--muted);
+  display:grid;place-items:center;padding:0;
+  transition:color .2s,border-color .2s,transform .3s;
 }
-.home-intro a{color:var(--accent-dim);font-weight:600}
-.home-intro a:hover{text-decoration:underline}
+.theme-toggle:hover{color:var(--accent);border-color:var(--accent-dim);transform:rotate(18deg)}
+.theme-toggle svg{width:17px;height:17px;display:block}
+.theme-toggle .icon-sun{display:none}
+html.theme-light .theme-toggle .icon-sun{display:block}
+html.theme-light .theme-toggle .icon-moon{display:none}
 
-/* --- Highlights / Group News 2단 --- */
-.home-cols{display:grid;grid-template-columns:1.55fr 1fr;gap:64px;margin:40px auto 20px}
-.home-h2{font-size:1.65rem;font-weight:700;letter-spacing:-.02em;margin:0 0 6px;color:#17181c}
-.hl-item{display:flex;gap:20px;padding:22px 0;border-bottom:1px solid #eceef2}
-.hl-cover{flex:0 0 190px;aspect-ratio:4/3;overflow:hidden;border-radius:10px;background:#f2f4f8}
-.hl-cover img{width:100%;height:100%;object-fit:cover;transition:transform .3s}
-.hl-item:hover .hl-cover img{transform:scale(1.04)}
-.hl-body{flex:1;min-width:0}
-.hl-title{font-size:1.05rem;font-weight:600;margin:0 0 6px;color:#1c50a8}
-.hl-text{color:#5a6070;font-size:.9rem;line-height:1.65;margin:0 0 6px}
-.hl-date{color:#8a8f9c;font-size:.8rem;margin:0}
-.gn-item{padding:13px 0;border-bottom:1px solid #eceef2}
-.gn-title{color:#1c50a8;font-size:.92rem;font-weight:500;line-height:1.5;margin:0 0 3px}
-.gn-item:hover .gn-title{text-decoration:underline}
-.gn-date{color:#8a8f9c;font-size:.78rem;margin:0}
-.more-link{display:inline-block;margin-top:16px;color:var(--accent-dim);font-weight:600;font-size:.92rem}
-.more-link:hover{text-decoration:underline}
-@media (max-width:900px){
-  .home-cols{grid-template-columns:1fr;gap:44px}
-  .hl-cover{flex:0 0 130px}
-}
+/* --- 홈 대표기술 카드 (이미지) --- */
+.tech-card{display:block}
+.tech-thumb{aspect-ratio:16/8;overflow:hidden;background:var(--surface-2);border-bottom:1px solid var(--line)}
+.tech-thumb img{width:100%;height:100%;object-fit:cover;transition:transform .35s}
+.tech-card:hover .tech-thumb img{transform:scale(1.045)}
+.tech-body{padding:18px 22px 20px}
+.tech-body h3{margin:0 0 8px}
+.tech-body p{margin:0}
 
 /* 씬 단계 캡션 (우하단 pill) */
 .hero-caption{

@@ -6,3 +6,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<script>
+  /* 저장된 테마를 첫 페인트 전에 적용 (깜빡임 방지) */
+  (function () {
+    try {
+      if (localStorage.getItem('meic-theme') === 'light') {
+        document.documentElement.classList.add('theme-light');
+      }
+    } catch (e) {}
+  })();
+</script>

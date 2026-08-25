@@ -1,48 +1,15 @@
 ---
 layout: default
 title: Home
-body_class: theme-light
+scene: home
 ---
-<section class="wrap">
-  <div class="hc" id="hc">
-    <div class="hc-track">
-      <figure class="hc-slide is-on">
-        <img src="{{ '/assets/news/20260803_1.webp' | relative_url }}" alt="MEIC Lab at KCCV 2026">
-        <figcaption class="hc-cap"><b>MEIC Lab at KCCV 2026</b>
-          <span>Korean Conference on Computer Vision · BEXCO, Busan</span></figcaption>
-      </figure>
-      <figure class="hc-slide fig">
-        <img src="{{ '/assets/research/neural-rendering/microsplatting2.webp' | relative_url }}" alt="Micro-Splatting" loading="lazy">
-        <figcaption class="hc-cap"><b>Micro-Splatting</b>
-          <span>Refined optimization in 3D Gaussian Splatting for high-precision inspection</span></figcaption>
-      </figure>
-      <figure class="hc-slide fig">
-        <img src="{{ '/assets/research/pdi-multimodal/ptzcamerasystem.webp' | relative_url }}" alt="PTZ remote visual sensing" loading="lazy">
-        <figcaption class="hc-cap"><b>Remote Visual Sensing</b>
-          <span>ROI-driven PTZ &amp; 6-DoF autonomous monitoring systems</span></figcaption>
-      </figure>
-      <figure class="hc-slide fig">
-        <img src="{{ '/assets/research/pia-embodied/evpinn1.webp' | relative_url }}" alt="EV-PINN" loading="lazy">
-        <figcaption class="hc-cap"><b>EV-PINN</b>
-          <span>Physics-informed EV battery surrogates trained on real vehicle log data</span></figcaption>
-      </figure>
-      <figure class="hc-slide">
-        <img src="{{ '/assets/news/20260625_1.webp' | relative_url }}" alt="PHM Korea 2026" loading="lazy">
-        <figcaption class="hc-cap"><b>PHM Korea 2026</b>
-          <span>Physical AI and PHM · MEIC researchers in session</span></figcaption>
-      </figure>
-    </div>
-    <button class="hc-btn prev" aria-label="Previous slide">‹</button>
-    <button class="hc-btn next" aria-label="Next slide">›</button>
+<section class="home-hero">
+  <div class="hero-visual" data-scene="home" aria-hidden="true"></div>
+  <div class="wrap">
+    <p class="eyebrow">{{ site.institution }}</p>
+    <h1>Mechanical Systems with<br>Intelligence &amp; Computer Vision</h1>
+    <p class="lead">Neural rendering based visual intelligence for engineering, industry, and public applications.</p>
   </div>
-  <div class="hc-dots" id="hc-dots" role="tablist"></div>
-</section>
-
-<section class="wrap home-intro">
-  <p><strong>MEIC Lab</strong> (Mechanical systems with Intelligence &amp; Computer Vision) at
-    {{ site.institution }} develops neural rendering–based visual intelligence — hyper-realistic
-    digital twins, multimodal remote sensing, and physics-informed AI — for engineering, industry,
-    and public applications. <a href="{{ '/research/' | relative_url }}">Learn more →</a></p>
 </section>
 
 <section class="stats-band">
@@ -56,63 +23,63 @@ body_class: theme-light
   </div>
 </section>
 
-<section class="wrap home-cols">
-  <div>
-    <h2 class="home-h2">Highlights</h2>
-    {% assign ext = site.data.news | where: "Type", "External" %}
-    {% for n in ext limit: 4 %}
-    <a class="hl-item" href="{{ '/news/' | relative_url }}">
-      {% if n.Cover != "" %}<div class="hl-cover"><img src="{{ n.Cover | relative_url }}" alt="{{ n.Summary }}" loading="lazy"></div>{% endif %}
-      <div class="hl-body">
-        <p class="hl-title">{{ n.Summary }}</p>
-        <p class="hl-text">{{ n.Content | strip_html | truncate: 150 }}</p>
-        <p class="hl-date">{{ n.Date }}</p>
-      </div>
-    </a>
-    {% endfor %}
-    <a class="more-link" href="{{ '/news/' | relative_url }}">All news →</a>
-  </div>
-  <aside>
-    <h2 class="home-h2">Group News</h2>
-    {% for n in site.data.news limit: 9 %}
-    <a class="gn-item" style="display:block" href="{{ '/news/' | relative_url }}">
-      <p class="gn-title">{{ n.Summary }}</p>
-      <p class="gn-date">{{ n.Date }}</p>
-    </a>
-    {% endfor %}
-  </aside>
-</section>
+<section class="page-body">
+  <div class="wrap">
+    <p>MEIC Lab works for establishing academic foundation to apply neural rendering based visual
+       intelligence to engineering, industry, and public fields including reliability prediction of
+       systems and structures, maintenance, remote sensing, and sustainable city applications.</p>
 
-<script>
-(function () {
-  var root = document.getElementById('hc');
-  var slides = Array.prototype.slice.call(root.querySelectorAll('.hc-slide'));
-  var dotsBox = document.getElementById('hc-dots');
-  var i = 0, timer = null;
-  var dots = slides.map(function (_, k) {
-    var b = document.createElement('button');
-    b.className = 'hc-dot' + (k === 0 ? ' is-on' : '');
-    b.setAttribute('aria-label', 'Slide ' + (k + 1));
-    b.addEventListener('click', function () { go(k, true); });
-    dotsBox.appendChild(b);
-    return b;
-  });
-  function go(k, user) {
-    i = (k + slides.length) % slides.length;
-    slides.forEach(function (s, j) { s.classList.toggle('is-on', j === i); });
-    dots.forEach(function (d, j) { d.classList.toggle('is-on', j === i); });
-    if (user) restart();
-  }
-  function restart() {
-    clearInterval(timer);
-    if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
-      timer = setInterval(function () { go(i + 1); }, 5500);
-    }
-  }
-  root.querySelector('.hc-btn.prev').addEventListener('click', function () { go(i - 1, true); });
-  root.querySelector('.hc-btn.next').addEventListener('click', function () { go(i + 1, true); });
-  root.addEventListener('mouseenter', function () { clearInterval(timer); });
-  root.addEventListener('mouseleave', restart);
-  restart();
-})();
-</script>
+    <div class="section-label">Representative Technologies</div>
+    <div class="grid grid-2x2">
+      <a class="card tech-card" href="{{ '/research/neural-rendering/' | relative_url }}">
+        <div class="tech-thumb"><img src="{{ '/assets/research/neural-rendering/microsplatting2.webp' | relative_url }}" alt="Micro-Splatting 3D Gaussian Splatting" loading="lazy"></div>
+        <div class="tech-body">
+          <h3>Hyper-realistic Digital Twin</h3>
+          <p class="muted">Micro-Splatting · LiDAR-3DGS — visual intelligence based digital twin modeling and rendering</p>
+        </div>
+      </a>
+      <a class="card tech-card" href="{{ '/research/pdi-multimodal/' | relative_url }}">
+        <div class="tech-thumb"><img src="{{ '/assets/research/pdi-multimodal/HBC_Pic6.webp' | relative_url }}" alt="XR remote collaboration" loading="lazy"></div>
+        <div class="tech-body">
+          <h3>Remote Sensing &amp; Teleoperation</h3>
+          <p class="muted">DCRM metaverse · MR/VR — human-machine collaboration via metaverse and teleoperation</p>
+        </div>
+      </a>
+      <a class="card tech-card" href="{{ '/research/pia-embodied/' | relative_url }}">
+        <div class="tech-thumb"><img src="{{ '/assets/research/pia-embodied/evpinn1.webp' | relative_url }}" alt="EV-PINN architecture" loading="lazy"></div>
+        <div class="tech-body">
+          <h3>Virtual Sensing SDK</h3>
+          <p class="muted">EV-PINN · PINO — virtual sensing based SDK system for future vehicles</p>
+        </div>
+      </a>
+      <a class="card tech-card" href="{{ '/research/pdi-multimodal/' | relative_url }}">
+        <div class="tech-thumb"><img src="{{ '/assets/research/pdi-multimodal/HBC_Pic2.webp' | relative_url }}" alt="LiDAR-RGB sensing" loading="lazy"></div>
+        <div class="tech-body">
+          <h3>3D Recognition</h3>
+          <p class="muted">LiDAR-RGB fusion · SLAM — homogeneous / heterogeneous vision sensing and 3D recognition</p>
+        </div>
+      </a>
+    </div>
+
+    <p class="muted" style="margin-top:34px">
+      MEIC 연구실은 신경 렌더링 기반의 시각 지능 기술을 공학, 산업, 공공 분야에 적용하기 위한 학문적 기반을
+      구축하는 데 주력하고 있습니다. 주요 적용 분야에는 시스템 및 구조물의 신뢰성 예측, 유지보수, 원격 센싱,
+      지속가능한 도시 구축 등이 포함됩니다.
+    </p>
+
+    <div class="section-label">Latest News</div>
+    {% assign ext = site.data.news | where: "Type", "External" %}
+    {% assign recent = ext | slice: 0, 5 %}
+    {% for n in recent %}
+    <div class="news-item">
+      {% if n.Cover != "" %}<div class="news-cover"><img src="{{ n.Cover | relative_url }}" alt="{{ n.Summary }}" loading="lazy"></div>{% endif %}
+      <div class="news-body">
+        <p class="news-date">{{ n.Date }}</p>
+        <p class="news-title">{{ n.Summary }}</p>
+        <p class="news-text">{{ n.Content | strip_html | truncate: 190 }}</p>
+      </div>
+    </div>
+    {% endfor %}
+    <p style="margin-top:26px"><a href="{{ '/news/' | relative_url }}" style="color:var(--accent)">All news →</a></p>
+  </div>
+</section>
