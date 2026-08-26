@@ -604,5 +604,57 @@ html.theme-light .theme-toggle .icon-moon{display:none}
 .hero-caption:empty{opacity:0}
 .hero-caption.is-swap{opacity:0}
 @media (max-width:820px){
-  .hero-caption{right:12px;bottom:10px;font-size:.6rem;padding:5px 11px}
+  .hero-caption{right:12px;bottom:10px;font-size:.6rem;padding:5px 11px;max-width:calc(100% - 24px)}
+}
+
+/* ==========================================================================
+   모바일 최적화 — 전부 미디어 쿼리 내부라 데스크탑 레이아웃에는 영향 없음
+   ========================================================================== */
+
+/* 터치 기기: hover 로만 나타나던 컨트롤을 항상 표시 */
+@media (hover:none){
+  .news-media .news-arrow{opacity:.9}
+  .news-arrow:disabled{opacity:0 !important}
+}
+
+/* 태블릿 이하: 뉴스 캐러셀이 세로 배치될 때 고정 높이(300px) 제거 */
+@media (max-width:900px){
+  .news-media{flex:none;width:100%;max-width:460px}
+  .news-cover{max-width:460px}
+}
+
+/* 폰 화면 */
+@media (max-width:640px){
+  body{overflow-wrap:anywhere}                 /* 긴 이메일·URL 넘침 방지 */
+  .wrap{padding:0 18px}
+
+  /* 최소 칼럼 폭이 화면보다 커서 생기던 가로 스크롤 제거 */
+  .grid-2,.grid-3,.sel-grid,.video-grid,.fig-grid{grid-template-columns:1fr}
+  .grid-4{grid-template-columns:repeat(2,1fr);gap:14px}
+  .person-body{padding:12px 12px 16px}
+  .person-tags li{font-size:.74rem}
+
+  /* 히어로·본문 스케일 */
+  .home-hero{min-height:54vh}
+  .home-hero h1{font-size:clamp(1.65rem,7.6vw,2.2rem)}
+  .page-hero{padding:52px 0 28px}
+  .page-body{padding:36px 0 68px}
+  h2{font-size:1.35rem;margin:40px 0 14px}
+  .section-label{margin:44px 0 18px}
+  .stats-band{padding:20px 0}
+  .stat span{font-size:.64rem}
+
+  /* 소개 배너: 모바일에서 과하게 높지 않게 */
+  .home-hero.is-banner{min-height:min(76vh,720px);padding-top:72px}
+  .page-hero.has-visual.is-banner{min-height:430px;padding:70px 0 92px}
+  .banner-ctas .cta{padding:11px 20px;font-size:.85rem}
+
+  /* 목록·카드류 여백 */
+  .pub{padding:18px 0;gap:14px}
+  .pub-title{font-size:1rem}
+  .news-item{padding:20px 0;gap:16px}
+  .project{padding:24px 0}
+  .company-hero{padding:70px 0 54px}
+  .contact-map iframe{height:280px}
+  .footer-inner{flex-direction:column;gap:18px}
 }
