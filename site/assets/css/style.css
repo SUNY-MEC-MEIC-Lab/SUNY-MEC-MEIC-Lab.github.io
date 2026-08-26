@@ -113,7 +113,7 @@ p{margin:0 0 14px}
 /* ---------- publications ---------- */
 .pub{display:flex;gap:20px;padding:22px 0;border-bottom:1px solid var(--line)}
 .pub-thumb{flex:0 0 120px}
-.pub-thumb img{border:1px solid var(--line);border-radius:6px}
+.pub-thumb img{border:1px solid var(--line);border-radius:6px;background:#fff}
 .pub-body{flex:1;min-width:0}
 .pub-title{font-weight:600;margin:0 0 8px;line-height:1.4;font-size:1.06rem;color:var(--text)}
 .pub-title a:hover{color:var(--accent)}
@@ -379,7 +379,7 @@ p{margin:0 0 14px}
 }
 .sel-card:hover{border-color:var(--accent-dim);transform:translateY(-2px)}
 .sel-thumb{aspect-ratio:4/3;overflow:hidden;background:var(--surface-2);border-bottom:1px solid var(--line)}
-.sel-thumb img{width:100%;height:100%;object-fit:cover;object-position:top}
+.sel-thumb img{width:100%;height:100%;object-fit:cover;object-position:top;background:#fff}
 .sel-thumb .pub-thumb-ph{aspect-ratio:auto;height:100%;border:0;border-radius:0}
 .sel-body{padding:16px 18px 20px;flex:1;display:flex;flex-direction:column}
 .sel-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 8px}
@@ -586,8 +586,8 @@ html.theme-light .theme-toggle .icon-moon{display:none}
 
 /* --- 홈 대표기술 카드 (이미지) --- */
 .tech-card{display:block}
-.tech-thumb{aspect-ratio:16/8;overflow:hidden;background:var(--surface-2);border-bottom:1px solid var(--line)}
-.tech-thumb img{width:100%;height:100%;object-fit:cover;transition:transform .35s}
+.tech-thumb{aspect-ratio:16/8;overflow:hidden;background:#fff;border-bottom:1px solid var(--line)}
+.tech-thumb img{width:100%;height:100%;object-fit:cover;background:#fff;transition:transform .35s}
 .tech-card:hover .tech-thumb img{transform:scale(1.045)}
 .tech-body{padding:18px 22px 20px}
 .tech-body h3{margin:0 0 8px}
