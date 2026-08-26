@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PIA & Embodied AI Group
+title: Physics-Informed Actuation & Embodied AI Group
 eyebrow: Research
 permalink: /research/pia-embodied/
 scene: pia
@@ -14,10 +14,6 @@ chips:
   - Optimal Control
   - Embodied AI
 ---
-
-Physics-Infromed Actuation & Embodied AI Group
-
-Physics-Informed Actuation & Embodied AI Group
 
 ## Contact
 

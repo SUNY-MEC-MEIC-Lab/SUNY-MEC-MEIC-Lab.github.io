@@ -218,7 +218,8 @@ p{margin:0 0 14px}
 /* ---------- figures (research pages) ---------- */
 .fig-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin:20px 0 30px}
 .fig-grid.fig-single{grid-template-columns:minmax(0,960px)}
-.fig-grid img{width:100%;border:1px solid var(--line);border-radius:8px;background:var(--surface-2)}
+/* 투명 배경 피규어가 다크모드에서 안 보이지 않도록 항상 흰 배경 */
+.fig-grid img{width:100%;border:1px solid var(--line);border-radius:8px;background:#fff}
 .fig-grid a:hover img{border-color:var(--accent-dim)}
 
 /* ---------- professor ---------- */

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PDI & Multimodal AI Group
+title: Physics-Digital Interaction & Multimodal AI Group
 eyebrow: Research
 permalink: /research/pdi-multimodal/
 scene: pdi
@@ -15,15 +15,11 @@ chips:
   - PTZ · 6DoF Sensing
 ---
 
-Physics-Digital Interaction & Multimoda AI Group
-
-Physics-Digital Interaction & Multimodal AI Group
-
 ## Contact
 
-jonathan.boyack@stonybrook.edu  
 alfredojavier.valenzuelabustos@stonybrook.edu  
 semin.bae@stonybrook.edu  
+sungwook.choi@stonybrook.edu  
 
 We develop multimodal fusion pipelines integrating AR, LiDAR, and inertial sensing data, alongside a Distributed Collaborative Remote Diagnostics Metaverse (DCRM) platform. These technologies enable real-time alignment of large-scale physical site dynamics with virtual environments, supporting immersive remote monitoring and collaborative decision-making.
 

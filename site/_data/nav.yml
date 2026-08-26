@@ -3,8 +3,8 @@
   children:
     - { title: "Overview",                          url: "/research/" }
     - { title: "Neural Rendering & Spatial AI Group", url: "/research/neural-rendering/" }
-    - { title: "PDI & Multimodal AI Group",         url: "/research/pdi-multimodal/" }
-    - { title: "PIA & Embodied AI Group",           url: "/research/pia-embodied/" }
+    - { title: "Physics-Digital Interaction & Multimodal AI Group", url: "/research/pdi-multimodal/" }
+    - { title: "Physics-Informed Actuation & Embodied AI Group",    url: "/research/pia-embodied/" }
 - title: PEOPLE
   url: /people/members/
   children:
