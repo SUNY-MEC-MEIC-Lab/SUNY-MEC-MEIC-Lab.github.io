@@ -637,6 +637,7 @@ html.theme-light .theme-toggle .icon-moon{display:none}
   /* 히어로·본문 스케일 */
   .home-hero{min-height:54vh}
   .home-hero h1{font-size:clamp(1.65rem,7.6vw,2.2rem)}
+  .home-hero h1 br{display:none}   /* 수동 줄바꿈이 좁은 화면에서 어색한 고아 단어를 만들지 않게 */
   .page-hero{padding:52px 0 28px}
   .page-body{padding:36px 0 68px}
   h2{font-size:1.35rem;margin:40px 0 14px}
