@@ -1,9 +1,27 @@
 ---
 layout: default
 ---
-<section class="page-hero{% if page.scene %} has-visual is-banner{% endif %}">
-  {% if page.scene %}<div class="hero-visual" data-scene="{{ page.scene }}" aria-hidden="true"></div>{% endif %}
-  <div class="wrap{% if page.scene %} banner-wrap{% endif %}">
+{% assign has_visual = false %}
+{% if page.scene or page.hero_video %}{% assign has_visual = true %}{% endif %}
+<section class="page-hero{% if has_visual %} has-visual is-banner{% endif %}">
+  {% if page.hero_video %}
+  <div class="hero-media" aria-hidden="true">
+    <video id="hero-video" autoplay muted loop playsinline preload="auto"
+           {% if page.hero_poster %}poster="{{ page.hero_poster | relative_url }}"{% endif %}>
+      <source src="{{ page.hero_video | relative_url }}" type="video/mp4">
+    </video>
+  </div>
+  <script>
+    (function () {
+      var v = document.getElementById('hero-video');
+      if (v && matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        v.removeAttribute('autoplay');
+        v.pause();
+      }
+    })();
+  </script>
+  {% elsif page.scene %}<div class="hero-visual" data-scene="{{ page.scene }}" aria-hidden="true"></div>{% endif %}
+  <div class="wrap{% if has_visual %} banner-wrap{% endif %}">
     {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
     <h1>{% if page.banner_title %}{{ page.banner_title }}{% else %}{{ page.title }}{% endif %}</h1>
     {% if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}

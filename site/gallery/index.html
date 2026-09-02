@@ -39,7 +39,7 @@ document.querySelectorAll('.gal').forEach(function (gal) {
   gal.querySelectorAll('.gal-btn').forEach(function (btn) {
     btn.addEventListener('click', function () {
       var slide = track.querySelector('.gal-slide');
-      var step = slide ? slide.getBoundingClientRect().width + 16 : track.clientWidth;
+      var step = slide ? slide.getBoundingClientRect().width + 22 : track.clientWidth;
       track.scrollBy({ left: step * Number(btn.dataset.dir), behavior: 'smooth' });
     });
   });

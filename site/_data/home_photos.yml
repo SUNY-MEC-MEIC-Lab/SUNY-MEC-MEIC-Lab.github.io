@@ -1,0 +1,12 @@
+# 홈 히어로 배경으로 쓰는 연구실 단체사진 (순서대로 크로스페이드)
+# src 는 site/assets/news 의 기존 갤러리 사진을 그대로 재사용한다.
+- src: /assets/news/20250801_1.webp
+  caption: MEIC Lab · Aug 2025
+- src: /assets/news/20250821_1.webp
+  caption: MEIC Olympic Games · Aug 2025
+- src: /assets/news/20251212_1.webp
+  caption: Graduation · Dec 2025
+- src: /assets/news/20260427_1.webp
+  caption: Lab Gathering · Apr 2026
+- src: /assets/news/20250404_1.webp
+  caption: MEIC Olympic Games · Apr 2025

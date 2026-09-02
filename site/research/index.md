@@ -3,7 +3,8 @@ layout: page
 title: Research Overview
 eyebrow: Research
 permalink: /research/
-scene: home
+hero_video: /assets/video/home-hero.mp4
+hero_poster: /assets/video/home-hero-poster.webp
 banner_sub: >-
   An AI-embodied engineering intelligence framework — spatial, multimodal, and
   physics-informed convergence technologies that close the Sim2Real gap.

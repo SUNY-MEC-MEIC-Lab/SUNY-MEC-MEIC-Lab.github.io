@@ -2,28 +2,74 @@
 layout: default
 title: Home
 ---
-<section class="home-hero">
-  <div class="hero-media" aria-hidden="true">
-    <video id="hero-video" autoplay muted loop playsinline preload="auto"
-           poster="{{ '/assets/video/home-hero-poster.webp' | relative_url }}">
-      <source src="{{ '/assets/video/home-hero.mp4' | relative_url }}" type="video/mp4">
-    </video>
+<section class="home-hero home-hero--photo">
+  <div class="hero-media hero-photos" id="hero-photos" aria-hidden="true">
+    {% assign hero_shots = site.data.home_photos %}
+    {% for s in hero_shots %}
+    {% comment %}첫 장만 즉시 로드하고 나머지는 onload 이후에 채운다 — 초기 로딩 부담 최소화{% endcomment %}
+    <img class="hero-photo{% if forloop.first %} is-on{% endif %}" alt=""
+         {% if forloop.first %}src="{{ s.src | relative_url }}" fetchpriority="high"
+         {% else %}data-src="{{ s.src | relative_url }}"{% endif %}
+         data-caption="{{ s.caption }}">
+    {% endfor %}
   </div>
   <div class="wrap">
     <p class="eyebrow">{{ site.institution }}</p>
     <h1>Mechanical Systems with <br>Intelligence &amp; Computer Vision</h1>
     <p class="lead">Neural rendering based visual intelligence for engineering, industry, and public applications.</p>
   </div>
-  <div class="hero-caption">Digital Twin · Neural Rendering · LiDAR SLAM · Physics-Informed AI</div>
+  <div class="hero-caption" id="hero-caption">{{ hero_shots[0].caption }}</div>
+  <div class="hero-dots" id="hero-dots" aria-label="단체사진 전환">
+    {% for s in hero_shots %}
+    <button class="hero-dot{% if forloop.first %} is-on{% endif %}" type="button"
+            aria-label="{{ s.caption }}"></button>
+    {% endfor %}
+  </div>
 </section>
 
 <script>
+  /* 홈 히어로: 단체사진 크로스페이드 슬라이드쇼 */
   (function () {
-    var v = document.getElementById('hero-video');
-    if (v && matchMedia('(prefers-reduced-motion: reduce)').matches) {
-      v.removeAttribute('autoplay');
-      v.pause();
+    var box = document.getElementById('hero-photos');
+    if (!box) return;
+    var shots = [].slice.call(box.querySelectorAll('.hero-photo'));
+    var dots = [].slice.call(document.querySelectorAll('#hero-dots .hero-dot'));
+    var cap = document.getElementById('hero-caption');
+    if (shots.length < 2) return;
+
+    var i = 0, timer = null;
+    var still = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    function fill() {
+      shots.forEach(function (el) {
+        if (el.dataset.src) { el.src = el.dataset.src; delete el.dataset.src; }
+      });
     }
+    if (document.readyState === 'complete') fill();
+    else window.addEventListener('load', fill);
+
+    function show(n) {
+      i = (n + shots.length) % shots.length;
+      shots.forEach(function (el, k) { el.classList.toggle('is-on', k === i); });
+      dots.forEach(function (el, k) { el.classList.toggle('is-on', k === i); });
+      if (cap) {
+        cap.classList.add('is-swap');
+        setTimeout(function () {
+          cap.textContent = shots[i].dataset.caption || '';
+          cap.classList.remove('is-swap');
+        }, 240);
+      }
+    }
+    function start() { if (!still) timer = setInterval(function () { show(i + 1); }, 6000); }
+    function reset() { clearInterval(timer); start(); }
+
+    dots.forEach(function (d, k) {
+      d.addEventListener('click', function () { show(k); reset(); });
+    });
+    document.addEventListener('visibilitychange', function () {
+      if (document.hidden) clearInterval(timer); else reset();
+    });
+    start();
   })();
 </script>
 
