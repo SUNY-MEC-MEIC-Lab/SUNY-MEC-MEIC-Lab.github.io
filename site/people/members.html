@@ -24,7 +24,15 @@ permalink: /people/members/
         <p class="person-name">{{ p.Name }}</p>
         {% if p.Duration != "" %}<p class="person-line">{{ p.Duration }}</p>{% endif %}
         {% if sec == "Alumni" and p.Notes != "" %}<p class="person-role">{{ p.Notes }}</p>{% endif %}
+        {% if p.Education != "" %}
+        <p class="person-field-label">Education</p>
+        <ul class="person-tags person-edu">
+          {% assign edus = p.Education | split: "|" %}
+          {% for e in edus %}<li>{{ e | strip }}</li>{% endfor %}
+        </ul>
+        {% endif %}
         {% if p.Interest != "" %}
+        <p class="person-field-label">Research Interest</p>
         <ul class="person-tags">
           {% assign tags = p.Interest | split: "|" %}
           {% for t in tags %}<li>{{ t | strip }}</li>{% endfor %}
