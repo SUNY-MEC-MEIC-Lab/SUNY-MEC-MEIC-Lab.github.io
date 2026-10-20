@@ -36,6 +36,8 @@ def about_text(n):
                   f"he has published {n['j_pub']} journal papers "
                   f"({n['j_rev']} more under review) and {n['conf']} conference papers",
                   body)
+    # (3) 직위 — 08/2026 부교수(정년보장) 승진
+    body = body.replace('is an assistant professor', 'is an associate professor')
     body = re.sub(r'currently with \d+ graduate students', f"currently with {n['grad']} graduate students", body)
     return body
 
@@ -47,13 +49,15 @@ EDU = [
     ('08/2012', 'B.Sc., Mechanical Engineering', 'University of Mississippi, University, MS, USA', ''),
 ]
 EMP = [
-    ('08/2020 – Present', 'Assistant Professor, Department of Mechanical Engineering',
+    ('08/2026 – Present', 'Associate Professor (Tenured), Department of Mechanical Engineering',
      'The State University of New York, SUNY Korea, Incheon, South Korea'),
-    ('2026 – Present', 'Secondary Appointment, Department of Computer Science',
+    ('03/2026 – Present', 'Secondary Appointment (Courtesy), Department of Computer Science',
      'The State University of New York, SUNY Korea, Incheon, South Korea'),
     ('09/2021 – Present', 'Affiliated Faculty (Courtesy), Department of Mechanical Engineering',
      'The State University of New York, Stony Brook University, Stony Brook, NY, USA'),
     ('12/2025 – Present', 'Founder &amp; CEO', 'MEIC AI Co., Ltd., Incheon, South Korea'),
+    ('08/2020 – 07/2026', 'Assistant Professor, Department of Mechanical Engineering',
+     'The State University of New York, SUNY Korea, Incheon, South Korea'),
     ('08/2014 – 05/2020', 'Graduate Research Assistant, School of Mechanical Engineering',
      'Purdue University, West Lafayette, IN, USA'),
     ('08/2012 – 05/2014', 'Graduate Research and Teaching Assistant, Department of Mechanical Engineering',
@@ -100,7 +104,7 @@ permalink: /people/professor/
     <div class="prof-info">
       <p class="eyebrow">People</p>
       <h1>Jongseong Brad Choi, <span>Ph.D.</span></h1>
-      <p class="prof-title">Assistant Professor</p>
+      <p class="prof-title">Associate Professor</p>
       <p class="prof-affil">
         Department of Mechanical Engineering<br>
         The State University of New York, SUNY Korea<br>
