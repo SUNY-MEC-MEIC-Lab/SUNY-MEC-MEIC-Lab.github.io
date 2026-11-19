@@ -160,6 +160,14 @@ p{margin:0 0 14px}
 .news-date{color:var(--accent);font-size:.88rem;margin:0 0 8px;font-weight:600}
 .news-title{font-size:1.34rem;font-weight:600;margin:0 0 12px;letter-spacing:-.015em;line-height:1.35}
 .news-text{color:var(--muted);font-size:1rem;line-height:1.7;margin:0}
+/* 뉴스 본문 끝의 외부 링크 — 본문 아래 줄에 강조 버튼으로 */
+.news-links{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+.news-links a{
+  display:inline-flex;align-items:center;padding:7px 16px;border-radius:999px;
+  background:var(--accent);color:#fff;font-size:.88rem;font-weight:600;line-height:1.4;
+  transition:background .2s,transform .2s;
+}
+.news-links a:hover{background:var(--accent-dim);transform:translateY(-1px)}
 
 
 /* ---------- footer ---------- */
