@@ -15,7 +15,7 @@
       });
     })();
   </script>
-  {% if page.scene %}<script type="module" src="{{ '/assets/js/lab-visuals.js' | relative_url }}"></script>{% endif %}
+  {% if page.scene %}<script type="module" src="{{ '/assets/js/lab-visuals.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>{% endif %}
   <script>
     /* 무음 반복 영상: 화면에 보일 때만 재생, 모션 줄이기 설정이면 포스터만 */
     (function () {
@@ -30,6 +30,6 @@
       vids.forEach(function (v) { io.observe(v); });
     })();
   </script>
-  <script src="{{ '/assets/js/news-slider.js' | relative_url }}" defer></script>
+  <script src="{{ '/assets/js/news-slider.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>
 </body>
 </html>
