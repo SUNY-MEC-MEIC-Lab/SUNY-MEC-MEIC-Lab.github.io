@@ -30,7 +30,7 @@ The MEIC Lab aims to establish an AI-embodied engineering intelligence framework
     </div>
   </a>
   <a class="card tech-card group-card" href="{{ '/research/pdi-multimodal/' | relative_url }}">
-    <div class="tech-thumb">{% include loop-video.html name="plant-3dgs" alt="3D reconstruction of industrial plant equipment" %}</div>
+    <div class="tech-thumb">{% include loop-video.html name="xr-teleoperation" alt="Remote inspector operating in a 3D reconstructed site through XR" %}</div>
     <div class="group-body">
     <h3 style="margin:0 0 10px">Physics-Digital Interaction &amp; Multimodal AI Group</h3>
     <p class="muted" style="margin:0;font-size:.92rem">We develop multimodal fusion pipelines integrating AR, LiDAR, and inertial sensing data, alongside a Distributed Collaborative Remote Diagnostics Metaverse (DCRM) platform. These technologies enable real-time alignment of large-scale physical site dynamics with virtual environments, supporting immersive remote monitoring and collaborative decision-making.</p>
@@ -38,7 +38,7 @@ The MEIC Lab aims to establish an AI-embodied engineering intelligence framework
     </div>
   </a>
   <a class="card tech-card group-card" href="{{ '/research/pia-embodied/' | relative_url }}">
-    <div class="tech-thumb">{% include loop-video.html name="vehicle-3dgs" alt="3D reconstruction of an electric vehicle" %}</div>
+    <div class="tech-thumb"><img src="{{ '/assets/video/loops/vsdk-pendulum.webp' | relative_url }}" alt="Physics-informed simulation of undamped and damped double pendulums" loading="lazy"></div>
     <div class="group-body">
     <h3 style="margin:0 0 10px">Physics-Informed Actuation &amp; Embodied AI Group</h3>
     <p class="muted" style="margin:0;font-size:.92rem">We advance goal-oriented predictive intelligence based on physics-informed AI. By embedding physical laws directly into neural networks through EV-PINN and PINO architectures, we enable accurate inference of complex physical behaviors and system states even under limited data conditions, supporting adaptive virtual sensing capabilities.   Furthermore, by integrating the vision-based robotic control platform R-Zoom with learned models, we develop embodied AI systems in which hardware autonomously adapts to unforeseen real-world variations that were not captured in simulation, enabling robust operation beyond pre-defined control regimes.</p>
