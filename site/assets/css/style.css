@@ -646,6 +646,11 @@ html.theme-light .theme-toggle .icon-moon{display:none}
 .tech-thumb{aspect-ratio:16/8;overflow:hidden;background:#fff;border-bottom:1px solid var(--line)}
 .tech-thumb img{width:100%;height:100%;object-fit:cover;background:#fff;transition:transform .35s}
 .tech-card:hover .tech-thumb img{transform:scale(1.045)}
+.tech-thumb .loop-video{width:100%;height:100%;object-fit:cover;display:block;background:#000;transition:transform .35s}
+.tech-card:hover .tech-thumb .loop-video{transform:scale(1.045)}
+.tech-thumb:has(.loop-video){background:#000}
+.group-card{padding:0;overflow:hidden}
+.group-body{padding:24px}
 .tech-body{padding:18px 22px 20px}
 .tech-body h3{margin:0 0 8px}
 .tech-body p{margin:0}

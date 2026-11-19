@@ -16,5 +16,19 @@
     })();
   </script>
   {% if page.scene %}<script type="module" src="{{ '/assets/js/lab-visuals.js' | relative_url }}"></script>{% endif %}
+  <script>
+    /* 무음 반복 영상: 화면에 보일 때만 재생, 모션 줄이기 설정이면 포스터만 */
+    (function () {
+      var vids = document.querySelectorAll('video.loop-video');
+      if (!vids.length || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+      if (!('IntersectionObserver' in window)) { vids.forEach(function (v) { v.play().catch(function(){}); }); return; }
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) { e.target.play().catch(function(){}); } else { e.target.pause(); }
+        });
+      }, { rootMargin: '120px 0px', threshold: 0.15 });
+      vids.forEach(function (v) { io.observe(v); });
+    })();
+  </script>
 </body>
 </html>

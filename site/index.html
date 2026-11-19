@@ -93,28 +93,28 @@ title: Home
     <div class="section-label">Representative Technologies</div>
     <div class="grid grid-2x2">
       <a class="card tech-card" href="{{ '/research/neural-rendering/' | relative_url }}">
-        <div class="tech-thumb"><img src="{{ '/assets/research/neural-rendering/microsplatting2.webp' | relative_url }}" alt="Micro-Splatting 3D Gaussian Splatting" loading="lazy"></div>
+        <div class="tech-thumb">{% include loop-video.html name="campus-3dgs" alt="3D Gaussian Splatting reconstruction of a campus" %}</div>
         <div class="tech-body">
           <h3>Hyper-realistic Digital Twin</h3>
           <p class="muted">Micro-Splatting · LiDAR-3DGS — visual intelligence based digital twin modeling and rendering</p>
         </div>
       </a>
       <a class="card tech-card" href="{{ '/research/pdi-multimodal/' | relative_url }}">
-        <div class="tech-thumb"><img src="{{ '/assets/research/pdi-multimodal/HBC_Pic6.webp' | relative_url }}" alt="XR remote collaboration" loading="lazy"></div>
+        <div class="tech-thumb">{% include loop-video.html name="plant-3dgs" alt="3D reconstruction of industrial plant equipment for remote inspection" %}</div>
         <div class="tech-body">
           <h3>Remote Sensing &amp; Teleoperation</h3>
           <p class="muted">DCRM metaverse · MR/VR — human-machine collaboration via metaverse and teleoperation</p>
         </div>
       </a>
       <a class="card tech-card" href="{{ '/research/pia-embodied/' | relative_url }}">
-        <div class="tech-thumb"><img src="{{ '/assets/research/pia-embodied/evpinn1.webp' | relative_url }}" alt="EV-PINN architecture" loading="lazy"></div>
+        <div class="tech-thumb">{% include loop-video.html name="vehicle-3dgs" alt="3D reconstruction of an electric vehicle" %}</div>
         <div class="tech-body">
           <h3>Virtual Sensing SDK</h3>
           <p class="muted">EV-PINN · PINO — virtual sensing based SDK system for future vehicles</p>
         </div>
       </a>
       <a class="card tech-card" href="{{ '/research/pdi-multimodal/' | relative_url }}">
-        <div class="tech-thumb"><img src="{{ '/assets/research/pdi-multimodal/HBC_Pic2.webp' | relative_url }}" alt="LiDAR-RGB sensing" loading="lazy"></div>
+        <div class="tech-thumb">{% include loop-video.html name="interior-pointcloud" alt="Point-cloud reconstruction of an indoor space" %}</div>
         <div class="tech-body">
           <h3>3D Recognition</h3>
           <p class="muted">LiDAR-RGB fusion · SLAM — homogeneous / heterogeneous vision sensing and 3D recognition</p>

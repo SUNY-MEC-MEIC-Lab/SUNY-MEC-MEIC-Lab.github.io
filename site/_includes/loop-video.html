@@ -1,0 +1,6 @@
+{%- comment -%} 화면에 보일 때만 재생되는 무음 반복 영상. include.name = assets/video/loops/<name>.mp4/.webp {%- endcomment -%}
+<video class="loop-video" muted loop playsinline preload="none" disablepictureinpicture
+       poster="{{ '/assets/video/loops/' | append: include.name | append: '.webp' | relative_url }}"
+       aria-label="{{ include.alt }}">
+  <source src="{{ '/assets/video/loops/' | append: include.name | append: '.mp4' | relative_url }}" type="video/mp4">
+</video>

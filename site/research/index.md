@@ -21,20 +21,29 @@ The MEIC Lab aims to establish an AI-embodied engineering intelligence framework
 <div class="section-label">Representative Technologies</div>
 
 <div class="grid grid-2">
-  <a class="card" style="padding:24px;display:block" href="{{ '/research/neural-rendering/' | relative_url }}">
+  <a class="card tech-card group-card" href="{{ '/research/neural-rendering/' | relative_url }}">
+    <div class="tech-thumb">{% include loop-video.html name="campus-3dgs" alt="3D Gaussian Splatting reconstruction of a campus" %}</div>
+    <div class="group-body">
     <h3 style="margin:0 0 10px">Neural Rendering &amp; Spatial AI Group</h3>
     <p class="muted" style="margin:0;font-size:.92rem">Through our proprietary Micro-Splatting and LiDAR-3DGS pipelines, we enable photorealistic digitization of large-scale facilities and develop perception-driven digital twin frameworks capable of interpreting sensor data in real time. Our work advances spatial AI systems that bridge high-fidelity 3D reconstruction with intelligent environmental understanding.</p>
     <p style="margin:14px 0 0;color:var(--accent);font-size:.85rem">자세히 보기 →</p>
+    </div>
   </a>
-  <a class="card" style="padding:24px;display:block" href="{{ '/research/pdi-multimodal/' | relative_url }}">
+  <a class="card tech-card group-card" href="{{ '/research/pdi-multimodal/' | relative_url }}">
+    <div class="tech-thumb">{% include loop-video.html name="plant-3dgs" alt="3D reconstruction of industrial plant equipment" %}</div>
+    <div class="group-body">
     <h3 style="margin:0 0 10px">Physics-Digital Interaction &amp; Multimodal AI Group</h3>
     <p class="muted" style="margin:0;font-size:.92rem">We develop multimodal fusion pipelines integrating AR, LiDAR, and inertial sensing data, alongside a Distributed Collaborative Remote Diagnostics Metaverse (DCRM) platform. These technologies enable real-time alignment of large-scale physical site dynamics with virtual environments, supporting immersive remote monitoring and collaborative decision-making.</p>
     <p style="margin:14px 0 0;color:var(--accent);font-size:.85rem">자세히 보기 →</p>
+    </div>
   </a>
-  <a class="card" style="padding:24px;display:block" href="{{ '/research/pia-embodied/' | relative_url }}">
+  <a class="card tech-card group-card" href="{{ '/research/pia-embodied/' | relative_url }}">
+    <div class="tech-thumb">{% include loop-video.html name="vehicle-3dgs" alt="3D reconstruction of an electric vehicle" %}</div>
+    <div class="group-body">
     <h3 style="margin:0 0 10px">Physics-Informed Actuation &amp; Embodied AI Group</h3>
     <p class="muted" style="margin:0;font-size:.92rem">We advance goal-oriented predictive intelligence based on physics-informed AI. By embedding physical laws directly into neural networks through EV-PINN and PINO architectures, we enable accurate inference of complex physical behaviors and system states even under limited data conditions, supporting adaptive virtual sensing capabilities.   Furthermore, by integrating the vision-based robotic control platform R-Zoom with learned models, we develop embodied AI systems in which hardware autonomously adapts to unforeseen real-world variations that were not captured in simulation, enabling robust operation beyond pre-defined control regimes.</p>
     <p style="margin:14px 0 0;color:var(--accent);font-size:.85rem">자세히 보기 →</p>
+    </div>
   </a>
 </div>
 
