@@ -111,7 +111,8 @@ permalink: /people/professor/
         Stony Brook University
       </p>
       <p class="prof-links">
-        <a href="mailto:jongseong.choi@stonybrook.edu">jongseong.choi@stonybrook.edu</a>
+        <a href="mailto:jongseong.choi@stonybrook.edu">jongseong.choi@stonybrook.edu</a><br>
+        <a href="mailto:jongseong.choi@sunykorea.ac.kr">jongseong.choi@sunykorea.ac.kr</a>
       </p>
       <p class="prof-actions">
         <a class="cta cta-outline" href="{{{{ '/assets/docs/Jongseong_Brad_Choi_CV.pdf' | relative_url }}}}" download>Download CV <span aria-hidden="true">&#8250;</span></a>

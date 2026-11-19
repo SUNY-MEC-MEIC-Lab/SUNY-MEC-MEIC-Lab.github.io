@@ -1,9 +1,14 @@
 <header class="site-header">
   <div class="wrap header-inner">
-    <a class="brand" href="{{ '/' | relative_url }}">
-      <span class="brand-mark">MEIC</span>
-      <span class="brand-sub">Laboratory</span>
-    </a>
+    <div class="brand-group">
+      <a class="partner-logo" href="https://www.meic.ai" target="_blank" rel="noopener" aria-label="MEIC AI (opens in a new tab)">
+        <img src="{{ '/assets/meic_ai_logo.webp' | relative_url }}" alt="MEIC AI" width="113" height="32">
+      </a>
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand-mark">MEIC</span>
+        <span class="brand-sub">Laboratory</span>
+      </a>
+    </div>
 
     <input type="checkbox" id="nav-toggle" class="nav-toggle">
 
