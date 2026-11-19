@@ -1,0 +1,22 @@
+{%- comment -%}
+  뉴스 사진 슬라이더. include.news = site.data.news 의 한 행, include.class = 추가 클래스(선택)
+  사진은 news.csv 의 Images 열(| 구분)을 그대로 쓴다 — 별도 사본 불필요. 동작은 assets/js/news-slider.js
+{%- endcomment -%}
+{%- assign n = include.news -%}
+  {% if n.Images != "" %}
+    {% assign imgs = n.Images | split: "|" %}
+    <div class="news-media{% if imgs.size > 1 %} has-many{% endif %}{% if include.class %} {{ include.class }}{% endif %}">
+      <div class="news-track">
+        {% for src in imgs %}
+        <a class="news-slide" href="{{ src | relative_url }}" target="_blank" rel="noopener">
+          <img src="{{ src | relative_url }}" alt="{{ n.Summary }}" loading="lazy">
+        </a>
+        {% endfor %}
+      </div>
+      {% if imgs.size > 1 %}
+      <button class="news-arrow prev" data-dir="-1" aria-label="이전">&#8249;</button>
+      <button class="news-arrow next" data-dir="1" aria-label="다음">&#8250;</button>
+      <span class="news-counter"><b>1</b>/{{ imgs.size }}</span>
+      {% endif %}
+    </div>
+  {% endif %}

@@ -317,6 +317,7 @@ p{margin:0 0 14px}
 
 /* ---------- news: 다중 사진 캐러셀 ---------- */
 .news-media{position:relative;flex:0 0 520px;border-radius:var(--radius);overflow:hidden;background:var(--surface-2)}
+@media (min-width:901px){.news-media.is-compact{flex-basis:400px}}   /* 홈 Latest News: 기존 대표사진 폭 유지 */
 .news-track{
   display:grid;grid-auto-flow:column;grid-auto-columns:100%;
   overflow-x:auto;scroll-snap-type:x mandatory;

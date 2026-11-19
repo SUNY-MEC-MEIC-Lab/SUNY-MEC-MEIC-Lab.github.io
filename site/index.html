@@ -133,7 +133,7 @@ title: Home
     {% assign recent = ext | slice: 0, 5 %}
     {% for n in recent %}
     <div class="news-item">
-      {% if n.Cover != "" %}<div class="news-cover"><img src="{{ n.Cover | relative_url }}" alt="{{ n.Summary }}" loading="lazy"></div>{% endif %}
+      {% include news-media.html news=n class="is-compact" %}
       <div class="news-body">
         <p class="news-date">{{ n.Date }}</p>
         <p class="news-title">{{ n.Summary }}</p>
