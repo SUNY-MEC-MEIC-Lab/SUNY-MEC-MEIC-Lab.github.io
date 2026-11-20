@@ -12,8 +12,9 @@ permalink: /publication/korean-conference/
 {% assign group = items | where: "Year", y %}
 {% for c in group %}
 <article class="pub">
+  {% include pub-thumb.html cls="pub-thumb" title=c.Title %}
   <div class="pub-body">
-    <p class="pub-title">{{ c.Title }}{% if c.Tags != "" %}<span class="badge review">{{ c.Tags }}</span>{% endif %}</p>
+    {% assign lk = site.data.paper_links | where: "Title", c.Title | first %}<p class="pub-title">{% if lk %}<a href="{{ lk.URL }}" target="_blank" rel="noopener">{{ c.Title }}</a>{% else %}{{ c.Title }}{% endif %}{% if c.Tags != "" %}<span class="badge review">{{ c.Tags }}</span>{% endif %}</p>
     <p class="pub-authors">{{ c.Authors }}</p>
     <p class="pub-venue">{{ c.Venue }}</p>
   </div>

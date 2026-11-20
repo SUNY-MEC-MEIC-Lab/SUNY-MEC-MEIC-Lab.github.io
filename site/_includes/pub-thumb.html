@@ -1,0 +1,15 @@
+{%- comment -%}
+  논문 썸네일. _data/paper_links.csv 에 제목이 있으면 썸네일(보통 논문 첫 페이지)을 누르면 그 링크(arXiv·IEEE 등)로 간다.
+  include.title = 논문 제목, include.thumb = 기존 썸네일(선택), include.ph = 썸네일이 없을 때 자리표시 HTML(선택),
+  include.cls = 감싸는 div 클래스 (pub-thumb / sel-thumb)
+{%- endcomment -%}
+{%- assign lk = site.data.paper_links | where: "Title", include.title | first -%}
+{%- assign src = include.thumb | default: "" -%}
+{%- if src == "" and lk and lk.Thumb != "" -%}{%- assign src = lk.Thumb -%}{%- endif -%}
+{%- if src != "" or include.ph -%}
+<div class="{{ include.cls }}{% if lk %} has-link{% endif %}">
+  {%- if lk %}<a href="{{ lk.URL }}" target="_blank" rel="noopener" title="{{ lk.Source }}">{% endif -%}
+  {%- if src != "" -%}<img src="{{ src | relative_url }}" alt="" loading="lazy">{%- else -%}{{ include.ph }}{%- endif -%}
+  {%- if lk %}<span class="link-tag{% if lk.Source == 'arXiv' %} is-arxiv{% endif %}">{{ lk.Source }}</span></a>{% endif -%}
+</div>
+{%- endif -%}

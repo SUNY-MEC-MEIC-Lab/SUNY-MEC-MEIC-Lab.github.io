@@ -122,6 +122,17 @@ p{margin:0 0 14px}
 .pub-thumb{flex:0 0 120px}
 .pub-thumb img{border:1px solid var(--line);border-radius:6px;background:#fff}
 .pub-body{flex:1;min-width:0}
+/* 온라인 판(arXiv·IEEE 등)이 있는 논문 — 썸네일(첫 페이지)을 누르면 그 링크로 (_data/paper_links.csv) */
+.has-link > a{position:relative;display:block;height:100%}
+.pub-thumb.has-link img{transition:border-color .2s,transform .2s}
+.pub-thumb.has-link a:hover img{border-color:var(--accent);transform:translateY(-2px)}
+.link-tag{
+  position:absolute;right:6px;bottom:6px;padding:1px 7px;border-radius:4px;
+  background:var(--accent-dim);color:#fff;font-size:.68rem;font-weight:600;letter-spacing:.02em;line-height:1.5;
+}
+.link-tag.is-arxiv{background:#b31b1b}
+.pub-title a{color:inherit}
+.pub-title a:hover{color:var(--accent)}
 .pub-title{font-weight:600;margin:0 0 8px;line-height:1.4;font-size:1.06rem;color:var(--text)}
 .pub-title a:hover{color:var(--accent)}
 .pub-authors{color:#c3c3cc;font-size:.9rem;margin:0 0 5px}
@@ -735,3 +746,6 @@ html.theme-light .theme-toggle .icon-moon{display:none}
   .contact-map iframe{height:280px}
   .footer-inner{flex-direction:column;gap:18px}
 }
+
+/* 논문 첫 페이지(arXiv) 이미지를 뉴스 사진으로 쓸 때는 제목·저자가 보이도록 위쪽을 기준으로 자른다 */
+.news-slide img[src*="/assets/arxiv/"]{object-position:top;background:#fff}

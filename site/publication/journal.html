@@ -10,12 +10,9 @@ permalink: /publication/journal/
 <div class="sel-grid">
   {% for a in featured %}
   <article class="sel-card">
-    <div class="sel-thumb">
-      {% if a.Thumbnail != "" %}<img src="{{ a.Thumbnail | relative_url }}" alt="" loading="lazy">
-      {% else %}{% assign parts = a.Venue | split: "," %}
-        <div class="pub-thumb-ph"><span class="ph-pub">{{ parts.last | strip }}</span><span class="ph-year">{{ a.Year }}</span></div>
-      {% endif %}
-    </div>
+    {% assign parts = a.Venue | split: "," %}
+    {% capture ph %}<div class="pub-thumb-ph"><span class="ph-pub">{{ parts.last | strip }}</span><span class="ph-year">{{ a.Year }}</span></div>{% endcapture %}
+    {% include pub-thumb.html cls="sel-thumb" title=a.Title thumb=a.Thumbnail ph=ph %}
     <div class="sel-body">
       <p class="sel-meta">{{ a.Year }}{% if a.Impact != "" %}<span class="sel-if">{{ a.Impact }}</span>{% endif %}</p>
       <p class="sel-title">
@@ -35,17 +32,9 @@ permalink: /publication/journal/
 {% assign items = site.data.journals | where: "Year", y %}
 {% for a in items %}
 <article class="pub">
-  <div class="pub-thumb">
-    {% if a.Thumbnail != "" %}
-      <img src="{{ a.Thumbnail | relative_url }}" alt="" loading="lazy">
-    {% else %}
-      {% assign parts = a.Venue | split: "," %}
-      <div class="pub-thumb-ph">
-        <span class="ph-pub">{{ parts.last | strip | default: "Journal" }}</span>
-        <span class="ph-year">{{ a.Year }}</span>
-      </div>
-    {% endif %}
-  </div>
+  {% assign parts = a.Venue | split: "," %}
+  {% capture ph %}<div class="pub-thumb-ph"><span class="ph-pub">{{ parts.last | strip | default: "Journal" }}</span><span class="ph-year">{{ a.Year }}</span></div>{% endcapture %}
+  {% include pub-thumb.html cls="pub-thumb" title=a.Title thumb=a.Thumbnail ph=ph %}
   <div class="pub-body">
     <p class="pub-title">
       {% if a.URL != "" %}<a href="{{ a.URL }}" target="_blank" rel="noopener">{{ a.Title }}</a>{% else %}{{ a.Title }}{% endif %}
